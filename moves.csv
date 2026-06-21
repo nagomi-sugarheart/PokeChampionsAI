@@ -1,0 +1,920 @@
+﻿id,name_ja,name_en,type_ja,category_ja,power,accuracy,pp,priority,generation,effect_en,contact,punch,sound,bullet,pulse,slicing,wind,bite,powder,heal,protect,reflectable,mirror
+1,はたく,pound,ノーマル,ぶつり,40,100,35,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+2,からてチョップ,karate-chop,かくとう,ぶつり,50,100,25,0,第一世代,Has an increased chance for a critical hit.,1,0,0,0,0,0,0,0,0,0,1,0,1
+3,おうふくビンタ,double-slap,ノーマル,ぶつり,15,85,10,0,第一世代,Hits 2-5 times in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+4,れんぞくパンチ,comet-punch,ノーマル,ぶつり,18,85,15,0,第一世代,Hits 2-5 times in one turn.,1,1,0,0,0,0,0,0,0,0,1,0,1
+5,メガトンパンチ,mega-punch,ノーマル,ぶつり,80,85,20,0,第一世代,Inflicts regular damage with no additional effect.,1,1,0,0,0,0,0,0,0,0,1,0,1
+6,ネコにこばん,pay-day,ノーマル,ぶつり,40,100,20,0,第一世代,Scatters money on the ground worth five times the user’s level.,0,0,0,0,0,0,0,0,0,0,1,0,1
+7,ほのおのパンチ,fire-punch,ほのお,ぶつり,75,100,15,0,第一世代,Has a chance to burn the target.,1,1,0,0,0,0,0,0,0,0,1,0,1
+8,れいとうパンチ,ice-punch,こおり,ぶつり,75,100,15,0,第一世代,Has a chance to freeze the target.,1,1,0,0,0,0,0,0,0,0,1,0,1
+9,かみなりパンチ,thunder-punch,でんき,ぶつり,75,100,15,0,第一世代,Has a chance to paralyze the target.,1,1,0,0,0,0,0,0,0,0,1,0,1
+10,ひっかく,scratch,ノーマル,ぶつり,40,100,35,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+11,はさむ,vice-grip,ノーマル,ぶつり,55,100,30,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+12,ハサミギロチン,guillotine,ノーマル,ぶつり,,30,5,0,第一世代,Causes a one-hit KO.,1,0,0,0,0,0,0,0,0,0,1,0,1
+13,かまいたち,razor-wind,ノーマル,とくしゅ,80,100,10,0,第一世代,Requires a turn to charge before attacking.,0,0,0,0,0,0,0,0,0,0,1,0,1
+14,つるぎのまい,swords-dance,ノーマル,へんか,,,20,0,第一世代,Raises the user’s Attack by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,いあいぎり,cut,ノーマル,ぶつり,50,95,30,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,1,0,0,0,0,1,0,1
+16,かぜおこし,gust,ひこう,とくしゅ,40,100,35,0,第一世代,Inflicts regular damage and can hit Pokémon in the air.,0,0,0,0,0,0,1,0,0,0,1,0,1
+17,つばさでうつ,wing-attack,ひこう,ぶつり,60,100,35,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+18,ふきとばし,whirlwind,ノーマル,へんか,,,20,-6,第一世代,Immediately ends wild battles.  Forces trainers to switch Pokémon.,0,0,0,0,0,0,1,0,0,0,0,1,1
+19,そらをとぶ,fly,ひこう,ぶつり,90,95,15,0,第一世代,"User flies high into the air, dodging all attacks, and hits next turn.",1,0,0,0,0,0,0,0,0,0,1,0,1
+20,しめつける,bind,ノーマル,ぶつり,15,85,20,0,第一世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,1,0,0,0,0,0,0,0,0,0,1,0,1
+21,たたきつける,slam,ノーマル,ぶつり,80,75,20,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+22,つるのムチ,vine-whip,くさ,ぶつり,45,100,25,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+23,ふみつけ,stomp,ノーマル,ぶつり,65,100,20,0,第一世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+24,にどげり,double-kick,かくとう,ぶつり,30,100,30,0,第一世代,Hits twice in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+25,メガトンキック,mega-kick,ノーマル,ぶつり,120,75,5,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+26,とびげり,jump-kick,かくとう,ぶつり,100,95,10,0,第一世代,"If the user misses, it takes half the damage it would have inflicted in recoil.",1,0,0,0,0,0,0,0,0,0,1,0,1
+27,まわしげり,rolling-kick,かくとう,ぶつり,60,85,15,0,第一世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+28,すなかけ,sand-attack,じめん,へんか,,100,15,0,第一世代,Lowers the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+29,ずつき,headbutt,ノーマル,ぶつり,70,100,15,0,第一世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+30,つのでつく,horn-attack,ノーマル,ぶつり,65,100,25,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+31,みだれづき,fury-attack,ノーマル,ぶつり,15,85,20,0,第一世代,Hits 2-5 times in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+32,つのドリル,horn-drill,ノーマル,ぶつり,,30,5,0,第一世代,Causes a one-hit KO.,1,0,0,0,0,0,0,0,0,0,1,0,1
+33,たいあたり,tackle,ノーマル,ぶつり,40,100,35,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+34,のしかかり,body-slam,ノーマル,ぶつり,85,100,15,0,第一世代,Has a chance to paralyze the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+35,まきつく,wrap,ノーマル,ぶつり,15,90,20,0,第一世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,1,0,0,0,0,0,0,0,0,0,1,0,1
+36,とっしん,take-down,ノーマル,ぶつり,90,85,20,0,第一世代,User receives 1/4 the damage it inflicts in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+37,あばれる,thrash,ノーマル,ぶつり,120,100,10,0,第一世代,"Hits every turn for 2-3 turns, then confuses the user.",1,0,0,0,0,0,0,0,0,0,1,0,1
+38,すてみタックル,double-edge,ノーマル,ぶつり,120,100,15,0,第一世代,User receives 1/3 the damage inflicted in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+39,しっぽをふる,tail-whip,ノーマル,へんか,,100,30,0,第一世代,Lowers the target’s Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+40,どくばり,poison-sting,どく,ぶつり,15,100,35,0,第一世代,Has a chance to poison the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+41,ダブルニードル,twineedle,むし,ぶつり,25,100,20,0,第一世代,Hits twice in the same turn.  Has a chance to poison the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+42,ミサイルばり,pin-missile,むし,ぶつり,25,95,20,0,第一世代,Hits 2-5 times in one turn.,0,0,0,0,0,0,0,0,0,0,1,0,1
+43,にらみつける,leer,ノーマル,へんか,,100,30,0,第一世代,Lowers the target’s Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+44,かみつく,bite,あく,ぶつり,60,100,25,0,第一世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,1,0,0,1,0,1
+45,なきごえ,growl,ノーマル,へんか,,100,40,0,第一世代,Lowers the target’s Attack by one stage.,0,0,1,0,0,0,0,0,0,0,1,1,1
+46,ほえる,roar,ノーマル,へんか,,,20,-6,第一世代,Immediately ends wild battles.  Forces trainers to switch Pokémon.,0,0,1,0,0,0,0,0,0,0,0,1,1
+47,うたう,sing,ノーマル,へんか,,55,15,0,第一世代,Puts the target to sleep.,0,0,1,0,0,0,0,0,0,0,1,1,1
+48,ちょうおんぱ,supersonic,ノーマル,へんか,,55,20,0,第一世代,Confuses the target.,0,0,1,0,0,0,0,0,0,0,1,1,1
+49,ソニックブーム,sonic-boom,ノーマル,とくしゅ,,90,20,0,第一世代,Inflicts 20 points of damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+50,かなしばり,disable,ノーマル,へんか,,100,20,0,第一世代,Disables the target’s last used move for 1-8 turns.,0,0,0,0,0,0,0,0,0,0,1,1,1
+51,ようかいえき,acid,どく,とくしゅ,40,100,30,0,第一世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+52,ひのこ,ember,ほのお,とくしゅ,40,100,25,0,第一世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+53,かえんほうしゃ,flamethrower,ほのお,とくしゅ,90,100,15,0,第一世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+54,しろいきり,mist,こおり,へんか,,,30,0,第一世代,Protects the user’s stats from being changed by enemy moves.,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,みずでっぽう,water-gun,みず,とくしゅ,40,100,25,0,第一世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+56,ハイドロポンプ,hydro-pump,みず,とくしゅ,110,80,5,0,第一世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+57,なみのり,surf,みず,とくしゅ,90,100,15,0,第一世代,Inflicts regular damage and can hit Dive users.,0,0,0,0,0,0,0,0,0,0,1,0,1
+58,れいとうビーム,ice-beam,こおり,とくしゅ,90,100,10,0,第一世代,Has a chance to freeze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+59,ふぶき,blizzard,こおり,とくしゅ,110,70,5,0,第一世代,Has a chance to freeze the target.,0,0,0,0,0,0,1,0,0,0,1,0,1
+60,サイケこうせん,psybeam,エスパー,とくしゅ,65,100,20,0,第一世代,Has a chance to confuse the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+61,バブルこうせん,bubble-beam,みず,とくしゅ,65,100,20,0,第一世代,Has a chance to lower the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+62,オーロラビーム,aurora-beam,こおり,とくしゅ,65,100,20,0,第一世代,Has a chance to lower the target’s Attack by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+63,はかいこうせん,hyper-beam,ノーマル,とくしゅ,150,90,5,0,第一世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+64,つつく,peck,ひこう,ぶつり,35,100,35,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+65,ドリルくちばし,drill-peck,ひこう,ぶつり,80,100,20,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+66,じごくぐるま,submission,かくとう,ぶつり,80,80,20,0,第一世代,User receives 1/4 the damage it inflicts in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+67,けたぐり,low-kick,かくとう,ぶつり,,100,20,0,第一世代,"Inflicts more damage to heavier targets, with a maximum of 120 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+68,カウンター,counter,かくとう,ぶつり,,100,20,-5,第一世代,Inflicts twice the damage the user received from the last physical hit it took.,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,ちきゅうなげ,seismic-toss,かくとう,ぶつり,,100,20,0,第一世代,Inflicts damage equal to the user’s level.,1,0,0,0,0,0,0,0,0,0,1,0,1
+70,かいりき,strength,ノーマル,ぶつり,80,100,15,0,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+71,すいとる,absorb,くさ,とくしゅ,20,100,25,0,第一世代,Drains half the damage inflicted to heal the user.,0,0,0,0,0,0,0,0,0,1,1,0,1
+72,メガドレイン,mega-drain,くさ,とくしゅ,40,100,15,0,第一世代,Drains half the damage inflicted to heal the user.,0,0,0,0,0,0,0,0,0,1,1,0,1
+73,やどりぎのタネ,leech-seed,くさ,へんか,,90,10,0,第一世代,"Seeds the target, stealing HP from it every turn.",0,0,0,0,0,0,0,0,0,0,1,1,1
+74,せいちょう,growth,ノーマル,へんか,,,20,0,第一世代,Raises the user’s Attack and Special Attack by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,はっぱカッター,razor-leaf,くさ,ぶつり,55,95,25,0,第一世代,Has an increased chance for a critical hit.,0,0,0,0,0,1,0,0,0,0,1,0,1
+76,ソーラービーム,solar-beam,くさ,とくしゅ,120,100,10,0,第一世代,Requires a turn to charge before attacking.,0,0,0,0,0,0,0,0,0,0,1,0,1
+77,どくのこな,poison-powder,どく,へんか,,75,35,0,第一世代,Poisons the target.,0,0,0,0,0,0,0,0,1,0,1,1,1
+78,しびれごな,stun-spore,くさ,へんか,,75,30,0,第一世代,Paralyzes the target.,0,0,0,0,0,0,0,0,1,0,1,1,1
+79,ねむりごな,sleep-powder,くさ,へんか,,75,15,0,第一世代,Puts the target to sleep.,0,0,0,0,0,0,0,0,1,0,1,1,1
+80,はなびらのまい,petal-dance,くさ,とくしゅ,120,100,10,0,第一世代,"Hits every turn for 2-3 turns, then confuses the user.",1,0,0,0,0,0,0,0,0,0,1,0,1
+81,いとをはく,string-shot,むし,へんか,,95,40,0,第一世代,Lowers the target’s Speed by two stages.,0,0,0,0,0,0,0,0,0,0,1,1,1
+82,りゅうのいかり,dragon-rage,ドラゴン,とくしゅ,,100,10,0,第一世代,Inflicts 40 points of damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+83,ほのおのうず,fire-spin,ほのお,とくしゅ,35,85,15,0,第一世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,0,0,0,0,0,0,0,0,0,0,1,0,1
+84,でんきショック,thunder-shock,でんき,とくしゅ,40,100,30,0,第一世代,Has a chance to paralyze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+85,10まんボルト,thunderbolt,でんき,とくしゅ,90,100,15,0,第一世代,Has a chance to paralyze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+86,でんじは,thunder-wave,でんき,へんか,,90,20,0,第一世代,Paralyzes the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+87,かみなり,thunder,でんき,とくしゅ,110,70,10,0,第一世代,Has a chance to paralyze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+88,いわおとし,rock-throw,いわ,ぶつり,50,90,15,0,第一世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+89,じしん,earthquake,じめん,ぶつり,100,100,10,0,第一世代,Inflicts regular damage and can hit Dig users.,0,0,0,0,0,0,0,0,0,0,1,0,1
+90,じわれ,fissure,じめん,ぶつり,,30,5,0,第一世代,Causes a one-hit KO.,0,0,0,0,0,0,0,0,0,0,1,0,1
+91,あなをほる,dig,じめん,ぶつり,80,100,10,0,第一世代,"User digs underground, dodging all attacks, and hits next turn.",1,0,0,0,0,0,0,0,0,0,1,0,1
+92,どくどく,toxic,どく,へんか,,90,10,0,第一世代,"Badly poisons the target, inflicting more damage every turn.",0,0,0,0,0,0,0,0,0,0,1,1,1
+93,ねんりき,confusion,エスパー,とくしゅ,50,100,25,0,第一世代,Has a chance to confuse the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+94,サイコキネシス,psychic,エスパー,とくしゅ,90,100,10,0,第一世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+95,さいみんじゅつ,hypnosis,エスパー,へんか,,60,20,0,第一世代,Puts the target to sleep.,0,0,0,0,0,0,0,0,0,0,1,1,1
+96,ヨガのポーズ,meditate,エスパー,へんか,,,40,0,第一世代,Raises the user’s Attack by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,こうそくいどう,agility,エスパー,へんか,,,30,0,第一世代,Raises the user’s Speed by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,でんこうせっか,quick-attack,ノーマル,ぶつり,40,100,30,1,第一世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+99,いかり,rage,ノーマル,ぶつり,20,100,20,0,第一世代,"If the user is hit after using this move, its Attack rises by one stage.",1,0,0,0,0,0,0,0,0,0,1,0,1
+100,テレポート,teleport,エスパー,へんか,,,20,-6,第一世代,Immediately ends wild battles.  No effect otherwise.,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,ナイトヘッド,night-shade,ゴースト,とくしゅ,,100,15,0,第一世代,Inflicts damage equal to the user’s level.,0,0,0,0,0,0,0,0,0,0,1,0,1
+102,ものまね,mimic,ノーマル,へんか,,,10,0,第一世代,Copies the target’s last used move.,0,0,0,0,0,0,0,0,0,0,1,0,0
+103,いやなおと,screech,ノーマル,へんか,,85,40,0,第一世代,Lowers the target’s Defense by two stages.,0,0,1,0,0,0,0,0,0,0,1,1,1
+104,かげぶんしん,double-team,ノーマル,へんか,,,15,0,第一世代,Raises the user’s evasion by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,じこさいせい,recover,ノーマル,へんか,,,5,0,第一世代,Heals the user by half its max HP.,0,0,0,0,0,0,0,0,0,1,0,0,0
+106,かたくなる,harden,ノーマル,へんか,,,30,0,第一世代,Raises the user’s Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,ちいさくなる,minimize,ノーマル,へんか,,,10,0,第一世代,Raises the user’s evasion by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,えんまく,smokescreen,ノーマル,へんか,,100,20,0,第一世代,Lowers the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+109,あやしいひかり,confuse-ray,ゴースト,へんか,,100,10,0,第一世代,Confuses the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+110,からにこもる,withdraw,みず,へんか,,,40,0,第一世代,Raises the user’s Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,まるくなる,defense-curl,ノーマル,へんか,,,40,0,第一世代,Raises user’s Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,バリアー,barrier,エスパー,へんか,,,20,0,第一世代,Raises the user’s Defense by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,ひかりのかべ,light-screen,エスパー,へんか,,,30,0,第一世代,Reduces damage from special attacks by 50% for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,くろいきり,haze,こおり,へんか,,,30,0,第一世代,"Resets all Pokémon’s stats, accuracy, and evasion.",0,0,0,0,0,0,0,0,0,0,0,0,0
+115,リフレクター,reflect,エスパー,へんか,,,20,0,第一世代,Reduces damage from physical attacks by half.,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,きあいだめ,focus-energy,ノーマル,へんか,,,30,0,第一世代,Increases the user’s chance to score a critical hit.,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,がまん,bide,ノーマル,ぶつり,,,10,1,第一世代,"User waits for two turns, then hits back for twice the damage it took.",1,0,0,0,0,0,0,0,0,0,1,0,0
+118,ゆびをふる,metronome,ノーマル,へんか,,,10,0,第一世代,Randomly selects and uses any move in the game.,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,オウムがえし,mirror-move,ひこう,へんか,,,20,0,第一世代,Uses the target’s last used move.,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,じばく,self-destruct,ノーマル,ぶつり,200,100,5,0,第一世代,User faints.,0,0,0,0,0,0,0,0,0,0,1,0,1
+121,タマゴばくだん,egg-bomb,ノーマル,ぶつり,100,75,10,0,第一世代,Inflicts regular damage with no additional effect.,0,0,0,1,0,0,0,0,0,0,1,0,1
+122,したでなめる,lick,ゴースト,ぶつり,30,100,30,0,第一世代,Has a chance to paralyze the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+123,スモッグ,smog,どく,とくしゅ,30,70,20,0,第一世代,Has a chance to poison the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+124,ヘドロこうげき,sludge,どく,とくしゅ,65,100,20,0,第一世代,Has a chance to poison the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+125,ホネこんぼう,bone-club,じめん,ぶつり,65,85,20,0,第一世代,Has a chance to make the target flinch.,0,0,0,0,0,0,0,0,0,0,1,0,1
+126,だいもんじ,fire-blast,ほのお,とくしゅ,110,85,5,0,第一世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+127,たきのぼり,waterfall,みず,ぶつり,80,100,15,0,第一世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+128,からではさむ,clamp,みず,ぶつり,35,85,15,0,第一世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,1,0,0,0,0,0,0,0,0,0,1,0,1
+129,スピードスター,swift,ノーマル,とくしゅ,60,,20,0,第一世代,Never misses.,0,0,0,0,0,0,0,0,0,0,1,0,1
+130,ロケットずつき,skull-bash,ノーマル,ぶつり,130,100,10,0,第一世代,Raises the user’s Defense by one stage.  User charges for one turn before attacking.,1,0,0,0,0,0,0,0,0,0,1,0,1
+131,とげキャノン,spike-cannon,ノーマル,ぶつり,20,100,15,0,第一世代,Hits 2-5 times in one turn.,0,0,0,0,0,0,0,0,0,0,1,0,1
+132,からみつく,constrict,ノーマル,ぶつり,10,100,35,0,第一世代,Has a chance to lower the target’s Speed by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+133,ドわすれ,amnesia,エスパー,へんか,,,20,0,第一世代,Raises the user’s Special Defense by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,スプーンまげ,kinesis,エスパー,へんか,,80,15,0,第一世代,Lowers the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+135,タマゴうみ,soft-boiled,ノーマル,へんか,,,5,0,第一世代,Heals the user by half its max HP.,0,0,0,0,0,0,0,0,0,1,0,0,0
+136,とびひざげり,high-jump-kick,かくとう,ぶつり,130,90,10,0,第一世代,"If the user misses, it takes half the damage it would have inflicted in recoil.",1,0,0,0,0,0,0,0,0,0,1,0,1
+137,へびにらみ,glare,ノーマル,へんか,,100,30,0,第一世代,Paralyzes the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+138,ゆめくい,dream-eater,エスパー,とくしゅ,100,100,15,0,第一世代,Only works on sleeping Pokémon.  Drains half the damage inflicted to heal the user.,0,0,0,0,0,0,0,0,0,1,1,0,1
+139,どくガス,poison-gas,どく,へんか,,90,40,0,第一世代,Poisons the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+140,たまなげ,barrage,ノーマル,ぶつり,15,85,20,0,第一世代,Hits 2-5 times in one turn.,0,0,0,1,0,0,0,0,0,0,1,0,1
+141,きゅうけつ,leech-life,むし,ぶつり,80,100,10,0,第一世代,Drains half the damage inflicted to heal the user.,1,0,0,0,0,0,0,0,0,1,1,0,1
+142,あくまのキッス,lovely-kiss,ノーマル,へんか,,75,10,0,第一世代,Puts the target to sleep.,0,0,0,0,0,0,0,0,0,0,1,1,1
+143,ゴッドバード,sky-attack,ひこう,ぶつり,140,90,5,0,第一世代,User charges for one turn before attacking.  Has a chance to make the target flinch.,0,0,0,0,0,0,0,0,0,0,1,0,1
+144,へんしん,transform,ノーマル,へんか,,,10,0,第一世代,User becomes a copy of the target until it leaves battle.,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,あわ,bubble,みず,とくしゅ,40,100,30,0,第一世代,Has a chance to lower the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+146,ピヨピヨパンチ,dizzy-punch,ノーマル,ぶつり,70,100,10,0,第一世代,Has a chance to confuse the target.,1,1,0,0,0,0,0,0,0,0,1,0,1
+147,キノコのほうし,spore,くさ,へんか,,100,15,0,第一世代,Puts the target to sleep.,0,0,0,0,0,0,0,0,1,0,1,1,1
+148,フラッシュ,flash,ノーマル,へんか,,100,20,0,第一世代,Lowers the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+149,サイコウェーブ,psywave,エスパー,とくしゅ,,100,15,0,第一世代,Inflicts damage between 50% and 150% of the user’s level.,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,はねる,splash,ノーマル,へんか,,,40,0,第一世代,Does nothing.,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,とける,acid-armor,どく,へんか,,,20,0,第一世代,Raises the user’s Defense by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,クラブハンマー,crabhammer,みず,ぶつり,100,90,10,0,第一世代,Has an increased chance for a critical hit.,1,0,0,0,0,0,0,0,0,0,1,0,1
+153,だいばくはつ,explosion,ノーマル,ぶつり,250,100,5,0,第一世代,User faints.,0,0,0,0,0,0,0,0,0,0,1,0,1
+154,みだれひっかき,fury-swipes,ノーマル,ぶつり,18,80,15,0,第一世代,Hits 2-5 times in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+155,ホネブーメラン,bonemerang,じめん,ぶつり,50,90,10,0,第一世代,Hits twice in one turn.,0,0,0,0,0,0,0,0,0,0,1,0,1
+156,ねむる,rest,エスパー,へんか,,,5,0,第一世代,"User sleeps for two turns, completely healing itself.",0,0,0,0,0,0,0,0,0,1,0,0,0
+157,いわなだれ,rock-slide,いわ,ぶつり,75,90,10,0,第一世代,Has a chance to make the target flinch.,0,0,0,0,0,0,0,0,0,0,1,0,1
+158,ひっさつまえば,hyper-fang,ノーマル,ぶつり,80,90,15,0,第一世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,1,0,0,1,0,1
+159,かくばる,sharpen,ノーマル,へんか,,,30,0,第一世代,Raises the user’s Attack by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,テクスチャー,conversion,ノーマル,へんか,,,30,0,第一世代,User’s type changes to the type of one of its moves at random.,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,トライアタック,tri-attack,ノーマル,とくしゅ,80,100,10,0,第一世代,"Has a chance to burn, freeze, or paralyze the target.",0,0,0,0,0,0,0,0,0,0,1,0,1
+162,いかりのまえば,super-fang,ノーマル,ぶつり,,90,10,0,第一世代,Inflicts damage equal to half the target’s HP.,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,きりさく,slash,ノーマル,ぶつり,70,100,20,0,第一世代,Has an increased chance for a critical hit.,1,0,0,0,0,1,0,0,0,0,1,0,1
+164,みがわり,substitute,ノーマル,へんか,,,10,0,第一世代,"Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks.",0,0,0,0,0,0,0,0,0,0,0,0,0
+165,わるあがき,struggle,ノーマル,ぶつり,50,,1,0,第一世代,User takes 1/4 its max HP in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,0
+166,スケッチ,sketch,ノーマル,へんか,,,1,0,第二世代,Permanently becomes the target’s last used move.,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,トリプルキック,triple-kick,かくとう,ぶつり,10,90,10,0,第二世代,"Hits three times, increasing power by 100% with each successful hit.",0,0,0,0,0,0,0,0,0,0,0,0,0
+168,どろぼう,thief,あく,ぶつり,60,100,25,0,第二世代,Takes the target’s item.,1,0,0,0,0,0,0,0,0,0,1,0,1
+169,クモのす,spider-web,むし,へんか,,,10,0,第二世代,Prevents the target from leaving battle.,0,0,0,0,0,0,0,0,0,0,1,1,1
+170,こころのめ,mind-reader,ノーマル,へんか,,,5,0,第二世代,Ensures that the user’s next move will hit the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+171,あくむ,nightmare,ゴースト,へんか,,100,15,0,第二世代,Target loses 1/4 its max HP every turn as long as it’s asleep.,0,0,0,0,0,0,0,0,0,0,1,0,1
+172,かえんぐるま,flame-wheel,ほのお,ぶつり,60,100,25,0,第二世代,Has a chance to burn the target.  Lets frozen Pokémon thaw themselves.,1,0,0,0,0,0,0,0,0,0,1,0,1
+173,いびき,snore,ノーマル,とくしゅ,50,100,15,0,第二世代,Has a chance to make the target flinch.  Only works if the user is sleeping.,0,0,1,0,0,0,0,0,0,0,1,0,1
+174,のろい,curse,ゴースト,へんか,,,10,0,第二世代,Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,じたばた,flail,ノーマル,ぶつり,,100,15,0,第二世代,"Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+176,テクスチャー2,conversion-2,ノーマル,へんか,,,30,0,第二世代,Changes the user’s type to a random type either resistant or immune to the last move used against it.,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,エアロブラスト,aeroblast,ひこう,とくしゅ,100,95,5,0,第二世代,Has an increased chance for a critical hit.,0,0,0,0,0,0,1,0,0,0,1,0,1
+178,わたほうし,cotton-spore,くさ,へんか,,100,40,0,第二世代,Lowers the target’s Speed by two stages.,0,0,0,0,0,0,0,0,1,0,1,1,1
+179,きしかいせい,reversal,かくとう,ぶつり,,100,15,0,第二世代,"Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+180,うらみ,spite,ゴースト,へんか,,100,10,0,第二世代,Lowers the PP of the target’s last used move by 4.,0,0,0,0,0,0,0,0,0,0,1,1,1
+181,こなゆき,powder-snow,こおり,とくしゅ,40,100,25,0,第二世代,Has a chance to freeze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+182,まもる,protect,ノーマル,へんか,,,10,4,第二世代,Prevents any moves from hitting the user this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,マッハパンチ,mach-punch,かくとう,ぶつり,40,100,30,1,第二世代,Inflicts regular damage with no additional effect.,1,1,0,0,0,0,0,0,0,0,1,0,1
+184,こわいかお,scary-face,ノーマル,へんか,,100,10,0,第二世代,Lowers the target’s Speed by two stages.,0,0,0,0,0,0,0,0,0,0,1,1,1
+185,だましうち,feint-attack,あく,ぶつり,60,,20,0,第二世代,Never misses.,1,0,0,0,0,0,0,0,0,0,1,0,1
+186,てんしのキッス,sweet-kiss,フェアリー,へんか,,75,10,0,第二世代,Confuses the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+187,はらだいこ,belly-drum,ノーマル,へんか,,,10,0,第二世代,User pays half its max HP to max out its Attack.,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,ヘドロばくだん,sludge-bomb,どく,とくしゅ,90,100,10,0,第二世代,Has a chance to poison the target.,0,0,0,1,0,0,0,0,0,0,1,0,1
+189,どろかけ,mud-slap,じめん,とくしゅ,20,100,10,0,第二世代,Has a chance to lower the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+190,オクタンほう,octazooka,みず,とくしゅ,65,85,10,0,第二世代,Has a chance to lower the target’s accuracy by one stage.,0,0,0,1,0,0,0,0,0,0,1,0,1
+191,まきびし,spikes,じめん,へんか,,,20,0,第二世代,"Scatters Spikes, hurting opposing Pokémon that switch in.",0,0,0,0,0,0,0,0,0,0,0,1,0
+192,でんじほう,zap-cannon,でんき,とくしゅ,120,50,5,0,第二世代,Has a chance to paralyze the target.,0,0,0,1,0,0,0,0,0,0,1,0,1
+193,みやぶる,foresight,ノーマル,へんか,,,40,0,第二世代,"Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost.",0,0,0,0,0,0,0,0,0,0,1,1,1
+194,みちづれ,destiny-bond,ゴースト,へんか,,,5,0,第二世代,"If the user faints this turn, the target automatically will, too.",0,0,0,0,0,0,0,0,0,0,0,0,0
+195,ほろびのうた,perish-song,ノーマル,へんか,,,5,0,第二世代,User and target both faint after three turns.,0,0,1,0,0,0,0,0,0,0,0,0,0
+196,こごえるかぜ,icy-wind,こおり,とくしゅ,55,95,15,0,第二世代,Has a chance to lower the target’s Speed by one stage.,0,0,0,0,0,0,1,0,0,0,1,0,1
+197,みきり,detect,かくとう,へんか,,,5,4,第二世代,Prevents any moves from hitting the user this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,ボーンラッシュ,bone-rush,じめん,ぶつり,25,90,10,0,第二世代,Hits 2-5 times in one turn.,0,0,0,0,0,0,0,0,0,0,1,0,1
+199,ロックオン,lock-on,ノーマル,へんか,,,5,0,第二世代,Ensures that the user’s next move will hit the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+200,げきりん,outrage,ドラゴン,ぶつり,120,100,10,0,第二世代,"Hits every turn for 2-3 turns, then confuses the user.",1,0,0,0,0,0,0,0,0,0,1,0,1
+201,すなあらし,sandstorm,いわ,へんか,,,10,0,第二世代,Changes the weather to a sandstorm for five turns.,0,0,0,0,0,0,1,0,0,0,0,0,0
+202,ギガドレイン,giga-drain,くさ,とくしゅ,75,100,10,0,第二世代,Drains half the damage inflicted to heal the user.,0,0,0,0,0,0,0,0,0,1,1,0,1
+203,こらえる,endure,ノーマル,へんか,,,10,4,第二世代,Prevents the user’s HP from lowering below 1 this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,あまえる,charm,フェアリー,へんか,,100,20,0,第二世代,Lowers the target’s Attack by two stages.,0,0,0,0,0,0,0,0,0,0,1,1,1
+205,ころがる,rollout,いわ,ぶつり,30,90,20,0,第二世代,"Power doubles every turn this move is used in succession after the first, resetting after five turns.",0,0,0,0,0,0,0,0,0,0,0,0,0
+206,みねうち,false-swipe,ノーマル,ぶつり,40,100,40,0,第二世代,Cannot lower the target’s HP below 1.,1,0,0,0,0,0,0,0,0,0,1,0,1
+207,いばる,swagger,ノーマル,へんか,,85,15,0,第二世代,Raises the target’s Attack by two stages and confuses the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+208,ミルクのみ,milk-drink,ノーマル,へんか,,,5,0,第二世代,Heals the user by half its max HP.,0,0,0,0,0,0,0,0,0,1,0,0,0
+209,スパーク,spark,でんき,ぶつり,65,100,20,0,第二世代,Has a chance to paralyze the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+210,れんぞくぎり,fury-cutter,むし,ぶつり,40,95,20,0,第二世代,"Power doubles every turn this move is used in succession after the first, maxing out after five turns.",0,0,0,0,0,0,0,0,0,0,0,0,0
+211,はがねのつばさ,steel-wing,はがね,ぶつり,70,90,25,0,第二世代,Has a chance to raise the user’s Defense by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+212,くろいまなざし,mean-look,ノーマル,へんか,,,5,0,第二世代,Prevents the target from leaving battle.,0,0,0,0,0,0,0,0,0,0,0,1,1
+213,メロメロ,attract,ノーマル,へんか,,100,15,0,第二世代,"Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.",0,0,0,0,0,0,0,0,0,0,1,1,1
+214,ねごと,sleep-talk,ノーマル,へんか,,,10,0,第二世代,Randomly uses one of the user’s other three moves.  Only works if the user is sleeping.,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,いやしのすず,heal-bell,ノーマル,へんか,,,5,0,第二世代,Cures the entire party of major status effects.,0,0,1,0,0,0,0,0,0,0,0,0,0
+216,おんがえし,return,ノーマル,ぶつり,,100,20,0,第二世代,"Power increases with happiness, up to a maximum of 102.",0,0,0,0,0,0,0,0,0,0,0,0,0
+217,プレゼント,present,ノーマル,ぶつり,,90,15,0,第二世代,Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.,0,0,0,0,0,0,0,0,0,0,1,0,1
+218,やつあたり,frustration,ノーマル,ぶつり,,100,20,0,第二世代,"Power increases as happiness decreases, up to a maximum of 102.",0,0,0,0,0,0,0,0,0,0,0,0,0
+219,しんぴのまもり,safeguard,ノーマル,へんか,,,25,0,第二世代,Protects the user’s field from major status ailments and confusion for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,いたみわけ,pain-split,ノーマル,へんか,,,20,0,第二世代,Sets the user’s and targets’s HP to the average of their current HP.,0,0,0,0,0,0,0,0,0,0,1,0,1
+221,せいなるほのお,sacred-fire,ほのお,ぶつり,100,95,5,0,第二世代,Has a chance to burn the target.  Lets frozen Pokémon thaw themselves.,0,0,0,0,0,0,0,0,0,0,1,0,1
+222,マグニチュード,magnitude,じめん,ぶつり,,100,30,0,第二世代,Power varies randomly from 10 to 150.,0,0,0,0,0,0,0,0,0,0,1,0,1
+223,ばくれつパンチ,dynamic-punch,かくとう,ぶつり,100,50,5,0,第二世代,Has a chance to confuse the target.,1,1,0,0,0,0,0,0,0,0,1,0,1
+224,メガホーン,megahorn,むし,ぶつり,120,85,10,0,第二世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+225,りゅうのいぶき,dragon-breath,ドラゴン,とくしゅ,60,100,20,0,第二世代,Has a chance to paralyze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+226,バトンタッチ,baton-pass,ノーマル,へんか,,,40,0,第二世代,Allows the trainer to switch out the user and pass effects along to its replacement.,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,アンコール,encore,ノーマル,へんか,,100,5,0,第二世代,Forces the target to repeat its last used move every turn for 2 to 6 turns.,0,0,0,0,0,0,0,0,0,0,1,1,1
+228,おいうち,pursuit,あく,ぶつり,40,100,20,0,第二世代,"Has double power against, and can hit, Pokémon attempting to switch out.",0,0,0,0,0,0,0,0,0,0,0,0,0
+229,こうそくスピン,rapid-spin,ノーマル,ぶつり,50,100,40,0,第二世代,"Frees the user from binding moves, removes Leech Seed, and blows away Spikes.",1,0,0,0,0,0,0,0,0,0,1,0,1
+230,あまいかおり,sweet-scent,ノーマル,へんか,,100,20,0,第二世代,Lowers the target’s evasion by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+231,アイアンテール,iron-tail,はがね,ぶつり,100,75,15,0,第二世代,Has a chance to lower the target’s Defense by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+232,メタルクロー,metal-claw,はがね,ぶつり,50,95,35,0,第二世代,Has a chance to raise the user’s Attack by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+233,あてみなげ,vital-throw,かくとう,ぶつり,70,,10,-1,第二世代,Never misses.,1,0,0,0,0,0,0,0,0,0,1,0,1
+234,あさのひざし,morning-sun,ノーマル,へんか,,,5,0,第二世代,Heals the user by half its max HP.  Affected by weather.,0,0,0,0,0,0,0,0,0,1,0,0,0
+235,こうごうせい,synthesis,くさ,へんか,,,5,0,第二世代,Heals the user by half its max HP.  Affected by weather.,0,0,0,0,0,0,0,0,0,1,0,0,0
+236,つきのひかり,moonlight,フェアリー,へんか,,,5,0,第二世代,Heals the user by half its max HP.  Affected by weather.,0,0,0,0,0,0,0,0,0,1,0,0,0
+237,めざめるパワー,hidden-power,ノーマル,とくしゅ,60,100,15,0,第二世代,Power and type depend upon user’s IVs.  Power can range from 30 to 70.,0,0,0,0,0,0,0,0,0,0,1,0,1
+238,クロスチョップ,cross-chop,かくとう,ぶつり,100,80,5,0,第二世代,Has an increased chance for a critical hit.,1,0,0,0,0,0,0,0,0,0,1,0,1
+239,たつまき,twister,ドラゴン,とくしゅ,40,100,20,0,第二世代,Has a chance to make the target flinch.,0,0,0,0,0,0,1,0,0,0,1,0,1
+240,あまごい,rain-dance,みず,へんか,,,5,0,第二世代,Changes the weather to rain for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,にほんばれ,sunny-day,ほのお,へんか,,,5,0,第二世代,Changes the weather to sunny for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,かみくだく,crunch,あく,ぶつり,80,100,15,0,第二世代,Has a chance to lower the target’s Defense by one stage.,1,0,0,0,0,0,0,1,0,0,1,0,1
+243,ミラーコート,mirror-coat,エスパー,とくしゅ,,100,20,-5,第二世代,Inflicts twice the damage the user received from the last special hit it took.,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,じこあんじ,psych-up,ノーマル,へんか,,,10,0,第二世代,Discards the user’s stat changes and copies the target’s.,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,しんそく,extreme-speed,ノーマル,ぶつり,80,100,5,2,第二世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+246,げんしのちから,ancient-power,いわ,とくしゅ,60,100,5,0,第二世代,Has a chance to raise all of the user’s stats by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+247,シャドーボール,shadow-ball,ゴースト,とくしゅ,80,100,15,0,第二世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,1,0,0,0,0,0,0,1,0,1
+248,みらいよち,future-sight,エスパー,とくしゅ,120,100,10,0,第二世代,Hits the target two turns later.,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,いわくだき,rock-smash,かくとう,ぶつり,40,100,15,0,第二世代,Has a chance to lower the target’s Defense by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+250,うずしお,whirlpool,みず,とくしゅ,35,85,15,0,第二世代,Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.,0,0,0,0,0,0,0,0,0,0,1,0,1
+251,ふくろだたき,beat-up,あく,ぶつり,,100,10,0,第二世代,Hits once for every conscious Pokémon the trainer has.,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,ねこだまし,fake-out,ノーマル,ぶつり,40,100,10,3,第三世代,Can only be used as the first move after the user enters battle.  Causes the target to flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+253,さわぐ,uproar,ノーマル,とくしゅ,90,100,10,0,第三世代,Forced to use this move for several turns.  Pokémon cannot fall asleep in that time.,0,0,1,0,0,0,0,0,0,0,1,0,1
+254,たくわえる,stockpile,ノーマル,へんか,,,20,0,第三世代,Stores energy up to three times for use with Spit Up and Swallow.,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,はきだす,spit-up,ノーマル,とくしゅ,,100,10,0,第三世代,Power is 100 times the amount of energy Stockpiled.,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,のみこむ,swallow,ノーマル,へんか,,,10,0,第三世代,"Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.",0,0,0,0,0,0,0,0,0,1,0,0,0
+257,ねっぷう,heat-wave,ほのお,とくしゅ,95,90,10,0,第三世代,Has a chance to burn the target.,0,0,0,0,0,0,1,0,0,0,1,0,1
+258,あられ,hail,こおり,へんか,,,10,0,第三世代,Changes the weather to a hailstorm for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,いちゃもん,torment,あく,へんか,,100,15,0,第三世代,Prevents the target from using the same move twice in a row.,0,0,0,0,0,0,0,0,0,0,1,1,1
+260,おだてる,flatter,あく,へんか,,100,15,0,第三世代,Raises the target’s Special Attack by one stage and confuses the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+261,おにび,will-o-wisp,ほのお,へんか,,85,15,0,第三世代,Burns the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+262,おきみやげ,memento,あく,へんか,,100,10,0,第三世代,Lowers the target’s Attack and Special Attack by two stages.  User faints.,0,0,0,0,0,0,0,0,0,0,1,0,1
+263,からげんき,facade,ノーマル,ぶつり,70,100,20,0,第三世代,"Power doubles if user is burned, paralyzed, or poisoned.",1,0,0,0,0,0,0,0,0,0,1,0,1
+264,きあいパンチ,focus-punch,かくとう,ぶつり,150,100,20,-3,第三世代,"If the user takes damage before attacking, the attack is canceled.",1,1,0,0,0,0,0,0,0,0,1,0,0
+265,きつけ,smelling-salts,ノーマル,ぶつり,70,100,10,0,第三世代,"If the target is paralyzed, inflicts double damage and cures the paralysis.",0,0,0,0,0,0,0,0,0,0,0,0,0
+266,このゆびとまれ,follow-me,ノーマル,へんか,,,20,2,第三世代,Redirects the target’s single-target effects to the user for this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,しぜんのちから,nature-power,ノーマル,へんか,,,20,0,第三世代,Uses a move which depends upon the terrain.,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,じゅうでん,charge,でんき,へんか,,,20,0,第三世代,Raises the user’s Special Defense by one stage.  User’s Electric moves have doubled power next turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,ちょうはつ,taunt,あく,へんか,,100,20,0,第三世代,"For the next few turns, the target can only use damaging moves.",0,0,0,0,0,0,0,0,0,0,1,1,1
+270,てだすけ,helping-hand,ノーマル,へんか,,,20,5,第三世代,Ally’s next move inflicts half more damage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,トリック,trick,エスパー,へんか,,100,10,0,第三世代,User and target swap items.,0,0,0,0,0,0,0,0,0,0,1,0,1
+272,なりきり,role-play,エスパー,へんか,,,10,0,第三世代,Copies the target’s ability.,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,ねがいごと,wish,ノーマル,へんか,,,10,0,第三世代,User will recover half its max HP at the end of the next turn.,0,0,0,0,0,0,0,0,0,1,0,0,0
+274,ねこのて,assist,ノーマル,へんか,,,20,0,第三世代,Randomly selects and uses one of the trainer’s other Pokémon’s moves.,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,ねをはる,ingrain,くさ,へんか,,,20,0,第三世代,Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,ばかぢから,superpower,かくとう,ぶつり,120,100,5,0,第三世代,Lowers the user’s Attack and Defense by one stage after inflicting damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+277,マジックコート,magic-coat,エスパー,へんか,,,15,4,第三世代,Reflects back the first effect move used on the user this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,リサイクル,recycle,ノーマル,へんか,,,10,0,第三世代,User recovers the item it last used up.,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,リベンジ,revenge,かくとう,ぶつり,60,100,10,-4,第三世代,Inflicts double damage if the user takes damage before attacking this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,かわらわり,brick-break,かくとう,ぶつり,75,100,15,0,第三世代,Destroys Reflect and Light Screen.,1,0,0,0,0,0,0,0,0,0,1,0,1
+281,あくび,yawn,ノーマル,へんか,,,10,0,第三世代,Target sleeps at the end of the next turn.,0,0,0,0,0,0,0,0,0,0,1,1,1
+282,はたきおとす,knock-off,あく,ぶつり,65,100,20,0,第三世代,Target drops its held item.,1,0,0,0,0,0,0,0,0,0,1,0,1
+283,がむしゃら,endeavor,ノーマル,ぶつり,,100,5,0,第三世代,Lowers the target’s HP to equal the user’s.,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,ふんか,eruption,ほのお,とくしゅ,150,100,5,0,第三世代,"Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+285,スキルスワップ,skill-swap,エスパー,へんか,,,10,0,第三世代,User and target swap abilities.,0,0,0,0,0,0,0,0,0,0,1,0,1
+286,ふういん,imprison,エスパー,へんか,,,10,0,第三世代,Prevents the target from using any moves that the user also knows.,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,リフレッシュ,refresh,ノーマル,へんか,,,20,0,第三世代,"Cleanses the user of a burn, paralysis, or poison.",0,0,0,0,0,0,0,0,0,0,0,0,0
+288,おんねん,grudge,ゴースト,へんか,,,5,0,第三世代,"If the user faints this turn, the PP of the move that fainted it drops to 0.",0,0,0,0,0,0,0,0,0,0,0,0,0
+289,よこどり,snatch,あく,へんか,,,10,4,第三世代,"Steals the target’s move, if it’s self-targeted.",0,0,0,0,0,0,0,0,0,0,0,0,0
+290,ひみつのちから,secret-power,ノーマル,ぶつり,70,100,20,0,第三世代,Has a chance to inflict a status effect which depends upon the terrain.,0,0,0,0,0,0,0,0,0,0,1,0,1
+291,ダイビング,dive,みず,ぶつり,80,100,10,0,第三世代,"User dives underwater, dodging all attacks, and hits next turn.",1,0,0,0,0,0,0,0,0,0,1,0,1
+292,つっぱり,arm-thrust,かくとう,ぶつり,15,100,20,0,第三世代,Hits 2-5 times in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+293,ほごしょく,camouflage,ノーマル,へんか,,,20,0,第三世代,User’s type changes to match the terrain.,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,ほたるび,tail-glow,むし,へんか,,,20,0,第三世代,Raises the user’s Special Attack by three stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,ラスターパージ,luster-purge,エスパー,とくしゅ,95,100,5,0,第三世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+296,ミストボール,mist-ball,エスパー,とくしゅ,95,100,5,0,第三世代,Has a chance to lower the target’s Special Attack by one stage.,0,0,0,1,0,0,0,0,0,0,1,0,1
+297,フェザーダンス,feather-dance,ひこう,へんか,,100,15,0,第三世代,Lowers the target’s Attack by two stages.,0,0,0,0,0,0,0,0,0,0,1,1,1
+298,フラフラダンス,teeter-dance,ノーマル,へんか,,100,20,0,第三世代,Confuses the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+299,ブレイズキック,blaze-kick,ほのお,ぶつり,85,90,10,0,第三世代,Has an increased chance for a critical hit and a chance to burn the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+300,どろあそび,mud-sport,じめん,へんか,,,15,0,第三世代,Halves all Electric-type damage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,アイスボール,ice-ball,こおり,ぶつり,30,90,20,0,第三世代,"Power doubles every turn this move is used in succession after the first, resetting after five turns.",0,0,0,0,0,0,0,0,0,0,0,0,0
+302,ニードルアーム,needle-arm,くさ,ぶつり,60,100,15,0,第三世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+303,なまける,slack-off,ノーマル,へんか,,,5,0,第三世代,Heals the user by half its max HP.,0,0,0,0,0,0,0,0,0,1,0,0,0
+304,ハイパーボイス,hyper-voice,ノーマル,とくしゅ,90,100,10,0,第三世代,Inflicts regular damage with no additional effect.,0,0,1,0,0,0,0,0,0,0,1,0,1
+305,どくどくのキバ,poison-fang,どく,ぶつり,50,100,15,0,第三世代,Has a chance to badly poison the target.,1,0,0,0,0,0,0,1,0,0,1,0,1
+306,ブレイククロー,crush-claw,ノーマル,ぶつり,75,95,10,0,第三世代,Has a chance to lower the target’s Defense by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+307,ブラストバーン,blast-burn,ほのお,とくしゅ,150,90,5,0,第三世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+308,ハイドロカノン,hydro-cannon,みず,とくしゅ,150,90,5,0,第三世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+309,コメットパンチ,meteor-mash,はがね,ぶつり,90,90,10,0,第三世代,Has a chance to raise the user’s Attack by one stage.,1,1,0,0,0,0,0,0,0,0,1,0,1
+310,おどろかす,astonish,ゴースト,ぶつり,30,100,15,0,第三世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+311,ウェザーボール,weather-ball,ノーマル,とくしゅ,50,100,10,0,第三世代,"If there be weather, this move has doubled power and the weather’s type.",0,0,0,1,0,0,0,0,0,0,1,0,1
+312,アロマセラピー,aromatherapy,くさ,へんか,,,5,0,第三世代,Cures the entire party of major status effects.,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,うそなき,fake-tears,あく,へんか,,100,20,0,第三世代,Lowers the target’s Special Defense by two stages.,0,0,0,0,0,0,0,0,0,0,1,1,1
+314,エアカッター,air-cutter,ひこう,とくしゅ,60,95,25,0,第三世代,Has an increased chance for a critical hit.,0,0,0,0,0,1,1,0,0,0,1,0,1
+315,オーバーヒート,overheat,ほのお,とくしゅ,130,90,5,0,第三世代,Lowers the user’s Special Attack by two stages after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+316,かぎわける,odor-sleuth,ノーマル,へんか,,,40,0,第三世代,"Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost.",0,0,0,0,0,0,0,0,0,0,1,1,1
+317,がんせきふうじ,rock-tomb,いわ,ぶつり,60,95,15,0,第三世代,Has a chance to lower the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+318,ぎんいろのかぜ,silver-wind,むし,とくしゅ,60,100,5,0,第三世代,Has a chance to raise all of the user’s stats by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+319,きんぞくおん,metal-sound,はがね,へんか,,85,40,0,第三世代,Lowers the target’s Special Defense by two stages.,0,0,1,0,0,0,0,0,0,0,1,1,1
+320,くさぶえ,grass-whistle,くさ,へんか,,55,15,0,第三世代,Puts the target to sleep.,0,0,1,0,0,0,0,0,0,0,1,1,1
+321,くすぐる,tickle,ノーマル,へんか,,100,20,0,第三世代,Lowers the target’s Attack and Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+322,コスモパワー,cosmic-power,エスパー,へんか,,,20,0,第三世代,Raises the user’s Defense and Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,しおふき,water-spout,みず,とくしゅ,150,100,5,0,第三世代,"Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+324,シグナルビーム,signal-beam,むし,とくしゅ,75,100,15,0,第三世代,Has a chance to confuse the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+325,シャドーパンチ,shadow-punch,ゴースト,ぶつり,60,,20,0,第三世代,Never misses.,1,1,0,0,0,0,0,0,0,0,1,0,1
+326,じんつうりき,extrasensory,エスパー,とくしゅ,80,100,20,0,第三世代,Has a chance to make the target flinch.,0,0,0,0,0,0,0,0,0,0,1,0,1
+327,スカイアッパー,sky-uppercut,かくとう,ぶつり,85,90,15,0,第三世代,Inflicts regular damage and can hit Bounce and Fly users.,1,1,0,0,0,0,0,0,0,0,1,0,1
+328,すなじごく,sand-tomb,じめん,ぶつり,35,85,15,0,第三世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,0,0,0,0,0,0,0,0,0,0,1,0,1
+329,ぜったいれいど,sheer-cold,こおり,とくしゅ,,30,5,0,第三世代,Causes a one-hit KO.,0,0,0,0,0,0,0,0,0,0,1,0,1
+330,だくりゅう,muddy-water,みず,とくしゅ,90,85,10,0,第三世代,Has a chance to lower the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+331,タネマシンガン,bullet-seed,くさ,ぶつり,25,100,30,0,第三世代,Hits 2-5 times in one turn.,0,0,0,1,0,0,0,0,0,0,1,0,1
+332,つばめがえし,aerial-ace,ひこう,ぶつり,60,,20,0,第三世代,Never misses.,1,0,0,0,0,1,0,0,0,0,1,0,1
+333,つららばり,icicle-spear,こおり,ぶつり,25,100,30,0,第三世代,Hits 2-5 times in one turn.,0,0,0,0,0,0,0,0,0,0,1,0,1
+334,てっぺき,iron-defense,はがね,へんか,,,15,0,第三世代,Raises the user’s Defense by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,とおせんぼう,block,ノーマル,へんか,,,5,0,第三世代,Prevents the target from leaving battle.,0,0,0,0,0,0,0,0,0,0,0,1,1
+336,とおぼえ,howl,ノーマル,へんか,,,40,0,第三世代,Raises the user’s Attack by one stage.,0,0,1,0,0,0,0,0,0,0,0,0,0
+337,ドラゴンクロー,dragon-claw,ドラゴン,ぶつり,80,100,15,0,第三世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+338,ハードプラント,frenzy-plant,くさ,とくしゅ,150,90,5,0,第三世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+339,ビルドアップ,bulk-up,かくとう,へんか,,,20,0,第三世代,Raises the user’s Attack and Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,とびはねる,bounce,ひこう,ぶつり,85,85,5,0,第三世代,"User bounces high into the air, dodging all attacks, and hits next turn.",1,0,0,0,0,0,0,0,0,0,1,0,1
+341,マッドショット,mud-shot,じめん,とくしゅ,55,95,15,0,第三世代,Has a chance to lower the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+342,ポイズンテール,poison-tail,どく,ぶつり,50,100,25,0,第三世代,Has an increased chance for a critical hit and a chance to poison the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+343,ほしがる,covet,ノーマル,ぶつり,60,100,25,0,第三世代,Takes the target’s item.,1,0,0,0,0,0,0,0,0,0,1,0,1
+344,ボルテッカー,volt-tackle,でんき,ぶつり,120,100,15,0,第三世代,User takes 1/3 the damage inflicted in recoil.  Has a chance to paralyze the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+345,マジカルリーフ,magical-leaf,くさ,とくしゅ,60,,20,0,第三世代,Never misses.,0,0,0,0,0,0,0,0,0,0,1,0,1
+346,みずあそび,water-sport,みず,へんか,,,15,0,第三世代,Halves all Fire-type damage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,めいそう,calm-mind,エスパー,へんか,,,20,0,第三世代,Raises the user’s Special Attack and Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,リーフブレード,leaf-blade,くさ,ぶつり,90,100,15,0,第三世代,Has an increased chance for a critical hit.,1,0,0,0,0,1,0,0,0,0,1,0,1
+349,りゅうのまい,dragon-dance,ドラゴン,へんか,,,20,0,第三世代,Raises the user’s Attack and Speed by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,ロックブラスト,rock-blast,いわ,ぶつり,25,90,10,0,第三世代,Hits 2-5 times in one turn.,0,0,0,1,0,0,0,0,0,0,1,0,1
+351,でんげきは,shock-wave,でんき,とくしゅ,60,,20,0,第三世代,Never misses.,0,0,0,0,0,0,0,0,0,0,1,0,1
+352,みずのはどう,water-pulse,みず,とくしゅ,60,100,20,0,第三世代,Has a chance to confuse the target.,0,0,0,0,1,0,0,0,0,0,1,0,1
+353,はめつのねがい,doom-desire,はがね,とくしゅ,140,100,5,0,第三世代,Hits the target two turns later.,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,サイコブースト,psycho-boost,エスパー,とくしゅ,140,90,5,0,第三世代,Lowers the user’s Special Attack by two stages after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+355,はねやすめ,roost,ひこう,へんか,,,5,0,第四世代,Heals the user by half its max HP.,0,0,0,0,0,0,0,0,0,1,0,0,0
+356,じゅうりょく,gravity,エスパー,へんか,,,5,0,第四世代,Disables moves and immunities that involve flying or levitating for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,ミラクルアイ,miracle-eye,エスパー,へんか,,,40,0,第四世代,"Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark.",0,0,0,0,0,0,0,0,0,0,1,1,1
+358,めざましビンタ,wake-up-slap,かくとう,ぶつり,70,100,10,0,第四世代,"If the target is asleep, has double power and wakes it up.",0,0,0,0,0,0,0,0,0,0,0,0,0
+359,アームハンマー,hammer-arm,かくとう,ぶつり,100,90,10,0,第四世代,Lowers user’s Speed by one stage.,1,1,0,0,0,0,0,0,0,0,1,0,1
+360,ジャイロボール,gyro-ball,はがね,ぶつり,,100,5,0,第四世代,"Power raises when the user has lower Speed, up to a maximum of 150.",0,0,0,0,0,0,0,0,0,0,0,0,0
+361,いやしのねがい,healing-wish,エスパー,へんか,,,10,0,第四世代,User faints.  Its replacement has its HP fully restored and any major status effect removed.,0,0,0,0,0,0,0,0,0,1,0,0,0
+362,しおみず,brine,みず,とくしゅ,65,100,10,0,第四世代,Has double power against Pokémon that have less than half their max HP remaining.,0,0,0,0,0,0,0,0,0,0,1,0,1
+363,しぜんのめぐみ,natural-gift,ノーマル,ぶつり,,100,15,0,第四世代,Power and type depend on the held berry.,0,0,0,0,0,0,0,0,0,0,1,0,1
+364,フェイント,feint,ノーマル,ぶつり,30,100,10,2,第四世代,Hits through Protect and Detect.,0,0,0,0,0,0,0,0,0,0,0,0,1
+365,ついばむ,pluck,ひこう,ぶつり,60,100,20,0,第四世代,"If target has a berry, inflicts double damage and uses the berry.",1,0,0,0,0,0,0,0,0,0,1,0,1
+366,おいかぜ,tailwind,ひこう,へんか,,,15,0,第四世代,"For three turns, friendly Pokémon have doubled Speed.",0,0,0,0,0,0,1,0,0,0,0,0,0
+367,つぼをつく,acupressure,ノーマル,へんか,,,30,0,第四世代,Raises one of a friendly Pokémon’s stats at random by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,メタルバースト,metal-burst,はがね,ぶつり,,100,10,0,第四世代,Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,とんぼがえり,u-turn,むし,ぶつり,70,100,20,0,第四世代,User must switch out after attacking.,1,0,0,0,0,0,0,0,0,0,1,0,1
+370,インファイト,close-combat,かくとう,ぶつり,120,100,5,0,第四世代,Lowers the user’s Defense and Special Defense by one stage after inflicting damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+371,しっぺがえし,payback,あく,ぶつり,50,100,10,0,第四世代,Power is doubled if the target has already moved this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,ダメおし,assurance,あく,ぶつり,60,100,10,0,第四世代,Power is doubled if the target has already received damage this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,さしおさえ,embargo,あく,へんか,,100,15,0,第四世代,Target cannot use held items.,0,0,0,0,0,0,0,0,0,0,1,1,1
+374,なげつける,fling,あく,ぶつり,,100,10,0,第四世代,Throws held item at the target; power depends on the item.,0,0,0,0,0,0,0,0,0,0,1,0,1
+375,サイコシフト,psycho-shift,エスパー,へんか,,100,10,0,第四世代,Transfers the user’s major status effect to the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+376,きりふだ,trump-card,ノーマル,とくしゅ,,,5,0,第四世代,"Power increases when this move has less PP, up to a maximum of 200.",0,0,0,0,0,0,0,0,0,0,0,0,0
+377,かいふくふうじ,heal-block,エスパー,へんか,,100,15,0,第四世代,Prevents target from restoring its HP for five turns.,0,0,0,0,0,0,0,0,0,0,1,1,1
+378,しぼりとる,wring-out,ノーマル,とくしゅ,,100,5,0,第四世代,"Power increases against targets with more HP remaining, up to a maximum of 121 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+379,パワートリック,power-trick,エスパー,へんか,,,10,0,第四世代,User swaps Attack and Defense.,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,いえき,gastro-acid,どく,へんか,,100,10,0,第四世代,Nullifies target’s ability until it leaves battle.,0,0,0,0,0,0,0,0,0,0,1,1,1
+381,おまじない,lucky-chant,ノーマル,へんか,,,30,0,第四世代,Prevents the target from scoring critical hits for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,さきどり,me-first,ノーマル,へんか,,,20,0,第四世代,"Uses the target’s move against it before it attacks, with power increased by half.",0,0,0,0,0,0,0,0,0,0,1,0,0
+383,まねっこ,copycat,ノーマル,へんか,,,20,0,第四世代,Uses the target’s last used move.,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,パワースワップ,power-swap,エスパー,へんか,,,10,0,第四世代,User swaps Attack and Special Attack changes with the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+385,ガードスワップ,guard-swap,エスパー,へんか,,,10,0,第四世代,User swaps Defense and Special Defense changes with the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+386,おしおき,punishment,あく,ぶつり,,100,5,0,第四世代,"Power increases against targets with more raised stats, up to a maximum of 200.",0,0,0,0,0,0,0,0,0,0,0,0,0
+387,とっておき,last-resort,ノーマル,ぶつり,140,100,5,0,第四世代,Can only be used after all of the user’s other moves have been used.,1,0,0,0,0,0,0,0,0,0,1,0,1
+388,なやみのタネ,worry-seed,くさ,へんか,,100,10,0,第四世代,Changes the target’s ability to Insomnia.,0,0,0,0,0,0,0,0,0,0,1,1,1
+389,ふいうち,sucker-punch,あく,ぶつり,70,100,5,1,第四世代,Only works if the target is about to use a damaging move.,1,0,0,0,0,0,0,0,0,0,1,0,1
+390,どくびし,toxic-spikes,どく,へんか,,,20,0,第四世代,"Scatters poisoned spikes, poisoning opposing Pokémon that switch in.",0,0,0,0,0,0,0,0,0,0,0,1,0
+391,ハートスワップ,heart-swap,エスパー,へんか,,,10,0,第四世代,User and target swap stat changes.,0,0,0,0,0,0,0,0,0,0,1,0,1
+392,アクアリング,aqua-ring,みず,へんか,,,20,0,第四世代,Restores 1/16 of the user’s max HP each turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,でんじふゆう,magnet-rise,でんき,へんか,,,10,0,第四世代,User is immune to Ground moves and effects for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,フレアドライブ,flare-blitz,ほのお,ぶつり,120,100,15,0,第四世代,User takes 1/3 the damage inflicted in recoil.  Has a chance to burn the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+395,はっけい,force-palm,かくとう,ぶつり,60,100,10,0,第四世代,Has a chance to paralyze the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+396,はどうだん,aura-sphere,かくとう,とくしゅ,80,,20,0,第四世代,Never misses.,0,0,0,1,1,0,0,0,0,0,1,0,1
+397,ロックカット,rock-polish,いわ,へんか,,,20,0,第四世代,Raises the user’s Speed by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,どくづき,poison-jab,どく,ぶつり,80,100,20,0,第四世代,Has a chance to poison the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+399,あくのはどう,dark-pulse,あく,とくしゅ,80,100,15,0,第四世代,Has a chance to make the target flinch.,0,0,0,0,1,0,0,0,0,0,1,0,1
+400,つじぎり,night-slash,あく,ぶつり,70,100,15,0,第四世代,Has an increased chance for a critical hit.,1,0,0,0,0,1,0,0,0,0,1,0,1
+401,アクアテール,aqua-tail,みず,ぶつり,90,90,10,0,第四世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+402,タネばくだん,seed-bomb,くさ,ぶつり,80,100,15,0,第四世代,Inflicts regular damage with no additional effect.,0,0,0,1,0,0,0,0,0,0,1,0,1
+403,エアスラッシュ,air-slash,ひこう,とくしゅ,75,95,15,0,第四世代,Has a chance to make the target flinch.,0,0,0,0,0,1,0,0,0,0,1,0,1
+404,シザークロス,x-scissor,むし,ぶつり,80,100,15,0,第四世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,1,0,0,0,0,1,0,1
+405,むしのさざめき,bug-buzz,むし,とくしゅ,90,100,10,0,第四世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,1,0,0,0,0,0,0,0,1,0,1
+406,りゅうのはどう,dragon-pulse,ドラゴン,とくしゅ,85,100,10,0,第四世代,Inflicts regular damage with no additional effect.,0,0,0,0,1,0,0,0,0,0,1,0,1
+407,ドラゴンダイブ,dragon-rush,ドラゴン,ぶつり,100,75,10,0,第四世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+408,パワージェム,power-gem,いわ,とくしゅ,80,100,20,0,第四世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+409,ドレインパンチ,drain-punch,かくとう,ぶつり,75,100,10,0,第四世代,Drains half the damage inflicted to heal the user.,1,1,0,0,0,0,0,0,0,1,1,0,1
+410,しんくうは,vacuum-wave,かくとう,とくしゅ,40,100,30,1,第四世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+411,きあいだま,focus-blast,かくとう,とくしゅ,120,70,5,0,第四世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,1,0,0,0,0,0,0,1,0,1
+412,エナジーボール,energy-ball,くさ,とくしゅ,90,100,10,0,第四世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,1,0,0,0,0,0,0,1,0,1
+413,ブレイブバード,brave-bird,ひこう,ぶつり,120,100,15,0,第四世代,User receives 1/3 the damage inflicted in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+414,だいちのちから,earth-power,じめん,とくしゅ,90,100,10,0,第四世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+415,すりかえ,switcheroo,あく,へんか,,100,10,0,第四世代,User and target swap items.,0,0,0,0,0,0,0,0,0,0,1,0,1
+416,ギガインパクト,giga-impact,ノーマル,ぶつり,150,90,5,0,第四世代,User foregoes its next turn to recharge.,1,0,0,0,0,0,0,0,0,0,1,0,1
+417,わるだくみ,nasty-plot,あく,へんか,,,20,0,第四世代,Raises the user’s Special Attack by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,バレットパンチ,bullet-punch,はがね,ぶつり,40,100,30,1,第四世代,Inflicts regular damage with no additional effect.,1,1,0,0,0,0,0,0,0,0,1,0,1
+419,ゆきなだれ,avalanche,こおり,ぶつり,60,100,10,-4,第四世代,Inflicts double damage if the user takes damage before attacking this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,こおりのつぶて,ice-shard,こおり,ぶつり,40,100,30,1,第四世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+421,シャドークロー,shadow-claw,ゴースト,ぶつり,70,100,15,0,第四世代,Has an increased chance for a critical hit.,1,0,0,0,0,0,0,0,0,0,1,0,1
+422,かみなりのキバ,thunder-fang,でんき,ぶつり,65,95,15,0,第四世代,Has a chance to paralyze the target and a chance to make the target flinch.,1,0,0,0,0,0,0,1,0,0,1,0,1
+423,こおりのキバ,ice-fang,こおり,ぶつり,65,95,15,0,第四世代,Has a chance to freeze the target and a chance to make the target flinch.,1,0,0,0,0,0,0,1,0,0,1,0,1
+424,ほのおのキバ,fire-fang,ほのお,ぶつり,65,95,15,0,第四世代,Has a chance to burn the target and a chance to make the target flinch.,1,0,0,0,0,0,0,1,0,0,1,0,1
+425,かげうち,shadow-sneak,ゴースト,ぶつり,40,100,30,1,第四世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+426,どろばくだん,mud-bomb,じめん,とくしゅ,65,85,10,0,第四世代,Has a chance to lower the target’s accuracy by one stage.,0,0,0,1,0,0,0,0,0,0,1,0,1
+427,サイコカッター,psycho-cut,エスパー,ぶつり,70,100,20,0,第四世代,Has an increased chance for a critical hit.,0,0,0,0,0,1,0,0,0,0,1,0,1
+428,しねんのずつき,zen-headbutt,エスパー,ぶつり,80,90,15,0,第四世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+429,ミラーショット,mirror-shot,はがね,とくしゅ,65,85,10,0,第四世代,Has a chance to lower the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+430,ラスターカノン,flash-cannon,はがね,とくしゅ,80,100,10,0,第四世代,Has a chance to lower the target’s Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+431,ロッククライム,rock-climb,ノーマル,ぶつり,90,85,20,0,第四世代,Has a chance to confuse the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+432,きりばらい,defog,ひこう,へんか,,,15,0,第四世代,Lowers the target’s evasion by one stage.  Removes field effects from the enemy field.,0,0,0,0,0,0,0,0,0,0,1,1,1
+433,トリックルーム,trick-room,エスパー,へんか,,,5,-7,第四世代,"For five turns, slower Pokémon will act before faster Pokémon.",0,0,0,0,0,0,0,0,0,0,0,0,1
+434,りゅうせいぐん,draco-meteor,ドラゴン,とくしゅ,130,90,5,0,第四世代,Lowers the user’s Special Attack by two stages after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+435,ほうでん,discharge,でんき,とくしゅ,80,100,15,0,第四世代,Has a chance to paralyze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+436,ふんえん,lava-plume,ほのお,とくしゅ,80,100,15,0,第四世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+437,リーフストーム,leaf-storm,くさ,とくしゅ,130,90,5,0,第四世代,Lowers the user’s Special Attack by two stages after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+438,パワーウィップ,power-whip,くさ,ぶつり,120,85,10,0,第四世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+439,がんせきほう,rock-wrecker,いわ,ぶつり,150,90,5,0,第四世代,User foregoes its next turn to recharge.,0,0,0,1,0,0,0,0,0,0,1,0,1
+440,クロスポイズン,cross-poison,どく,ぶつり,70,100,20,0,第四世代,Has an increased chance for a critical hit and a chance to poison the target.,1,0,0,0,0,1,0,0,0,0,1,0,1
+441,ダストシュート,gunk-shot,どく,ぶつり,120,80,5,0,第四世代,Has a chance to poison the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+442,アイアンヘッド,iron-head,はがね,ぶつり,80,100,15,0,第四世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+443,マグネットボム,magnet-bomb,はがね,ぶつり,60,,20,0,第四世代,Never misses.,0,0,0,1,0,0,0,0,0,0,1,0,1
+444,ストーンエッジ,stone-edge,いわ,ぶつり,100,80,5,0,第四世代,Has an increased chance for a critical hit.,0,0,0,0,0,0,0,0,0,0,1,0,1
+445,ゆうわく,captivate,ノーマル,へんか,,100,20,0,第四世代,Lowers the target’s Special Attack by two stages if it’s the opposite gender.,0,0,0,0,0,0,0,0,0,0,1,1,1
+446,ステルスロック,stealth-rock,いわ,へんか,,,20,0,第四世代,Causes damage when opposing Pokémon switch in.,0,0,0,0,0,0,0,0,0,0,0,1,0
+447,くさむすび,grass-knot,くさ,とくしゅ,,100,20,0,第四世代,"Inflicts more damage to heavier targets, with a maximum of 120 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+448,おしゃべり,chatter,ひこう,とくしゅ,65,100,20,0,第四世代,Has a higher chance to confuse the target when the recorded sound is louder.,0,0,1,0,0,0,0,0,0,0,1,0,1
+449,さばきのつぶて,judgment,ノーマル,とくしゅ,100,100,10,0,第四世代,"If the user is holding a appropriate plate or drive, the damage inflicted will match it.",0,0,0,0,0,0,0,0,0,0,1,0,1
+450,むしくい,bug-bite,むし,ぶつり,60,100,20,0,第四世代,"If target has a berry, inflicts double damage and uses the berry.",1,0,0,0,0,0,0,0,0,0,1,0,1
+451,チャージビーム,charge-beam,でんき,とくしゅ,50,90,10,0,第四世代,Has a chance to raise the user’s Special Attack by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+452,ウッドハンマー,wood-hammer,くさ,ぶつり,120,100,15,0,第四世代,User receives 1/3 the damage inflicted in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+453,アクアジェット,aqua-jet,みず,ぶつり,40,100,20,1,第四世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+454,こうげきしれい,attack-order,むし,ぶつり,90,100,15,0,第四世代,Has an increased chance for a critical hit.,0,0,0,0,0,0,0,0,0,0,1,0,1
+455,ぼうぎょしれい,defend-order,むし,へんか,,,10,0,第四世代,Raises the user’s Defense and Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,かいふくしれい,heal-order,むし,へんか,,,10,0,第四世代,Heals the user by half its max HP.,0,0,0,0,0,0,0,0,0,1,0,0,0
+457,もろはのずつき,head-smash,いわ,ぶつり,150,80,5,0,第四世代,User receives 1/2 the damage inflicted in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+458,ダブルアタック,double-hit,ノーマル,ぶつり,35,90,10,0,第四世代,Hits twice in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+459,ときのほうこう,roar-of-time,ドラゴン,とくしゅ,150,90,5,0,第四世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+460,あくうせつだん,spacial-rend,ドラゴン,とくしゅ,100,95,5,0,第四世代,Has an increased chance for a critical hit.,0,0,0,0,0,0,0,0,0,0,1,0,1
+461,みかづきのまい,lunar-dance,エスパー,へんか,,,10,0,第四世代,"User faints, and its replacement is fully healed.",0,0,0,0,0,0,0,0,0,1,0,0,0
+462,にぎりつぶす,crush-grip,ノーマル,ぶつり,,100,5,0,第四世代,"Power increases against targets with more HP remaining, up to a maximum of 121 power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+463,マグマストーム,magma-storm,ほのお,とくしゅ,100,75,5,0,第四世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,0,0,0,0,0,0,0,0,0,0,1,0,1
+464,ダークホール,dark-void,あく,へんか,,50,10,0,第四世代,Puts the target to sleep.,0,0,0,0,0,0,0,0,0,0,1,1,1
+465,シードフレア,seed-flare,くさ,とくしゅ,120,85,5,0,第四世代,Has a chance to lower the target’s Special Defense by two stages.,0,0,0,0,0,0,0,0,0,0,1,0,1
+466,あやしいかぜ,ominous-wind,ゴースト,とくしゅ,60,100,5,0,第四世代,Has a chance to raise all of the user’s stats by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+467,シャドーダイブ,shadow-force,ゴースト,ぶつり,120,100,5,0,第四世代,"User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.",1,0,0,0,0,0,0,0,0,0,0,0,1
+468,つめとぎ,hone-claws,あく,へんか,,,15,0,第五世代,Raises the user’s Attack and accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+469,ワイドガード,wide-guard,いわ,へんか,,,10,3,第五世代,Prevents any multi-target moves from hitting friendly Pokémon this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,ガードシェア,guard-split,エスパー,へんか,,,10,0,第五世代,Averages Defense and Special Defense with the target.,0,0,0,0,0,0,0,0,0,0,1,0,0
+471,パワーシェア,power-split,エスパー,へんか,,,10,0,第五世代,Averages Attack and Special Attack with the target.,0,0,0,0,0,0,0,0,0,0,1,0,0
+472,ワンダールーム,wonder-room,エスパー,へんか,,,10,0,第五世代,All Pokémon’s Defense and Special Defense are swapped for 5 turns.,0,0,0,0,0,0,0,0,0,0,0,0,1
+473,サイコショック,psyshock,エスパー,とくしゅ,80,100,10,0,第五世代,"Inflicts damage based on the target’s Defense, not Special Defense.",0,0,0,0,0,0,0,0,0,0,1,0,1
+474,ベノムショック,venoshock,どく,とくしゅ,65,100,10,0,第五世代,Inflicts double damage if the target is Poisoned.,0,0,0,0,0,0,0,0,0,0,1,0,1
+475,ボディパージ,autotomize,はがね,へんか,,,15,0,第五世代,Raises the user’s Speed by two stages and halves the user’s weight.,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,いかりのこな,rage-powder,むし,へんか,,,20,2,第五世代,Redirects the target’s single-target effects to the user for this turn.,0,0,0,0,0,0,0,0,1,0,0,0,0
+477,テレキネシス,telekinesis,エスパー,へんか,,,15,0,第五世代,Moves have 100% accuracy against the target for three turns.,0,0,0,0,0,0,0,0,0,0,1,1,1
+478,マジックルーム,magic-room,エスパー,へんか,,,10,0,第五世代,Negates held items for five turns.,0,0,0,0,0,0,0,0,0,0,0,0,1
+479,うちおとす,smack-down,いわ,ぶつり,50,100,15,0,第五世代,Removes any immunity to Ground damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+480,やまあらし,storm-throw,かくとう,ぶつり,60,100,10,0,第五世代,Always scores a critical hit.,1,0,0,0,0,0,0,0,0,0,1,0,1
+481,はじけるほのお,flame-burst,ほのお,とくしゅ,70,100,15,0,第五世代,Deals splash damage to Pokémon next to the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+482,ヘドロウェーブ,sludge-wave,どく,とくしゅ,95,100,10,0,第五世代,Has a chance to poison the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+483,ちょうのまい,quiver-dance,むし,へんか,,,20,0,第五世代,"Raises the user’s Special Attack, Special Defense, and Speed by one stage each.",0,0,0,0,0,0,0,0,0,0,0,0,0
+484,ヘビーボンバー,heavy-slam,はがね,ぶつり,,100,10,0,第五世代,"Power is higher when the user weighs more than the target, up to a maximum of 120.",0,0,0,0,0,0,0,0,0,0,0,0,0
+485,シンクロノイズ,synchronoise,エスパー,とくしゅ,120,100,10,0,第五世代,Hits any Pokémon that shares a type with the user.,0,0,0,0,0,0,0,0,0,0,1,0,1
+486,エレキボール,electro-ball,でんき,とくしゅ,,100,10,0,第五世代,"Power is higher when the user has greater Speed than the target, up to a maximum of 150.",0,0,0,0,0,0,0,0,0,0,0,0,0
+487,みずびたし,soak,みず,へんか,,100,20,0,第五世代,Changes the target’s type to Water.,0,0,0,0,0,0,0,0,0,0,1,1,1
+488,ニトロチャージ,flame-charge,ほのお,ぶつり,50,100,20,0,第五世代,Inflicts regular damage.  Raises the user’s Speed by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+489,とぐろをまく,coil,どく,へんか,,,20,0,第五世代,"Raises the user’s Attack, Defense, and accuracy by one stage each.",0,0,0,0,0,0,0,0,0,0,0,0,0
+490,ローキック,low-sweep,かくとう,ぶつり,65,100,20,0,第五世代,Lowers the target’s Speed by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+491,アシッドボム,acid-spray,どく,とくしゅ,40,100,20,0,第五世代,Lowers the target’s Special Defense by two stages.,0,0,0,1,0,0,0,0,0,0,1,0,1
+492,イカサマ,foul-play,あく,ぶつり,95,100,15,0,第五世代,Calculates damage with the target’s attacking stat.,1,0,0,0,0,0,0,0,0,0,1,0,1
+493,シンプルビーム,simple-beam,ノーマル,へんか,,100,15,0,第五世代,Changes the target’s ability to Simple.,0,0,0,0,0,0,0,0,0,0,1,1,1
+494,なかまづくり,entrainment,ノーマル,へんか,,100,15,0,第五世代,Copies the user’s ability onto the target.,0,0,0,0,0,0,0,0,0,0,1,1,1
+495,おさきにどうぞ,after-you,ノーマル,へんか,,,15,0,第五世代,Makes the target act next this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,りんしょう,round,ノーマル,とくしゅ,60,100,15,0,第五世代,Has double power if it’s used more than once per turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,エコーボイス,echoed-voice,ノーマル,とくしゅ,40,100,15,0,第五世代,"Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200.",0,0,0,0,0,0,0,0,0,0,0,0,0
+498,なしくずし,chip-away,ノーマル,ぶつり,70,100,20,0,第五世代,Ignores the target’s stat modifiers.,1,0,0,0,0,0,0,0,0,0,1,0,1
+499,クリアスモッグ,clear-smog,どく,とくしゅ,50,,15,0,第五世代,Removes all of the target’s stat modifiers.,0,0,0,0,0,0,0,0,0,0,1,0,1
+500,アシストパワー,stored-power,エスパー,とくしゅ,20,100,10,0,第五世代,"Power is higher the more the user’s stats have been raised, to a maximum of 31×.",0,0,0,0,0,0,0,0,0,0,0,0,0
+501,ファストガード,quick-guard,かくとう,へんか,,,15,3,第五世代,Prevents any priority moves from hitting friendly Pokémon this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,サイドチェンジ,ally-switch,エスパー,へんか,,,15,2,第五世代,User switches places with the friendly Pokémon opposite it.,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,ねっとう,scald,みず,とくしゅ,80,100,15,0,第五世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+504,からをやぶる,shell-smash,ノーマル,へんか,,,15,0,第五世代,"Raises user’s Attack, Special Attack, and Speed by two stages.  Lower user’s Defense and Special Defense by one stage.",0,0,0,0,0,0,0,0,0,0,0,0,0
+505,いやしのはどう,heal-pulse,エスパー,へんか,,,10,0,第五世代,Heals the target for half its max HP.,0,0,0,0,1,0,0,0,0,1,1,1,0
+506,たたりめ,hex,ゴースト,とくしゅ,65,100,10,0,第五世代,Has double power if the target has a major status ailment.,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,フリーフォール,sky-drop,ひこう,ぶつり,60,100,10,0,第五世代,"Carries the target high into the air, dodging all attacks against either, and drops it next turn.",1,0,0,0,0,0,0,0,0,0,1,0,1
+508,ギアチェンジ,shift-gear,はがね,へんか,,,10,0,第五世代,Raises the user’s Attack by one stage and its Speed by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,ともえなげ,circle-throw,かくとう,ぶつり,60,90,10,-6,第五世代,Ends wild battles.  Forces trainers to switch Pokémon.,1,0,0,0,0,0,0,0,0,0,1,0,1
+510,やきつくす,incinerate,ほのお,とくしゅ,60,100,15,0,第五世代,Destroys the target’s held berry.,0,0,0,0,0,0,0,0,0,0,1,0,1
+511,さきおくり,quash,あく,へんか,,100,15,0,第五世代,Makes the target act last this turn.,0,0,0,0,0,0,0,0,0,0,1,0,1
+512,アクロバット,acrobatics,ひこう,ぶつり,55,100,15,0,第五世代,Has double power if the user has no held item.,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,ミラータイプ,reflect-type,ノーマル,へんか,,,15,0,第五世代,User becomes the target’s type.,0,0,0,0,0,0,0,0,0,0,1,0,0
+514,かたきうち,retaliate,ノーマル,ぶつり,70,100,5,0,第五世代,Has double power if a friendly Pokémon fainted last turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+515,いのちがけ,final-gambit,かくとう,とくしゅ,,100,5,0,第五世代,Inflicts damage equal to the user’s remaining HP.  User faints.,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,ギフトパス,bestow,ノーマル,へんか,,,15,0,第五世代,Gives the user’s held item to the target.,0,0,0,0,0,0,0,0,0,0,0,0,1
+517,れんごく,inferno,ほのお,とくしゅ,100,50,5,0,第五世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+518,みずのちかい,water-pledge,みず,とくしゅ,80,100,10,0,第五世代,"With Grass Pledge, halves opposing Pokémon’s Speed for four turns.",0,0,0,0,0,0,0,0,0,0,0,0,0
+519,ほのおのちかい,fire-pledge,ほのお,とくしゅ,80,100,10,0,第五世代,"With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns.",0,0,0,0,0,0,0,0,0,0,0,0,0
+520,くさのちかい,grass-pledge,くさ,とくしゅ,80,100,10,0,第五世代,"With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns.",0,0,0,0,0,0,0,0,0,0,0,0,0
+521,ボルトチェンジ,volt-switch,でんき,とくしゅ,70,100,20,0,第五世代,User must switch out after attacking.,0,0,0,0,0,0,0,0,0,0,1,0,1
+522,むしのていこう,struggle-bug,むし,とくしゅ,50,100,20,0,第五世代,Has a chance to lower the target’s Special Attack by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+523,じならし,bulldoze,じめん,ぶつり,60,100,20,0,第五世代,Has a chance to lower the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+524,こおりのいぶき,frost-breath,こおり,とくしゅ,60,90,10,0,第五世代,Always scores a critical hit.,0,0,0,0,0,0,0,0,0,0,1,0,1
+525,ドラゴンテール,dragon-tail,ドラゴン,ぶつり,60,90,10,-6,第五世代,Ends wild battles.  Forces trainers to switch Pokémon.,1,0,0,0,0,0,0,0,0,0,1,0,1
+526,ふるいたてる,work-up,ノーマル,へんか,,,30,0,第五世代,Raises the user’s Attack and Special Attack by one stage each.,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,エレキネット,electroweb,でんき,とくしゅ,55,95,15,0,第五世代,Lowers the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+528,ワイルドボルト,wild-charge,でんき,ぶつり,90,100,15,0,第五世代,User receives 1/4 the damage it inflicts in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+529,ドリルライナー,drill-run,じめん,ぶつり,80,95,10,0,第五世代,Has an increased chance for a critical hit.,1,0,0,0,0,0,0,0,0,0,1,0,1
+530,ダブルチョップ,dual-chop,ドラゴン,ぶつり,40,90,15,0,第五世代,Hits twice in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+531,ハートスタンプ,heart-stamp,エスパー,ぶつり,60,100,25,0,第五世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+532,ウッドホーン,horn-leech,くさ,ぶつり,75,100,10,0,第五世代,Drains half the damage inflicted to heal the user.,1,0,0,0,0,0,0,0,0,1,1,0,1
+533,せいなるつるぎ,sacred-sword,かくとう,ぶつり,90,100,15,0,第五世代,Ignores the target’s stat modifiers.,1,0,0,0,0,1,0,0,0,0,1,0,1
+534,シェルブレード,razor-shell,みず,ぶつり,75,95,10,0,第五世代,Has a chance to lower the target’s Defense by one stage.,1,0,0,0,0,1,0,0,0,0,1,0,1
+535,ヒートスタンプ,heat-crash,ほのお,ぶつり,,100,10,0,第五世代,"Power is higher when the user weighs more than the target, up to a maximum of 120.",0,0,0,0,0,0,0,0,0,0,0,0,0
+536,グラスミキサー,leaf-tornado,くさ,とくしゅ,65,90,10,0,第五世代,Has a chance to lower the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+537,ハードローラー,steamroller,むし,ぶつり,65,100,20,0,第五世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+538,コットンガード,cotton-guard,くさ,へんか,,,10,0,第五世代,Raises the user’s Defense by three stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+539,ナイトバースト,night-daze,あく,とくしゅ,85,95,10,0,第五世代,Has a chance to lower the target’s accuracy by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+540,サイコブレイク,psystrike,エスパー,とくしゅ,100,100,10,0,第五世代,"Inflicts damage based on the target’s Defense, not Special Defense.",0,0,0,0,0,0,0,0,0,0,1,0,1
+541,スイープビンタ,tail-slap,ノーマル,ぶつり,25,85,10,0,第五世代,Hits 2-5 times in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+542,ぼうふう,hurricane,ひこう,とくしゅ,110,70,10,0,第五世代,Has a chance to confuse the target.,0,0,0,0,0,0,1,0,0,0,1,0,1
+543,アフロブレイク,head-charge,ノーマル,ぶつり,120,100,15,0,第五世代,User receives 1/4 the damage it inflicts in recoil.,1,0,0,0,0,0,0,0,0,0,1,0,1
+544,ギアソーサー,gear-grind,はがね,ぶつり,50,85,15,0,第五世代,Hits twice in one turn.,1,0,0,0,0,0,0,0,0,0,1,0,1
+545,かえんだん,searing-shot,ほのお,とくしゅ,100,100,5,0,第五世代,Has a chance to burn the target.,0,0,0,1,0,0,0,0,0,0,1,0,1
+546,テクノバスター,techno-blast,ノーマル,とくしゅ,120,100,5,0,第五世代,"If the user is holding a appropriate plate or drive, the damage inflicted will match it.",0,0,0,0,0,0,0,0,0,0,1,0,1
+547,いにしえのうた,relic-song,ノーマル,とくしゅ,75,100,10,0,第五世代,Has a chance to put the target to sleep.,0,0,1,0,0,0,0,0,0,0,1,0,1
+548,しんぴのつるぎ,secret-sword,かくとう,とくしゅ,85,100,10,0,第五世代,"Inflicts damage based on the target’s Defense, not Special Defense.",0,0,0,0,0,1,0,0,0,0,1,0,1
+549,こごえるせかい,glaciate,こおり,とくしゅ,65,95,10,0,第五世代,Lowers the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+550,らいげき,bolt-strike,でんき,ぶつり,130,85,5,0,第五世代,Has a chance to paralyze the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+551,あおいほのお,blue-flare,ほのお,とくしゅ,130,85,5,0,第五世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+552,ほのおのまい,fiery-dance,ほのお,とくしゅ,80,100,10,0,第五世代,Has a chance to raise the user’s Special Attack by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+553,フリーズボルト,freeze-shock,こおり,ぶつり,140,90,5,0,第五世代,Requires a turn to charge before attacking.  Has a chance to paralyze the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+554,コールドフレア,ice-burn,こおり,とくしゅ,140,90,5,0,第五世代,Requires a turn to charge before attacking.  Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+555,バークアウト,snarl,あく,とくしゅ,55,95,15,0,第五世代,Has a chance to lower the target’s Special Attack by one stage.,0,0,1,0,0,0,0,0,0,0,1,0,1
+556,つららおとし,icicle-crash,こおり,ぶつり,85,90,10,0,第五世代,Has a chance to make the target flinch.,0,0,0,0,0,0,0,0,0,0,1,0,1
+557,Ｖジェネレート,v-create,ほのお,ぶつり,180,95,5,0,第五世代,"Lowers the user’s Defense, Special Defense, and Speed by one stage each.",1,0,0,0,0,0,0,0,0,0,1,0,1
+558,クロスフレイム,fusion-flare,ほのお,とくしゅ,100,100,5,0,第五世代,"With Fusion Bolt, inflicts double damage.",0,0,0,0,0,0,0,0,0,0,1,0,1
+559,クロスサンダー,fusion-bolt,でんき,ぶつり,100,100,5,0,第五世代,"With Fusion Flare, inflicts double damage.",0,0,0,0,0,0,0,0,0,0,1,0,1
+560,フライングプレス,flying-press,かくとう,ぶつり,100,95,10,0,第六世代,Deals both Fighting and Flying-type damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+561,たたみがえし,mat-block,かくとう,へんか,,,10,0,第六世代,Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out.,0,0,0,0,0,0,0,0,0,0,0,0,0
+562,ゲップ,belch,どく,とくしゅ,120,90,10,0,第六世代,Can only be used after the user has eaten a berry.,0,0,0,0,0,0,0,0,0,0,1,0,0
+563,たがやす,rototiller,じめん,へんか,,,10,0,第六世代,Raises the Attack and Special Attack of all Grass Pokémon in battle.,0,0,0,0,0,0,0,0,0,0,0,0,0
+564,ねばねばネット,sticky-web,むし,へんか,,,20,0,第六世代,"Covers the opposing field, lowering opponents’ Speed by one stage upon switching in.",0,0,0,0,0,0,0,0,0,0,0,1,0
+565,とどめばり,fell-stinger,むし,ぶつり,50,100,25,0,第六世代,Raises the user’s Attack by two stages if it KOs the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+566,ゴーストダイブ,phantom-force,ゴースト,ぶつり,90,100,10,0,第六世代,"User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.",1,0,0,0,0,0,0,0,0,0,0,0,1
+567,ハロウィン,trick-or-treat,ゴースト,へんか,,100,20,0,第六世代,Adds Ghost to the target’s types.,0,0,0,0,0,0,0,0,0,0,1,1,1
+568,おたけび,noble-roar,ノーマル,へんか,,100,30,0,第六世代,Lowers the target’s Attack and Special Attack by one stage.,0,0,1,0,0,0,0,0,0,0,1,1,1
+569,プラズマシャワー,ion-deluge,でんき,へんか,,,25,1,第六世代,Changes all Normal moves to Electric moves for the rest of the turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,パラボラチャージ,parabolic-charge,でんき,とくしゅ,65,100,20,0,第六世代,Heals the user for half the total damage dealt to all targets.,0,0,0,0,0,0,0,0,0,1,1,0,1
+571,もりののろい,forests-curse,くさ,へんか,,100,20,0,第六世代,Adds Grass to the target’s types.,0,0,0,0,0,0,0,0,0,0,1,1,1
+572,はなふぶき,petal-blizzard,くさ,ぶつり,90,100,15,0,第六世代,Inflicts regular damage.,0,0,0,0,0,0,1,0,0,0,1,0,1
+573,フリーズドライ,freeze-dry,こおり,とくしゅ,70,100,20,0,第六世代,Super-effective against Water.,0,0,0,0,0,0,0,0,0,0,1,0,1
+574,チャームボイス,disarming-voice,フェアリー,とくしゅ,40,,15,0,第六世代,Never misses.,0,0,1,0,0,0,0,0,0,0,1,0,1
+575,すてゼリフ,parting-shot,あく,へんか,,100,20,0,第六世代,Lowers all targets’ Attack and Special Attack by one stage.  Makes the user switch out.,0,0,1,0,0,0,0,0,0,0,1,1,1
+576,ひっくりかえす,topsy-turvy,あく,へんか,,,20,0,第六世代,Inverts the target’s stat modifiers.,0,0,0,0,0,0,0,0,0,0,1,1,1
+577,ドレインキッス,draining-kiss,フェアリー,とくしゅ,50,100,10,0,第六世代,Drains 75% of the damage inflicted to heal the user.,1,0,0,0,0,0,0,0,0,1,1,0,1
+578,トリックガード,crafty-shield,フェアリー,へんか,,,10,3,第六世代,Protects all friendly Pokémon from non-damaging moves.,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,フラワーガード,flower-shield,フェアリー,へんか,,,10,0,第六世代,Raises the Defense of all Grass Pokémon in battle.,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,グラスフィールド,grassy-terrain,くさ,へんか,,,10,0,第六世代,"For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their Grass moves to 1.5× their power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+581,ミストフィールド,misty-terrain,フェアリー,へんか,,,10,0,第六世代,"For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming Dragon moves.",0,0,0,0,0,0,0,0,0,0,0,0,0
+582,そうでん,electrify,でんき,へんか,,,20,0,第六世代,Changes the target’s move’s type to Electric if it hasn’t moved yet this turn.,0,0,0,0,0,0,0,0,0,0,1,0,1
+583,じゃれつく,play-rough,フェアリー,ぶつり,90,90,10,0,第六世代,Has a chance to lower the target’s Attack by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+584,ようせいのかぜ,fairy-wind,フェアリー,とくしゅ,40,100,30,0,第六世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,1,0,0,0,1,0,1
+585,ムーンフォース,moonblast,フェアリー,とくしゅ,95,100,15,0,第六世代,Has a chance to lower the target’s Special Attack by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+586,ばくおんぱ,boomburst,ノーマル,とくしゅ,140,100,10,0,第六世代,Inflicts regular damage.,0,0,1,0,0,0,0,0,0,0,1,0,1
+587,フェアリーロック,fairy-lock,フェアリー,へんか,,,10,0,第六世代,Prevents all Pokémon from fleeing or switching out during the next turn.,0,0,0,0,0,0,0,0,0,0,0,0,1
+588,キングシールド,kings-shield,はがね,へんか,,,10,4,第六世代,Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact.  Switches Aegislash to Shield Forme.,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,なかよくする,play-nice,ノーマル,へんか,,,20,0,第六世代,Lowers the target’s Attack by one stage.,0,0,0,0,0,0,0,0,0,0,0,1,1
+590,ないしょばなし,confide,ノーマル,へんか,,,20,0,第六世代,Lowers the target’s Special Attack by one stage.,0,0,1,0,0,0,0,0,0,0,0,1,1
+591,ダイヤストーム,diamond-storm,いわ,ぶつり,100,95,5,0,第六世代,Has a chance to raise the user’s Defense by two stages for each target hit.,0,0,0,0,0,0,0,0,0,0,1,0,1
+592,スチームバースト,steam-eruption,みず,とくしゅ,110,95,5,0,第六世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+593,いじげんホール,hyperspace-hole,エスパー,とくしゅ,80,,5,0,第六世代,Ignores and destroys protection effects.,0,0,0,0,0,0,0,0,0,0,0,0,1
+594,みずしゅりけん,water-shuriken,みず,とくしゅ,15,100,20,1,第六世代,Hits 2–5 times.,0,0,0,0,0,0,0,0,0,0,0,0,0
+595,マジカルフレイム,mystical-fire,ほのお,とくしゅ,75,100,10,0,第六世代,Has a chance to lower the target’s Special Attack by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+596,ニードルガード,spiky-shield,くさ,へんか,,,10,4,第六世代,Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.,0,0,0,0,0,0,0,0,0,0,0,0,0
+597,アロマミスト,aromatic-mist,フェアリー,へんか,,,20,0,第六世代,Raises a selected ally’s Special Defense by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+598,かいでんぱ,eerie-impulse,でんき,へんか,,100,15,0,第六世代,Lowers the target’s Special Attack by two stages.,0,0,0,0,0,0,0,0,0,0,1,1,1
+599,ベノムトラップ,venom-drench,どく,へんか,,100,20,0,第六世代,"Lowers the target’s Attack, Special Attack, and Speed by one stage if it is poisoned.",0,0,0,0,0,0,0,0,0,0,1,1,1
+600,ふんじん,powder,むし,へんか,,100,20,1,第六世代,"Explodes if the target uses a Fire move this turn, damaging it for 1/4 its max HP and preventing the move.",0,0,0,0,0,0,0,0,1,0,1,1,1
+601,ジオコントロール,geomancy,フェアリー,へんか,,,10,0,第六世代,"Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages.",0,0,0,0,0,0,0,0,0,0,0,0,0
+602,じばそうさ,magnetic-flux,でんき,へんか,,,20,0,第六世代,Raises the Defense and Special Defense of all friendly Pokémon with Plus or Minus by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+603,ハッピータイム,happy-hour,ノーマル,へんか,,,30,0,第六世代,Doubles prize money.,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,エレキフィールド,electric-terrain,でんき,へんか,,,10,0,第六世代,"For five turns, prevents all Pokémon on the ground from sleeping and strengthens their Electric moves to 1.5× their power.",0,0,0,0,0,0,0,0,0,0,0,0,0
+605,マジカルシャイン,dazzling-gleam,フェアリー,とくしゅ,80,100,10,0,第六世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+606,おいわい,celebrate,ノーマル,へんか,,,40,0,第六世代,Does nothing.,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,てをつなぐ,hold-hands,ノーマル,へんか,,,40,0,第六世代,Does nothing.,0,0,0,0,0,0,0,0,0,0,0,0,0
+608,つぶらなひとみ,baby-doll-eyes,フェアリー,へんか,,100,30,1,第六世代,Lowers the target’s Attack by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+609,ほっぺすりすり,nuzzle,でんき,ぶつり,20,100,20,0,第六世代,Has a chance to paralyze the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+610,てかげん,hold-back,ノーマル,ぶつり,40,100,40,0,第六世代,Cannot lower the target’s HP below 1.,1,0,0,0,0,0,0,0,0,0,1,0,1
+611,まとわりつく,infestation,むし,とくしゅ,20,100,20,0,第六世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,1,0,0,0,0,0,0,0,0,0,1,0,1
+612,グロウパンチ,power-up-punch,かくとう,ぶつり,40,100,20,0,第六世代,Raises the user’s Attack by one stage after inflicting damage.,1,1,0,0,0,0,0,0,0,0,1,0,1
+613,デスウイング,oblivion-wing,ひこう,とくしゅ,80,100,10,0,第六世代,Drains 75% of the damage inflicted to heal the user.,0,0,0,0,0,0,0,0,0,1,1,0,1
+614,サウザンアロー,thousand-arrows,じめん,ぶつり,90,100,10,0,第六世代,"Grounds the target, and hits even Flying-type or levitating Pokémon.",0,0,0,0,0,0,0,0,0,0,1,0,1
+615,サウザンウェーブ,thousand-waves,じめん,ぶつり,90,100,10,0,第六世代,Prevents the target from leaving battle.,0,0,0,0,0,0,0,0,0,0,1,0,1
+616,グランドフォース,lands-wrath,じめん,ぶつり,90,100,10,0,第六世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+617,はめつのひかり,light-of-ruin,フェアリー,とくしゅ,140,90,5,0,第六世代,User receives 1/2 the damage inflicted in recoil.,0,0,0,0,0,0,0,0,0,0,1,0,1
+618,こんげんのはどう,origin-pulse,みず,とくしゅ,110,85,10,0,第六世代,Inflicts regular damage with no additional effect.,0,0,0,0,1,0,0,0,0,0,1,0,1
+619,だんがいのつるぎ,precipice-blades,じめん,ぶつり,120,85,10,0,第六世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+620,ガリョウテンセイ,dragon-ascent,ひこう,ぶつり,120,100,5,0,第六世代,Lowers the user’s Defense and Special Defense by one stage after inflicting damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+621,いじげんラッシュ,hyperspace-fury,あく,ぶつり,100,,5,0,第六世代,Ignores and destroys protection effects.,0,0,0,0,0,0,0,0,0,0,0,0,1
+622,ウルトラダッシュアタック,breakneck-blitz--physical,ノーマル,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+623,ウルトラダッシュアタック,breakneck-blitz--special,ノーマル,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+624,ぜんりょくむそうげきれつけん,all-out-pummeling--physical,かくとう,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,ぜんりょくむそうげきれつけん,all-out-pummeling--special,かくとう,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+626,ファイナルダイブクラッシュ,supersonic-skystrike--physical,ひこう,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+627,ファイナルダイブクラッシュ,supersonic-skystrike--special,ひこう,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+628,アシッドポイズンデリート,acid-downpour--physical,どく,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,アシッドポイズンデリート,acid-downpour--special,どく,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+630,ライジングランドオーバー,tectonic-rage--physical,じめん,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,ライジングランドオーバー,tectonic-rage--special,じめん,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+632,ワールズエンドフォール,continental-crush--physical,いわ,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+633,ワールズエンドフォール,continental-crush--special,いわ,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+634,ぜったいほしょくかいてんざん,savage-spin-out--physical,むし,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+635,ぜったいほしょくかいてんざん,savage-spin-out--special,むし,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+636,むげんあんやへのいざない,never-ending-nightmare--physical,ゴースト,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+637,むげんあんやへのいざない,never-ending-nightmare--special,ゴースト,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+638,ちょうぜつらせんれんげき,corkscrew-crash--physical,はがね,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+639,ちょうぜつらせんれんげき,corkscrew-crash--special,はがね,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+640,ダイナミックフルフレイム,inferno-overdrive--physical,ほのお,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+641,ダイナミックフルフレイム,inferno-overdrive--special,ほのお,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+642,スーパーアクアトルネード,hydro-vortex--physical,みず,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,スーパーアクアトルネード,hydro-vortex--special,みず,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+644,ブルームシャインエクストラ,bloom-doom--physical,くさ,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+645,ブルームシャインエクストラ,bloom-doom--special,くさ,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+646,スパーキングギガボルト,gigavolt-havoc--physical,でんき,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,スパーキングギガボルト,gigavolt-havoc--special,でんき,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+648,マキシマムサイブレイカー,shattered-psyche--physical,エスパー,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+649,マキシマムサイブレイカー,shattered-psyche--special,エスパー,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+650,レイジングジオフリーズ,subzero-slammer--physical,こおり,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+651,レイジングジオフリーズ,subzero-slammer--special,こおり,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+652,アルティメットドラゴンバーン,devastating-drake--physical,ドラゴン,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,アルティメットドラゴンバーン,devastating-drake--special,ドラゴン,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+654,ブラックホールイクリプス,black-hole-eclipse--physical,あく,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+655,ブラックホールイクリプス,black-hole-eclipse--special,あく,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+656,ラブリースターインパクト,twinkle-tackle--physical,フェアリー,ぶつり,,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,ラブリースターインパクト,twinkle-tackle--special,フェアリー,とくしゅ,,,1,0,第七世代,Inflicts regular damage with no additional effect.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+658,ひっさつのピカチュート,catastropika,でんき,ぶつり,210,,1,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,0,0,0
+659,すなあつめ,shore-up,じめん,へんか,,,5,0,第七世代,"Heals the user for ½ its max HP, or ⅔ during a sandstorm.",0,0,0,0,0,0,0,0,0,1,0,0,0
+660,であいがしら,first-impression,むし,ぶつり,90,100,10,2,第七世代,Can only be used as the first move after the user enters battle.,1,0,0,0,0,0,0,0,0,0,1,0,1
+661,トーチカ,baneful-bunker,どく,へんか,,,10,4,第七世代,Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it.,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,かげぬい,spirit-shackle,ゴースト,ぶつり,80,100,10,0,第七世代,Traps the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+663,ＤＤラリアット,darkest-lariat,あく,ぶつり,85,100,10,0,第七世代,Ignores the target’s stat modifiers.,1,0,0,0,0,0,0,0,0,0,1,0,1
+664,うたかたのアリア,sparkling-aria,みず,とくしゅ,90,100,10,0,第七世代,Cures the target of burns.,0,0,1,0,0,0,0,0,0,0,1,0,1
+665,アイスハンマー,ice-hammer,こおり,ぶつり,100,90,10,0,第七世代,Lowers user’s Speed by one stage.,1,1,0,0,0,0,0,0,0,0,1,0,1
+666,フラワーヒール,floral-healing,フェアリー,へんか,,,10,0,第七世代,"Heals the target for ½ its max HP, or ⅔ on Grassy Terrain.",0,0,0,0,0,0,0,0,0,1,1,1,0
+667,10まんばりき,high-horsepower,じめん,ぶつり,95,95,10,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+668,ちからをすいとる,strength-sap,くさ,へんか,,100,10,0,第七世代,Heals the user by the target’s current Attack stat and lowers the target’s Attack by one stage.,0,0,0,0,0,0,0,0,0,1,1,1,1
+669,ソーラーブレード,solar-blade,くさ,ぶつり,125,100,10,0,第七世代,Requires a turn to charge before attacking.,1,0,0,0,0,1,0,0,0,0,1,0,1
+670,このは,leafage,くさ,ぶつり,40,100,40,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+671,スポットライト,spotlight,ノーマル,へんか,,,15,3,第七世代,Forces the target’s opponents to aim at the target for the rest of the turn.,0,0,0,0,0,0,0,0,0,0,1,1,0
+672,どくのいと,toxic-thread,どく,へんか,,100,20,0,第七世代,Poisons the target and lowers its Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,1,1
+673,とぎすます,laser-focus,ノーマル,へんか,,,30,0,第七世代,Guarantees a critical hit with the user’s next move.,0,0,0,0,0,0,0,0,0,0,0,0,0
+674,アシストギア,gear-up,はがね,へんか,,,20,0,第七世代,Raises the Attack and Special Attack of all friendly Pokémon with Plus or Minus by one stage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+675,じごくづき,throat-chop,あく,ぶつり,80,100,15,0,第七世代,Prevents the target from using sound-based moves for two turns.,1,0,0,0,0,0,0,0,0,0,1,0,1
+676,かふんだんご,pollen-puff,むし,とくしゅ,90,100,15,0,第七世代,"Damages opponents, but heals allies for 50% of their max HP.",0,0,0,1,0,0,0,0,0,0,1,0,1
+677,アンカーショット,anchor-shot,はがね,ぶつり,80,100,20,0,第七世代,Traps the target.,1,0,0,0,0,0,0,0,0,0,1,0,1
+678,サイコフィールド,psychic-terrain,エスパー,へんか,,,10,0,第七世代,Protects Pokémon on the ground from priority moves and increases the power of their  Psychic moves by 50%.,0,0,0,0,0,0,0,0,0,0,0,0,0
+679,とびかかる,lunge,むし,ぶつり,80,100,15,0,第七世代,Lowers the target’s Attack by one stage after inflicting damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+680,ほのおのムチ,fire-lash,ほのお,ぶつり,80,100,15,0,第七世代,Lowers the target’s Defense by one stage after inflicting damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+681,つけあがる,power-trip,あく,ぶつり,20,100,10,0,第七世代,"Power is higher the more the user’s stats have been raised, to a maximum of 31×.",0,0,0,0,0,0,0,0,0,0,0,0,0
+682,もえつきる,burn-up,ほのお,とくしゅ,130,100,5,0,第七世代,Removes the user’s Fire type after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+683,スピードスワップ,speed-swap,エスパー,へんか,,,10,0,第七世代,Exchanges the user’s Speed with the target’s.,0,0,0,0,0,0,0,0,0,0,1,0,1
+684,スマートホーン,smart-strike,はがね,ぶつり,70,,10,0,第七世代,Never misses.,1,0,0,0,0,0,0,0,0,0,1,0,1
+685,じょうか,purify,どく,へんか,,,20,0,第七世代,Cures the target of a major status ailment and heals the user for 50% of its max HP.,0,0,0,0,0,0,0,0,0,1,1,1,0
+686,めざめるダンス,revelation-dance,ノーマル,とくしゅ,90,100,15,0,第七世代,Has the same type as the user.,0,0,0,0,0,0,0,0,0,0,1,0,1
+687,コアパニッシャー,core-enforcer,ドラゴン,とくしゅ,100,100,10,0,第七世代,Nullifies the target’s ability if it moves earlier.,0,0,0,0,0,0,0,0,0,0,1,0,1
+688,トロピカルキック,trop-kick,くさ,ぶつり,70,100,15,0,第七世代,Lowers the target’s Attack by one stage after inflicting damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+689,さいはい,instruct,エスパー,へんか,,,15,0,第七世代,Forces the target to repeat its last used move.,0,0,0,0,0,0,0,0,0,0,1,0,0
+690,くちばしキャノン,beak-blast,ひこう,ぶつり,100,100,15,-3,第七世代,Inflicts a burn on any Pokémon that makes contact before the attack.,0,0,0,1,0,0,0,0,0,0,1,0,0
+691,スケイルノイズ,clanging-scales,ドラゴン,とくしゅ,110,100,5,0,第七世代,Lowers the user’s Defense by one stage after inflicting damage.,0,0,1,0,0,0,0,0,0,0,1,0,1
+692,ドラゴンハンマー,dragon-hammer,ドラゴン,ぶつり,90,100,15,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+693,ぶんまわす,brutal-swing,あく,ぶつり,60,100,20,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+694,オーロラベール,aurora-veil,こおり,へんか,,,20,0,第七世代,"Reduces damage five turns, but must be used during hail.",0,0,0,0,0,0,0,0,0,0,0,0,0
+695,シャドーアローズストライク,sinister-arrow-raid,ゴースト,ぶつり,180,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,ハイパーダーククラッシャー,malicious-moonsault,あく,ぶつり,180,,1,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,0,0,0
+697,わだつみのシンフォニア,oceanic-operetta,みず,とくしゅ,195,,1,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,ガーディアン・デ・アローラ,guardian-of-alola,フェアリー,とくしゅ,,,1,0,第七世代,Damages the target for 75% of its remaining HP.,0,0,0,0,0,0,0,0,0,0,0,0,0
+699,しちせいだっこんたい,soul-stealing-7-star-strike,ゴースト,ぶつり,195,,1,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,0,0,0
+700,ライトニングサーフライド,stoked-sparksurfer,でんき,とくしゅ,175,,1,0,第七世代,Has a chance to paralyze the target.,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,ほんきをだす　こうげき,pulverizing-pancake,ノーマル,ぶつり,210,,1,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,0,0,0
+702,ナインエボルブースト,extreme-evoboost,ノーマル,へんか,,,1,0,第七世代,Raises all of the user’s stats by two stages.,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,オリジンズスーパーノヴァ,genesis-supernova,エスパー,とくしゅ,185,,1,0,第七世代,Changes the terrain to Psychic Terrain after inflicting damage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+704,トラップシェル,shell-trap,ほのお,とくしゅ,150,100,5,-3,第七世代,Only inflicts damage if the user was hit by a physical move this turn.,0,0,0,0,0,0,0,0,0,0,1,0,0
+705,フルールカノン,fleur-cannon,フェアリー,とくしゅ,130,90,5,0,第七世代,Lowers the user’s Special Attack by two stages after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+706,サイコファング,psychic-fangs,エスパー,ぶつり,85,100,10,0,第七世代,Destroys Reflect and Light Screen.,1,0,0,0,0,0,0,1,0,0,1,0,1
+707,じだんだ,stomping-tantrum,じめん,ぶつり,75,100,10,0,第七世代,Has double power if the user’s last move failed.,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,シャドーボーン,shadow-bone,ゴースト,ぶつり,85,100,10,0,第七世代,Has a chance to lower the target’s Defense by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+709,アクセルロック,accelerock,いわ,ぶつり,40,100,20,1,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+710,アクアブレイク,liquidation,みず,ぶつり,85,100,10,0,第七世代,Has a chance to lower the target’s Defense by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+711,プリズムレーザー,prismatic-laser,エスパー,とくしゅ,160,100,10,0,第七世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+712,シャドースチール,spectral-thief,ゴースト,ぶつり,90,100,10,0,第七世代,"Steals the target’s stat increases, then inflicts damage.",1,0,0,0,0,0,0,0,0,0,1,0,1
+713,メテオドライブ,sunsteel-strike,はがね,ぶつり,100,100,5,0,第七世代,Cannot be disrupted by abilities.,1,0,0,0,0,0,0,0,0,0,1,0,1
+714,シャドーレイ,moongeist-beam,ゴースト,とくしゅ,100,100,5,0,第七世代,Cannot be disrupted by abilities.,0,0,0,0,0,0,0,0,0,0,1,0,1
+715,なみだめ,tearful-look,ノーマル,へんか,,,20,0,第七世代,Lowers the target’s Attack and Special Attack by one stage.,0,0,0,0,0,0,0,0,0,0,0,1,1
+716,びりびりちくちく,zing-zap,でんき,ぶつり,80,100,10,0,第七世代,Has a chance to make the target flinch.,1,0,0,0,0,0,0,0,0,0,1,0,1
+717,しぜんのいかり,natures-madness,フェアリー,とくしゅ,,90,10,0,第七世代,Inflicts damage equal to half the target’s HP.,0,0,0,0,0,0,0,0,0,0,0,0,0
+718,マルチアタック,multi-attack,ノーマル,ぶつり,120,100,10,0,第七世代,"If the user is holding a appropriate plate or drive, the damage inflicted will match it.",1,0,0,0,0,0,0,0,0,0,1,0,1
+719,1000まんボルト,10-000-000-volt-thunderbolt,でんき,とくしゅ,195,,1,0,第七世代,Inflicts regular damage with no additional effect.,,,,,,,,,,,,,
+720,ビックリヘッド,mind-blown,ほのお,とくしゅ,150,100,5,0,第七世代,"Inflicts damage, and the user takes damage equal to half of its max HP, rounded up.",0,0,0,0,0,0,0,0,0,0,1,0,1
+721,プラズマフィスト,plasma-fists,でんき,ぶつり,100,100,15,0,第七世代,"After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn.",1,1,0,0,0,0,0,0,0,0,1,0,1
+722,フォトンゲイザー,photon-geyser,エスパー,とくしゅ,100,100,5,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+723,てんこがすめつぼうのひかり,light-that-burns-the-sky,エスパー,とくしゅ,200,,1,0,第七世代,"Inflicts damage using either Attack or Special Attack stat, whichever is higher.",0,0,0,0,0,0,0,0,0,0,0,0,0
+724,サンシャインスマッシャー,searing-sunraze-smash,はがね,ぶつり,200,,1,0,第七世代,Cannot be disrupted by abilities.,1,0,0,0,0,0,0,0,0,0,0,0,0
+725,ムーンライトブラスター,menacing-moonraze-maelstrom,ゴースト,とくしゅ,200,,1,0,第七世代,Cannot be disrupted by abilities.,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,ぽかぼかフレンドタイム,lets-snuggle-forever,フェアリー,ぶつり,190,,1,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,0,0,0
+727,ラジアルエッジストーム,splintered-stormshards,いわ,ぶつり,190,,1,0,第七世代,Inflicts damage and removes any terrain present on the battlefield.,0,0,0,0,0,0,0,0,0,0,0,0,0
+728,ブレイジングソウルビート,clangorous-soulblaze,ドラゴン,とくしゅ,185,,1,0,第七世代,"Inflicts damage to all opposing Pokémon and increases the user’s Attack, Defense, Special Attack, Special Defense, and Speed by one stage each.",0,0,1,0,0,0,0,0,0,0,0,0,0
+729,ばちばちアクセル,zippy-zap,でんき,ぶつり,80,100,10,2,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+730,ざぶざぶサーフ,splishy-splash,みず,とくしゅ,90,100,15,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+731,ふわふわフォール,floaty-fall,ひこう,ぶつり,90,95,15,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+732,ピカピカサンダー,pika-papow,でんき,とくしゅ,,,20,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+733,いきいきバブル,bouncy-bubble,みず,とくしゅ,60,100,20,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,1,1,0,1
+734,びりびりエレキ,buzzy-buzz,でんき,とくしゅ,60,100,20,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+735,めらめらバーン,sizzly-slide,ほのお,ぶつり,60,100,20,0,第七世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+736,どばどばオーラ,glitzy-glow,エスパー,とくしゅ,80,95,15,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+737,わるわるゾーン,baddy-bad,あく,とくしゅ,80,95,15,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+738,すくすくボンバー,sappy-seed,くさ,ぶつり,100,90,10,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,1,1
+739,こちこちフロスト,freezy-frost,こおり,とくしゅ,100,90,10,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+740,きらきらストーム,sparkly-swirl,フェアリー,とくしゅ,120,85,5,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+741,ブイブイブレイク,veevee-volley,ノーマル,ぶつり,,,20,0,第七世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,ダブルパンツァー,double-iron-bash,はがね,ぶつり,60,100,5,0,第七世代,Hits twice in one turn.,1,1,0,0,0,0,0,0,0,0,1,0,1
+743,ダイウォール,max-guard,ノーマル,へんか,,,10,4,第八世代,Prevents any moves from hitting the user this turn.,0,0,0,0,0,0,0,0,0,0,0,0,0
+744,ダイマックスほう,dynamax-cannon,ドラゴン,とくしゅ,100,100,5,0,第八世代,Sets Light Screen on the user’s side of the field after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,0
+745,ねらいうち,snipe-shot,みず,とくしゅ,80,100,15,0,第八世代,Sets Reflect on the user’s side of the field after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+746,くらいつく,jaw-lock,あく,ぶつり,80,100,10,0,第八世代,Seeds the target after inflicting damage.,1,0,0,0,0,0,0,1,0,0,1,0,1
+747,ほおばる,stuff-cheeks,ノーマル,へんか,,,10,0,第八世代,Cures the entire party of major status effects after inflicting damage.,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,はいすいのじん,no-retreat,かくとう,へんか,,,5,0,第八世代,"Hits twice in one turn, with a chance to make the target flinch.",0,0,0,0,0,0,0,0,0,0,0,0,0
+749,タールショット,tar-shot,いわ,へんか,,100,15,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,1,1
+750,まほうのこな,magic-powder,エスパー,へんか,,100,20,0,第八世代,,0,0,0,0,0,0,0,0,1,0,1,1,1
+751,ドラゴンアロー,dragon-darts,ドラゴン,ぶつり,50,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+752,おちゃかい,teatime,ノーマル,へんか,,,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,たこがため,octolock,かくとう,へんか,,100,15,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+754,でんげきくちばし,bolt-beak,でんき,ぶつり,85,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+755,エラがみ,fishious-rend,みず,ぶつり,85,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,コートチェンジ,court-change,ノーマル,へんか,,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,1
+757,ダイバーン,max-flare,ほのお,ぶつり,100,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+758,ダイワーム,max-flutterby,むし,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+759,ダイサンダー,max-lightning,でんき,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,ダイアタック,max-strike,ノーマル,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,ダイナックル,max-knuckle,かくとう,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,ダイホロウ,max-phantasm,ゴースト,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+763,ダイアイス,max-hailstorm,こおり,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+764,ダイアシッド,max-ooze,どく,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+765,ダイストリーム,max-geyser,みず,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+766,ダイジェット,max-airstream,ひこう,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+767,ダイフェアリー,max-starfall,フェアリー,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+768,ダイドラグーン,max-wyrmwind,ドラゴン,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+769,ダイサイコ,max-mindstorm,エスパー,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,ダイロック,max-rockfall,いわ,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+771,ダイアース,max-quake,じめん,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+772,ダイアーク,max-darkness,あく,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+773,ダイソウゲン,max-overgrowth,くさ,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+774,ダイスチル,max-steelspike,はがね,ぶつり,10,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+775,ソウルビート,clangorous-soul,ドラゴン,へんか,,100,5,0,第八世代,,0,0,1,0,0,0,0,0,0,0,0,0,0
+776,ボディプレス,body-press,かくとう,ぶつり,80,100,10,0,第八世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+777,デコレーション,decorate,フェアリー,へんか,,,15,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+778,ドラムアタック,drum-beating,くさ,ぶつり,80,100,10,0,第八世代,Has a chance to lower the target’s Speed by one stage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+779,トラバサミ,snap-trap,くさ,ぶつり,35,100,15,0,第八世代,Prevents the target from fleeing and inflicts damage for 2-5 turns.,1,0,0,0,0,0,0,0,0,0,1,0,1
+780,かえんボール,pyro-ball,ほのお,ぶつり,120,90,5,0,第八世代,Has a chance to burn the target.,0,0,0,1,0,0,0,0,0,0,1,0,1
+781,きょじゅうざん,behemoth-blade,はがね,ぶつり,100,100,5,0,第八世代,,1,0,0,0,0,1,0,0,0,0,1,0,1
+782,きょじゅうだん,behemoth-bash,はがね,ぶつり,100,100,5,0,第八世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+783,オーラぐるま,aura-wheel,でんき,ぶつり,110,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+784,ワイドブレイカー,breaking-swipe,ドラゴン,ぶつり,60,100,15,0,第八世代,Lowers the target’s Attack by one stage after inflicting damage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+785,えだづき,branch-poke,くさ,ぶつり,40,100,40,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+786,オーバードライブ,overdrive,でんき,とくしゅ,80,100,10,0,第八世代,,0,0,1,0,0,0,0,0,0,0,1,0,1
+787,りんごさん,apple-acid,くさ,とくしゅ,80,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+788,Ｇのちから,grav-apple,くさ,ぶつり,80,100,10,0,第八世代,Lowers the target’s Defense by one stage after inflicting damage.,0,0,0,0,0,0,0,0,0,0,1,0,1
+789,ソウルクラッシュ,spirit-break,フェアリー,ぶつり,75,100,15,0,第八世代,Has a chance to lower the target’s Special Attack by one stage.,1,0,0,0,0,0,0,0,0,0,1,0,1
+790,ワンダースチーム,strange-steam,フェアリー,とくしゅ,90,95,10,0,第八世代,Has a chance to confuse the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+791,いのちのしずく,life-dew,みず,へんか,,,10,0,第八世代,,0,0,0,0,0,0,0,0,0,1,0,0,0
+792,ブロッキング,obstruct,あく,へんか,,100,10,4,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+793,どげざつき,false-surrender,あく,ぶつり,80,,10,0,第八世代,Never misses.,1,0,0,0,0,0,0,0,0,0,1,0,1
+794,スターアサルト,meteor-assault,かくとう,ぶつり,150,100,5,0,第八世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+795,ムゲンダイビーム,eternabeam,ドラゴン,とくしゅ,160,90,5,0,第八世代,User foregoes its next turn to recharge.,0,0,0,0,0,0,0,0,0,0,1,0,1
+796,てっていこうせん,steel-beam,はがね,とくしゅ,140,95,5,0,第八世代,"Inflicts damage, and the user takes damage equal to half of its max HP, rounded up.",0,0,0,0,0,0,0,0,0,0,1,0,1
+797,ワイドフォース,expanding-force,エスパー,とくしゅ,80,100,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+798,アイアンローラー,steel-roller,はがね,ぶつり,130,100,5,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+799,スケイルショット,scale-shot,ドラゴン,ぶつり,25,90,20,0,第八世代,Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row.,0,0,0,0,0,0,0,0,0,0,1,0,1
+800,メテオビーム,meteor-beam,いわ,とくしゅ,120,90,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+801,シェルアームズ,shell-side-arm,どく,とくしゅ,90,100,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+802,ミストバースト,misty-explosion,フェアリー,とくしゅ,100,100,5,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+803,グラススライダー,grassy-glide,くさ,ぶつり,55,100,20,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+804,ライジングボルト,rising-voltage,でんき,とくしゅ,70,100,20,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+805,だいちのはどう,terrain-pulse,ノーマル,とくしゅ,50,100,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,1,0,0,0,0,0,1,0,1
+806,はいよるいちげき,skitter-smack,むし,ぶつり,70,90,10,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+807,しっとのほのお,burning-jealousy,ほのお,とくしゅ,70,100,5,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+808,うっぷんばらし,lash-out,あく,ぶつり,75,100,5,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+809,ポルターガイスト,poltergeist,ゴースト,ぶつり,110,90,5,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+810,ふしょくガス,corrosive-gas,どく,へんか,,100,40,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,1,1
+811,コーチング,coaching,かくとう,へんか,,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+812,クイックターン,flip-turn,みず,ぶつり,60,100,20,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+813,トリプルアクセル,triple-axel,こおり,ぶつり,20,90,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+814,ダブルウイング,dual-wingbeat,ひこう,ぶつり,40,90,10,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+815,ねっさのだいち,scorching-sands,じめん,とくしゅ,70,100,10,0,第八世代,Has a chance to burn the target.,0,0,0,0,0,0,0,0,0,0,1,0,1
+816,ジャングルヒール,jungle-healing,くさ,へんか,,,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,1,0,0,0
+817,あんこくきょうだ,wicked-blow,あく,ぶつり,75,100,5,0,第八世代,Inflicts regular damage with no additional effect.,1,1,0,0,0,0,0,0,0,0,1,0,1
+818,すいりゅうれんだ,surging-strikes,みず,ぶつり,25,100,5,0,第八世代,Inflicts regular damage with no additional effect.,1,1,0,0,0,0,0,0,0,0,1,0,1
+819,サンダープリズン,thunder-cage,でんき,とくしゅ,80,90,15,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+820,ドラゴンエナジー,dragon-energy,ドラゴン,とくしゅ,150,100,5,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,0,0,0
+821,いてつくしせん,freezing-glare,エスパー,とくしゅ,90,100,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+822,もえあがるいかり,fiery-wrath,あく,とくしゅ,90,100,10,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+823,らいめいげり,thunderous-kick,かくとう,ぶつり,90,100,10,0,第八世代,Inflicts regular damage with no additional effect.,1,0,0,0,0,0,0,0,0,0,1,0,1
+824,ブリザードランス,glacial-lance,こおり,ぶつり,120,100,5,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+825,アストラルビット,astral-barrage,ゴースト,とくしゅ,120,100,5,0,第八世代,Inflicts regular damage with no additional effect.,0,0,0,0,0,0,0,0,0,0,1,0,1
+826,ぶきみなじゅもん,eerie-spell,エスパー,とくしゅ,80,100,5,0,第八世代,Inflicts regular damage with no additional effect.,0,0,1,0,0,0,0,0,0,0,1,0,1
+827,フェイタルクロー,dire-claw,どく,ぶつり,80,100,15,0,第八世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+828,バリアーラッシュ,psyshield-bash,エスパー,ぶつり,70,90,10,0,第八世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+829,パワーシフト,power-shift,ノーマル,へんか,0,,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+830,がんせきアックス,stone-axe,いわ,ぶつり,65,90,15,0,第八世代,,1,0,0,0,0,1,0,0,0,0,1,0,1
+831,はるのあらし,springtide-storm,フェアリー,とくしゅ,100,80,5,0,第八世代,,0,0,0,0,0,0,1,0,0,0,1,0,1
+832,しんぴのちから,mystical-power,エスパー,とくしゅ,70,90,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+833,だいふんげき,raging-fury,ほのお,ぶつり,120,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+834,ウェーブタックル,wave-crash,みず,ぶつり,120,100,10,0,第八世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+835,クロロブラスト,chloroblast,くさ,とくしゅ,150,95,5,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+836,ひょうざんおろし,mountain-gale,こおり,ぶつり,100,85,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+837,しょうりのまい,victory-dance,かくとう,へんか,0,,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+838,ぶちかまし,headlong-rush,じめん,ぶつり,120,100,5,0,第八世代,,1,1,0,0,0,0,0,0,0,0,1,0,1
+839,どくばりセンボン,barb-barrage,どく,ぶつり,60,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+840,オーラウイング,esper-wing,エスパー,とくしゅ,80,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+841,うらみつらみ,bitter-malice,ゴースト,とくしゅ,75,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+842,たてこもる,shelter,はがね,へんか,0,,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+843,3ぼんのや,triple-arrows,かくとう,ぶつり,90,100,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+844,ひゃっきやこう,infernal-parade,ゴースト,とくしゅ,60,100,15,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+845,ひけん・ちえなみ,ceaseless-edge,あく,ぶつり,65,90,15,0,第八世代,,1,0,0,0,0,1,0,0,0,0,1,0,1
+846,こがらしあらし,bleakwind-storm,ひこう,とくしゅ,100,80,10,0,第八世代,,0,0,0,0,0,0,1,0,0,0,1,0,1
+847,かみなりあらし,wildbolt-storm,でんき,とくしゅ,100,80,10,0,第八世代,,0,0,0,0,0,0,1,0,0,0,1,0,1
+848,ねっさのあらし,sandsear-storm,じめん,とくしゅ,100,80,10,0,第八世代,,0,0,0,0,0,0,1,0,0,0,1,0,1
+849,みかづきのいのり,lunar-blessing,エスパー,へんか,0,,5,0,第八世代,,0,0,0,0,0,0,0,0,0,1,0,0,0
+850,ブレイブチャージ,take-heart,エスパー,へんか,0,,10,0,第八世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+851,テラバースト,tera-blast,ノーマル,とくしゅ,80,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+852,スレッドトラップ,silk-trap,むし,へんか,0,,10,4,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+853,かかとおとし,axe-kick,かくとう,ぶつり,120,90,10,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+854,おはかまいり,last-respects,ゴースト,ぶつり,50,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+855,ルミナコリジョン,lumina-crash,エスパー,とくしゅ,80,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+856,いっちょうあがり,order-up,ドラゴン,ぶつり,80,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,0
+857,ジェットパンチ,jet-punch,みず,ぶつり,60,100,15,1,第九世代,,1,1,0,0,0,0,0,0,0,0,1,0,1
+858,ハバネロエキス,spicy-extract,くさ,へんか,0,,15,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,1,1
+859,ホイールスピン,spin-out,はがね,ぶつり,100,100,5,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+860,ネズミざん,population-bomb,ノーマル,ぶつり,20,90,10,0,第九世代,,1,0,0,0,0,1,0,0,0,0,1,0,1
+861,アイススピナー,ice-spinner,こおり,ぶつり,80,100,15,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+862,きょけんとつげき,glaive-rush,ドラゴン,ぶつり,120,100,5,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+863,さいきのいのり,revival-blessing,ノーマル,へんか,0,,1,0,第九世代,,0,0,0,0,0,0,0,0,0,1,0,0,0
+864,しおづけ,salt-cure,いわ,ぶつり,40,100,15,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+865,トリプルダイブ,triple-dive,みず,ぶつり,30,95,10,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+866,キラースピン,mortal-spin,どく,ぶつり,30,100,15,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+867,うつしえ,doodle,ノーマル,へんか,0,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+868,みをけずる,fillet-away,ノーマル,へんか,0,,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+869,ドゲザン,kowtow-cleave,あく,ぶつり,85,,10,0,第九世代,,1,0,0,0,0,1,0,0,0,0,1,0,1
+870,トリックフラワー,flower-trick,くさ,ぶつり,70,,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+871,フレアソング,torch-song,ほのお,とくしゅ,80,100,10,0,第九世代,,0,0,1,0,0,0,0,0,0,0,1,0,1
+872,アクアステップ,aqua-step,みず,ぶつり,80,100,10,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+873,レイジングブル,raging-bull,ノーマル,ぶつり,90,100,10,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+874,ゴールドラッシュ,make-it-rain,はがね,とくしゅ,120,100,5,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+875,サイコブレイド ,psyblade,エスパー,ぶつり,80,100,15,0,第九世代,,1,0,0,0,0,1,0,0,0,0,1,0,1
+876,ハイドロスチーム,hydro-steam,みず,とくしゅ,80,100,15,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+877,カタストロフィ,ruination,あく,とくしゅ,1,90,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+878,アクセルブレイク,collision-course,かくとう,ぶつり,100,100,5,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+879,イナズマドライブ,electro-drift,でんき,とくしゅ,100,100,5,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+880,しっぽきり,shed-tail,ノーマル,へんか,0,,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+881,さむいギャグ,chilly-reception,こおり,へんか,0,,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+882,おかたづけ,tidy-up,ノーマル,へんか,0,,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+883,ゆきげしき,snowscape,こおり,へんか,0,,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+884,とびつく,pounce,むし,ぶつり,50,100,20,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+885,くさわけ,trailblaze,くさ,ぶつり,50,100,20,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+886,ひやみず,chilling-water,みず,とくしゅ,50,100,20,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+887,ハイパードリル,hyper-drill,ノーマル,ぶつり,100,100,5,0,第九世代,,1,0,0,0,0,0,0,0,0,0,0,0,1
+888,ツインビーム,twin-beam,エスパー,とくしゅ,40,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+889,ふんどのこぶし,rage-fist,ゴースト,ぶつり,50,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,アーマーキャノン,armor-cannon,ほのお,とくしゅ,120,100,5,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+891,むねんのつるぎ,bitter-blade,ほのお,ぶつり,90,100,10,0,第九世代,,1,0,0,0,0,1,0,0,0,1,1,0,1
+892,でんこうそうげき,double-shock,でんき,ぶつり,120,100,5,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+893,デカハンマー,gigaton-hammer,はがね,ぶつり,160,100,5,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+894,ほうふく,comeuppance,あく,ぶつり,1,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+895,アクアカッター,aqua-cutter,みず,ぶつり,70,100,20,0,第九世代,,0,0,0,0,0,1,0,0,0,0,1,0,1
+896,バーンアクセル,blazing-torque,ほのお,ぶつり,80,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,0
+897,ダークアクセル,wicked-torque,あく,ぶつり,80,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,0
+898,ポイズンアクセル,noxious-torque,どく,ぶつり,100,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,0
+899,ファイトアクセル,combat-torque,かくとう,ぶつり,100,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,0
+900,マジカルアクセル,magical-torque,フェアリー,ぶつり,100,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,0
+901,ブラッドムーン,blood-moon,ノーマル,とくしゅ,140,100,5,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+902,シャカシャカほう,matcha-gotcha,くさ,とくしゅ,80,90,15,0,第九世代,,0,0,0,0,0,0,0,0,0,1,1,0,1
+903,みずあめボム,syrup-bomb,くさ,とくしゅ,60,85,10,0,第九世代,,0,0,0,1,0,0,0,0,0,0,1,0,1
+904,ツタこんぼう,ivy-cudgel,くさ,ぶつり,100,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+905,エレクトロビーム,electro-shot,でんき,とくしゅ,130,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+906,テラクラスター,tera-starstorm,ノーマル,とくしゅ,120,100,5,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+907,きまぐレーザー,fickle-beam,ドラゴン,とくしゅ,80,100,5,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+908,かえんのまもり,burning-bulwark,ほのお,へんか,0,0,10,4,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+909,じんらい,thunderclap,でんき,とくしゅ,70,100,5,1,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1
+910,パワフルエッジ,mighty-cleave,いわ,ぶつり,95,100,5,0,第九世代,,1,0,0,0,0,1,0,0,0,0,0,0,1
+911,タキオンカッター,tachyon-cutter,はがね,とくしゅ,50,0,10,0,第九世代,,0,0,0,0,0,1,0,0,0,0,1,0,1
+912,ハードプレス,hard-press,はがね,ぶつり,0,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+913,ドラゴンエール,dragon-cheer,ドラゴン,へんか,0,0,15,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+914,みわくのボイス,alluring-voice,フェアリー,とくしゅ,80,100,10,0,第九世代,,0,0,1,0,0,0,0,0,0,0,1,0,1
+915,やけっぱち,temper-flare,ほのお,ぶつり,75,100,10,0,第九世代,,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,サンダーダイブ,supercell-slam,でんき,ぶつり,100,95,15,0,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+917,サイコノイズ,psychic-noise,エスパー,とくしゅ,75,100,10,0,第九世代,,0,0,1,0,0,0,0,0,0,0,1,0,1
+918,はやてがえし,upper-hand,かくとう,ぶつり,65,100,15,3,第九世代,,1,0,0,0,0,0,0,0,0,0,1,0,1
+919,じゃどくのくさり,malignant-chain,どく,とくしゅ,100,100,5,0,第九世代,,0,0,0,0,0,0,0,0,0,0,1,0,1

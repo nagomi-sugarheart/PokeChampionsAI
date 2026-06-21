@@ -1,0 +1,2177 @@
+﻿id,name_ja,name_en,category_en,fling_power,effect_en
+1,マスターボール,master-ball,standard-balls,,Catches a wild Pokémon every time.
+2,ハイパーボール,ultra-ball,standard-balls,,Tries to catch a wild Pokémon.  Success rate is 2×.
+3,スーパーボール,great-ball,standard-balls,,Tries to catch a wild Pokémon.  Success rate is 1.5×.
+4,モンスターボール,poke-ball,standard-balls,,Tries to catch a wild Pokémon.
+5,サファリボール,safari-ball,standard-balls,,Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×.
+6,ネットボール,net-ball,special-balls,,Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon.
+7,ダイブボール,dive-ball,special-balls,,"Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing."
+8,ネストボール,nest-ball,special-balls,,"Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30."
+9,リピートボール,repeat-ball,special-balls,,Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon.
+10,タイマーボール,timer-ball,special-balls,,"Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×."
+11,ゴージャスボール,luxury-ball,special-balls,,Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness.
+12,プレミアボール,premier-ball,special-balls,,Tries to catch a wild Pokémon.
+13,ダークボール,dusk-ball,special-balls,,Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.
+14,ヒールボール,heal-ball,special-balls,,Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed.
+15,クイックボール,quick-ball,special-balls,,"Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn."
+16,プレシャスボール,cherish-ball,special-balls,,Tries to catch a wild Pokémon.
+17,キズぐすり,potion,healing,30,Restores 20 HP.
+18,どくけし,antidote,status-cures,30,Cures poison.
+19,やけどなおし,burn-heal,status-cures,30,Cures a burn.
+20,こおりなおし,ice-heal,status-cures,30,Cures freezing.
+21,ねむけざまし,awakening,status-cures,30,Cures sleep.
+22,まひなおし,paralyze-heal,status-cures,30,Cures paralysis.
+23,かいふくのくすり,full-restore,healing,30,Restores HP to full and cures any status ailment and confusion.
+24,まんたんのくすり,max-potion,healing,30,Restores HP to full.
+25,すごいキズぐすり,hyper-potion,healing,30,Restores 200 HP.
+26,いいキズぐすり,super-potion,healing,30,Restores 50 HP.
+27,なんでもなおし,full-heal,status-cures,30,Cures any status ailment and confusion.
+28,げんきのかけら,revive,revival,30,Revives with half HP.
+29,げんきのかたまり,max-revive,revival,30,Revives with full HP.
+30,おいしいみず,fresh-water,healing,30,Restores 50 HP.
+31,サイコソーダ,soda-pop,healing,30,Restores 60 HP.
+32,ミックスオレ,lemonade,healing,30,Restores 80 HP.
+33,モーモーミルク,moomoo-milk,healing,30,Restores 100 HP.
+34,ちからのこな,energy-powder,healing,30,"Restores 50 HP, but lowers happiness."
+35,ちからのねっこ,energy-root,healing,30,"Restores 200 HP, but lowers happiness."
+36,ばんのうごな,heal-powder,status-cures,30,"Cures any status ailment, but lowers happiness."
+37,ふっかつそう,revival-herb,revival,30,"Revives with full HP, but lowers happiness."
+38,ピーピーエイド,ether,pp-recovery,30,Restores 10 PP for one move.
+39,ピーピーリカバー,max-ether,pp-recovery,30,Restores PP to full for one move.
+40,ピーピーエイダー,elixir,pp-recovery,30,Restores 10 PP for each move.
+41,ピーピーマックス,max-elixir,pp-recovery,30,Restores PP to full for each move.
+42,フエンせんべい,lava-cookie,status-cures,30,Cures any status ailment and confusion.
+43,きのみジュース,berry-juice,healing,30,Restores 20 HP.
+44,せいなるはい,sacred-ash,revival,30,Revives all fainted Pokémon with full HP.
+45,マックスアップ,hp-up,vitamins,30,Raises HP effort and happiness.
+46,タウリン,protein,vitamins,30,Raises Attack effort and happiness.
+47,ブロムヘキシン,iron,vitamins,30,Raises Defense effort and happiness.
+48,インドメタシン,carbos,vitamins,30,Raises Speed effort and happiness.
+49,リゾチウム,calcium,vitamins,30,Raises Special Attack effort and happiness.
+50,ふしぎなアメ,rare-candy,vitamins,30,Causes a level-up and raises happiness.
+51,ポイントアップ,pp-up,vitamins,30,Raises a move’s max PP by 20%.
+52,キトサン,zinc,vitamins,30,Raises Special Defense and happiness.
+53,ポイントマックス,pp-max,vitamins,30,Raises a move’s max PP by 60%.
+54,もりのヨウカン,old-gateau,status-cures,30,Cures any status ailment and confusion.
+55,エフェクトガード,guard-spec,stat-boosts,30,Prevents stat changes in battle for five turns in battle.  Raises happiness.
+56,クリティカット,dire-hit,stat-boosts,30,Increases the chance of a critical hit in battle.  Raises happiness.
+57,プラスパワー,x-attack,stat-boosts,30,Raises Attack by one stage in battle.  Raises happiness.
+58,ディフェンダー,x-defense,stat-boosts,30,Raises Defense by one stage in battle.  Raises happiness.
+59,スピーダー,x-speed,stat-boosts,30,Raises Speed by one stage in battle.  Raises happiness.
+60,ヨクアタール,x-accuracy,stat-boosts,30,Raises accuracy by one stage in battle.  Raises happiness.
+61,スペシャルアップ,x-sp-atk,stat-boosts,30,Raises Special Attack by one stage in battle.  Raises happiness.
+62,スペシャルガード,x-sp-def,stat-boosts,30,Raises Special Defense by one stage in battle.  Raises happiness.
+63,ピッピにんぎょう,poke-doll,spelunking,30,Ends a wild battle.
+64,エネコのシッポ,fluffy-tail,spelunking,30,Ends a wild battle.
+65,あおいビードロ,blue-flute,flutes,30,Cures sleep.
+66,きいろビードロ,yellow-flute,flutes,30,Cures confusion.
+67,あかいビードロ,red-flute,flutes,30,Cures attraction.
+68,くろいビードロ,black-flute,spelunking,30,Halves the wild Pokémon encounter rate.
+69,しろいビードロ,white-flute,spelunking,30,Doubles the wild Pokémon encounter rate.
+70,あさせのしお,shoal-salt,collectibles,30,No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell.
+71,あさせのかいがら,shoal-shell,collectibles,30,No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell.
+72,あかいかけら,red-shard,collectibles,30,No effect. Can be traded for items or moves.
+73,あおいかけら,blue-shard,collectibles,30,No effect. Can be traded for items or moves.
+74,きいろいかけら,yellow-shard,collectibles,30,No effect. Can be traded for items or moves.
+75,みどりのかけら,green-shard,collectibles,30,No effect. Can be traded for items or moves.
+76,シルバースプレー,super-repel,spelunking,30,"For 200 steps, prevents wild encounters of level lower than your party’s lead Pokémon."
+77,ゴールドスプレー,max-repel,spelunking,30,"For 250 steps, prevents wild encounters of level lower than your party’s lead Pokémon."
+78,あなぬけのヒモ,escape-rope,spelunking,30,Transports user to the outside entrance of a cave.
+79,むしよけスプレー,repel,spelunking,30,"For 100 steps, prevents wild encounters of level lower than your party’s lead Pokémon."
+80,たいようのいし,sun-stone,evolution,30,"Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora."
+81,つきのいし,moon-stone,evolution,30,"Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty."
+82,ほのおのいし,fire-stone,evolution,30,"Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales."
+83,かみなりのいし,thunder-stone,evolution,30,"Evolves an Eelektrik into Eelektross, an Eevee into Jolteon, or a Pikachu into Raichu."
+84,みずのいし,water-stone,evolution,30,"Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie."
+85,リーフのいし,leaf-stone,evolution,30,"Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel."
+86,ちいさなキノコ,tiny-mushroom,loot,30,"Fire Red and Leaf Green: Trade two for prior Level-up moves. Sell for 250 Pokédollars, or to Hungry Maid for 500 Pokédollars."
+87,おおきなキノコ,big-mushroom,loot,30,"Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars."
+88,しんじゅ,pearl,loot,30,"Sell for 700 Pokédollars, or to Ore Collector for 1400 Pokédollars."
+89,おおきなしんじゅ,big-pearl,loot,30,"Sell for 3750 Pokédollars, or to Ore Collector for 7500 Pokédollars."
+90,ほしのすな,stardust,loot,30,"Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars."
+91,ほしのかけら,star-piece,loot,30,"Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars."
+92,きんのたま,nugget,loot,30,"Sell for 5000 Pokédollars, or to Ore Collector for 10000 Pokédollars."
+93,ハートのウロコ,heart-scale,collectibles,30,No effect. Can be traded for prior Level-up moves.
+94,あまいミツ,honey,dex-completion,30,"Used outside of battle :   Immediately triggers a wild Pokémon battle, as long as the trainer is somewhere with wild Pokémon—i.e., in tall grass, in a cave, or surfing.  Can be smeared on sweet-smelling trees to attract tree-dwelling Pokémon after six hours."
+95,すくすくこやし,growth-mulch,mulch,30,"Growing time of berries is reduced, but the soil dries out faster."
+96,じめじめこやし,damp-mulch,mulch,30,"Growing time of berries is increased, but the soil dries out slower."
+97,ながながこやし,stable-mulch,mulch,30,Berries stay on the plant for longer than their usual time.
+98,ねばねばこやし,gooey-mulch,mulch,30,Berries regrow from dead plants an increased number of times.
+99,ねっこのカセキ,root-fossil,dex-completion,100,Can be revived into a Lileep.
+100,ツメのカセキ,claw-fossil,dex-completion,100,Can be revived into an Anorith.
+101,かいのカセキ,helix-fossil,dex-completion,100,Can be revived into an Omanyte.
+102,こうらのカセキ,dome-fossil,dex-completion,100,Can be revived into a Kabuto.
+103,ひみつのコハク,old-amber,dex-completion,100,Can be revived into an Aerodactyl.
+104,たてのカセキ,armor-fossil,dex-completion,100,Can be revived into a Shieldon.
+105,ずがいのカセキ,skull-fossil,dex-completion,100,Can be revived into a Cranidos.
+106,きちょうなホネ,rare-bone,loot,100,"Sell for 5000 Pokédollars, or to Bone Man for 10000 Pokédollars."
+107,ひかりのいし,shiny-stone,evolution,80,"Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss."
+108,やみのいし,dusk-stone,evolution,80,"Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow."
+109,めざめいし,dawn-stone,evolution,80,Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.
+110,まんまるいし,oval-stone,evolution,80,Level-up during Day on a Happiny: Holder evolves into Chansey.
+111,かなめいし,odd-keystone,dex-completion,80,Use on the tower on Route 209 to encounter Spiritomb if you have at least 32 Underground greetings.
+112,こんごうだま,adamant-orb,species-specific,60,Boosts the damage from Dialga’s Dragon-type and Steel-type moves by 20%.
+113,しらたま,lustrous-orb,species-specific,60,Boosts the damage from Palkia’s Dragon-type and Water-type moves by 20%.
+114,グラスメール,grass-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+115,フレイムメール,flame-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+116,ブルーメール,bubble-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+117,ブルームメール,bloom-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+118,トンネルメール,tunnel-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+119,スチールメール,steel-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+120,ラブラブメール,heart-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+121,ブリザードメール,snow-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+122,スペースメール,space-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+123,エアメール,air-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+124,モザイクメール,mosaic-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+125,ブリックメール,brick-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+126,クラボのみ,cheri-berry,medicine,10,Held: Consumed when paralyzed to cure paralysis.
+127,カゴのみ,chesto-berry,medicine,10,Held: Consumed when asleep to cure sleep.
+128,モモンのみ,pecha-berry,medicine,10,Held: Consumed when poisoned to cure poison.
+129,チーゴのみ,rawst-berry,medicine,10,Held: Consumed when burned to cure a burn.
+130,ナナシのみ,aspear-berry,medicine,10,Held: Consumed when frozen to cure frozen.
+131,ヒメリのみ,leppa-berry,medicine,10,Held: Consumed when a move runs out of PP to restore its PP by 10.
+132,オレンのみ,oran-berry,medicine,10,Held: Consumed at 1/2 max HP to recover 10 HP.
+133,キーのみ,persim-berry,medicine,10,Held: Consumed when confused to cure confusion.
+134,ラムのみ,lum-berry,medicine,10,Held: Consumed to cure any status condition or confusion.
+135,オボンのみ,sitrus-berry,medicine,10,Held: Consumed at 1/2 max HP to recover 1/4 max HP.
+136,フィラのみ,figy-berry,picky-healing,10,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor.
+137,ウイのみ,wiki-berry,picky-healing,10,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor.
+138,マゴのみ,mago-berry,picky-healing,10,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sweet flavor.
+139,バンジのみ,aguav-berry,picky-healing,10,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.
+140,イアのみ,iapapa-berry,picky-healing,10,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sour flavor.
+141,ズリのみ,razz-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+142,ブリーのみ,bluk-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+143,ナナのみ,nanab-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+144,セシナのみ,wepear-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+145,パイルのみ,pinap-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+146,ザロクのみ,pomeg-berry,effort-drop,10,Drops HP Effort Values by 10 and raises happiness.
+147,ネコブのみ,kelpsy-berry,effort-drop,10,Drops Attack Effort Values by 10 and raises happiness.
+148,タポルのみ,qualot-berry,effort-drop,10,Drops Defense Effort Values by 10 and raises happiness.
+149,ロメのみ,hondew-berry,effort-drop,10,Drops Special Attack Effort Values by 10 and raises happiness.
+150,ウブのみ,grepa-berry,effort-drop,10,Drops Special Defense Effort Values by 10 and raises happiness.
+151,マトマのみ,tamato-berry,effort-drop,10,Drops Speed Effort Values by 10 and raises happiness.
+152,モコシのみ,cornn-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+153,ゴスのみ,magost-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+154,ラブタのみ,rabuta-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+155,ノメルのみ,nomel-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+156,ノワキのみ,spelon-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+157,シーヤのみ,pamtre-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+158,カイスのみ,watmel-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+159,ドリのみ,durin-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+160,ベリブのみ,belue-berry,baking-only,10,Used for creating PokéBlocks and Poffins.
+161,オッカのみ,occa-berry,type-protection,10,Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.
+162,イトケのみ,passho-berry,type-protection,10,Held: Consumed when struck by a super-effective Water-type attack to halve the damage.
+163,ソクノのみ,wacan-berry,type-protection,10,Held: Consumed when struck by a super-effective Electric-type attack to halve the damage.
+164,リンドのみ,rindo-berry,type-protection,10,Held: Consumed when struck by a super-effective Grass-type attack to halve the damage.
+165,ヤチェのみ,yache-berry,type-protection,10,Held: Consumed when struck by a super-effective Ice-type attack to halve the damage.
+166,ヨプのみ,chople-berry,type-protection,10,Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.
+167,ビアーのみ,kebia-berry,type-protection,10,Held: Consumed when struck by a super-effective Poison-type attack to halve the damage.
+168,シュカのみ,shuca-berry,type-protection,10,Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.
+169,バコウのみ,coba-berry,type-protection,10,Held: Consumed when struck by a super-effective Flying-type attack to halve the damage.
+170,ウタンのみ,payapa-berry,type-protection,10,Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage.
+171,タンガのみ,tanga-berry,type-protection,10,Held: Consumed when struck by a super-effective Bug-type attack to halve the damage.
+172,ヨロギのみ,charti-berry,type-protection,10,Held: Consumed when struck by a super-effective Rock-type attack to halve the damage.
+173,カシブのみ,kasib-berry,type-protection,10,Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage.
+174,ハバンのみ,haban-berry,type-protection,10,Held: Consumed when struck by a super-effective Dragon-type attack to halve the damage.
+175,ナモのみ,colbur-berry,type-protection,10,Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.
+176,リリバのみ,babiri-berry,type-protection,10,Held: Consumed when struck by a super-effective Steel-type attack to halve the damage.
+177,ホズのみ,chilan-berry,type-protection,10,Held: Consumed when struck by a Normal-type attack to halve the damage.
+178,チイラのみ,liechi-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost Attack.
+179,リュガのみ,ganlon-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost Defense.
+180,カムラのみ,salac-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost Speed.
+181,ヤタピのみ,petaya-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost Special Attack.
+182,ズアのみ,apicot-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost Special Defense.
+183,サンのみ,lansat-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.
+184,スターのみ,starf-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost a random stat by two stages.
+185,ナゾのみ,enigma-berry,other,10,Held: Consumed when struck by a super-effective attack to restore 1/4 max HP.
+186,ミクルのみ,micle-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP to boost accuracy of next move by 20%. (Gen IV: Perfect accuracy)
+187,イバンのみ,custap-berry,in-a-pinch,10,Held: Consumed at 1/4 max HP when using a move to go first.
+188,ジャポのみ,jaboca-berry,other,10,Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a physical attack.
+189,レンブのみ,rowap-berry,other,10,Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a special attack.
+190,ひかりのこな,bright-powder,held-items,10,Held: Increases the holder’s evasion by 1/9 (11 1/9%).
+191,しろいハーブ,white-herb,held-items,10,Held: Resets all lowered stats to normal at end of turn. Consumed after use.
+192,きょうせいギプス,macho-brace,effort-training,60,"Held: Holder gains double effort values from battles, but has halved Speed in battle."
+193,がくしゅうそうち,exp-share,training,,Held: Half the experience from a battle is split between Pokémon holding this item.
+194,せんせいのツメ,quick-claw,held-items,80,Held: Holder has a 3/16 (18.75%) chance to move first.
+195,やすらぎのすず,soothe-bell,training,10,Held: Doubles the happiness earned by the holder.
+196,メンタルハーブ,mental-herb,held-items,10,"Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body."
+197,こだわりハチマキ,choice-band,choice,10,"Held: Increases Attack by 50%, but restricts the holder to only one move."
+198,おうじゃのしるし,kings-rock,held-items,30,Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.
+199,ぎんのこな,silver-powder,type-enhancement,10,Held: Bug-Type moves from holder do 20% more damage.
+200,おまもりこばん,amulet-coin,training,30,Held: Doubles the money earned from a battle. Does not stack with Luck Incense.
+201,きよめのおふだ,cleanse-tag,training,30,Prevents wild encounters of level lower than your party’s lead Pokémon.
+202,こころのしずく,soul-dew,species-specific,30,Raises Latias and Latios’s Special Attack and Special Defense by 50%.
+203,しんかいのキバ,deep-sea-tooth,species-specific,90,Doubles Clamperl’s Special Attack. Traded on a Clamperl: Holder evolves into Huntail.
+204,しんかいのウロコ,deep-sea-scale,species-specific,30,Doubles Clamperl’s Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss.
+205,けむりだま,smoke-ball,held-items,30,Held: Allows the Holder to escape from any wild battle.
+206,かわらずのいし,everstone,training,30,Held: Prevents level-based evolution from occuring.
+207,きあいのハチマキ,focus-band,held-items,10,Held: Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.
+208,しあわせタマゴ,lucky-egg,training,30,Held: Increases EXP earned in battle by 50%.
+209,ピントレンズ,scope-lens,held-items,30,Held: Raises the holder’s critical hit ratio by one stage.
+210,メタルコート,metal-coat,type-enhancement,30,Held: Steel-Type moves from holder do 20% more damage.
+211,たべのこし,leftovers,held-items,10,Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn.
+212,りゅうのウロコ,dragon-scale,evolution,30,Traded on a Seadra: Holder evolves into Kingdra.
+213,でんきだま,light-ball,species-specific,30,Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.
+214,やわらかいすな,soft-sand,type-enhancement,10,Held: Ground-Type moves from holder do 20% more damage.
+215,かたいいし,hard-stone,type-enhancement,100,Held: Rock-Type moves from holder do 20% more damage.
+216,きせきのタネ,miracle-seed,type-enhancement,30,Held: Grass-Type moves from holder do 20% more damage.
+217,くろいメガネ,black-glasses,type-enhancement,30,Held: Dark-Type moves from holder do 20% more damage.
+218,くろおび,black-belt,type-enhancement,30,Held: Fighting-Type moves from holder do 20% more damage.
+219,じしゃく,magnet,type-enhancement,30,Held: Electric-Type moves from holder do 20% more damage.
+220,しんぴのしずく,mystic-water,type-enhancement,30,Held: Water-Type moves from holder do 20% more damage.
+221,するどいくちばし,sharp-beak,type-enhancement,50,Held: Flying-Type moves from holder do 20% more damage.
+222,どくバリ,poison-barb,type-enhancement,70,Held: Poison-Type moves from holder do 20% more damage.
+223,とけないこおり,never-melt-ice,type-enhancement,30,Held: Ice-Type moves from holder do 20% more damage.
+224,のろいのおふだ,spell-tag,type-enhancement,30,Held: Ghost-Type moves from holder do 20% more damage.
+225,まがったスプーン,twisted-spoon,type-enhancement,30,Held: Psychic-Type moves from holder do 20% more damage.
+226,もくたん,charcoal,type-enhancement,30,Held: Fire-Type moves from holder do 20% more damage.
+227,りゅうのキバ,dragon-fang,type-enhancement,70,Held: Dragon-Type moves from holder do 20% more damage.
+228,シルクのスカーフ,silk-scarf,type-enhancement,10,Held: Normal-Type moves from holder do 20% more damage.
+229,アップグレード,up-grade,evolution,30,Traded on a Porygon: Holder evolves into Porygon2.
+230,かいがらのすず,shell-bell,held-items,30,Held: Holder receives 1/8 of the damage it deals when attacking.
+231,うしおのおこう,sea-incense,type-enhancement,10,Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg.
+232,のんきのおこう,lax-incense,held-items,10,Held: Holder’s evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg.
+233,ラッキーパンチ,lucky-punch,species-specific,40,Raises Chansey’s critical hit ratio by two stages.
+234,メタルパウダー,metal-powder,species-specific,10,Raises Ditto’s Defense and Special Defense by 50%. The boost is lost after transforming.
+235,ふといホネ,thick-club,species-specific,90,Doubles Cubone or Marowak’s Attack.
+236,ながねぎ,stick,species-specific,60,Raises Farfetch’d’s critical hit ratio by two stages.
+237,あかいバンダナ,red-scarf,scarves,10,Raises the holder’s Coolness while in a contest.
+238,あおいバンダナ,blue-scarf,scarves,10,Raises the holder’s Beauty while in a contest.
+239,ピンクのバンダナ,pink-scarf,scarves,10,Raises the holder’s Cuteness while in a contest.
+240,みどりのバンダナ,green-scarf,scarves,10,Raises the holder’s Smartness while in a contest.
+241,きいろのバンダナ,yellow-scarf,scarves,10,Raises the holder’s Toughness while in a contest.
+242,こうかくレンズ,wide-lens,held-items,10,Held: Provides a 1/10 (10%) boost in accuracy to the holder.
+243,ちからのハチマキ,muscle-band,held-items,10,Held: Boosts the damage of physical moves used by the holder by 10%.
+244,ものしりメガネ,wise-glasses,held-items,10,Held: Boosts the damage of special moves used by the holder by 1/10 (10%).
+245,たつじんのおび,expert-belt,held-items,10,Held: Holder’s Super Effective moves do 20% extra damage.
+246,ひかりのねんど,light-clay,held-items,30,Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.
+247,いのちのたま,life-orb,held-items,30,"Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP."
+248,パワフルハーブ,power-herb,held-items,10,Held: Both turns of a two-turn charge move happen at once. Consumed upon use.
+249,どくどくだま,toxic-orb,bad-held-items,30,Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.
+250,かえんだま,flame-orb,bad-held-items,30,Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.
+251,スピードパウダー,quick-powder,species-specific,10,Doubles Ditto’s Speed when held. The boost is lost after transforming.
+252,きあいのタスキ,focus-sash,held-items,10,"Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed."
+253,フォーカスレンズ,zoom-lens,held-items,10,Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.
+254,メトロノーム,metronome,held-items,30,Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.
+255,くろいてっきゅう,iron-ball,bad-held-items,130,"Held: Holder’s Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder."
+256,こうこうのしっぽ,lagging-tail,bad-held-items,10,Held: Holder moves last in its priority bracket.
+257,あかいいと,destiny-knot,held-items,10,Held: Infatuates opposing Pokémon when holder is inflicted with infatuation.
+258,くろいヘドロ,black-sludge,held-items,30,Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.
+259,つめたいいわ,icy-rock,held-items,40,Held: Hail by the holder lasts 8 rounds instead of 5.
+260,さらさらいわ,smooth-rock,held-items,10,Held: Sandstorm by the holder lasts 8 rounds instead of 5.
+261,あついいわ,heat-rock,held-items,60,Held: Sunny Day by the holder lasts 8 rounds instead of 5.
+262,しめったいわ,damp-rock,held-items,60,Held: Rain Dance by the holder lasts 8 rounds instead of 5.
+263,ねばりのかぎづめ,grip-claw,held-items,90,Held: Holder’s multi-turn trapping moves last 5 turns.
+264,こだわりスカーフ,choice-scarf,choice,10,"Held: Increases Speed by 50%, but restricts the holder to only one move."
+265,くっつきバリ,sticky-barb,bad-held-items,80,"Held: Holder takes 1/8 (12.5%) its max HP at the end of each turn. When the holder is hit by a contact move, the attacking Pokémon takes 1/8 its max HP in damage and receive the item if not holding one."
+266,パワーリスト,power-bracer,effort-training,70,"Held: Holder gains 4 Attack effort values, but has halved Speed in battle."
+267,パワーベルト,power-belt,effort-training,70,"Held: Holder gains 4 Defense effort values, but has halved Speed in battle."
+268,パワーレンズ,power-lens,effort-training,70,"Held: Holder gains 4 Special Attack effort values, but has halved Speed in battle."
+269,パワーバンド,power-band,effort-training,70,"Held: Holder gains 4 Special Defense effort values, but has halved Speed in battle."
+270,パワーアンクル,power-anklet,effort-training,70,"Held: Holder gains 4 Speed effort values, but has halved Speed in battle."
+271,パワーウエイト,power-weight,effort-training,70,"Held: Holder gains 4 HP effort values, but has halved Speed in battle."
+272,きれいなぬけがら,shed-shell,held-items,10,Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.
+273,おおきなねっこ,big-root,held-items,10,"Held: Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 3/10 (30%)."
+274,こだわりメガネ,choice-specs,choice,10,"Held: Increases Special Attack by 50%, but restricts the holder to only one move."
+275,ひのたまプレート,flame-plate,plates,90,Held: Fire-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fire.
+276,しずくプレート,splash-plate,plates,90,Held: Water-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Water.
+277,いかずちプレート,zap-plate,plates,90,Held: Electric-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Electric.
+278,みどりのプレート,meadow-plate,plates,90,Held: Grass-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Grass.
+279,つららのプレート,icicle-plate,plates,90,Held: Ice-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ice.
+280,こぶしのプレート,fist-plate,plates,90,Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fighting.
+281,もうどくプレート,toxic-plate,plates,90,Held: Poison-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Poison.
+282,だいちのプレート,earth-plate,plates,90,Held: Ground-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ground.
+283,あおぞらプレート,sky-plate,plates,90,Held: Flying-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Flying.
+284,ふしぎのプレート,mind-plate,plates,90,Held: Psychic-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Psychic.
+285,たまむしプレート,insect-plate,plates,90,Held: Bug-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Bug.
+286,がんせきプレート,stone-plate,plates,90,Held: Rock-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Rock.
+287,もののけプレート,spooky-plate,plates,90,Held: Ghost-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ghost.
+288,りゅうのプレート,draco-plate,plates,90,Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dragon.
+289,こわもてプレート,dread-plate,plates,90,Held: Dark-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dark.
+290,こうてつプレート,iron-plate,plates,90,Held: Steel-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Steel.
+291,あやしいおこう,odd-incense,type-enhancement,10,Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg.
+292,がんせきおこう,rock-incense,type-enhancement,10,Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg.
+293,まんぷくおこう,full-incense,bad-held-items,10,Held: Holder moves last in its priority bracket. Breeding: Snorlax begets a Munchlax Egg.
+294,さざなみのおこう,wave-incense,type-enhancement,10,Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg.
+295,おはなのおこう,rose-incense,type-enhancement,10,Held: Grass-Type moves from holder do 20% more damage. Breeding: Roselia or Roserade beget a Budew Egg.
+296,こううんのおこう,luck-incense,training,10,Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg.
+297,きよめのおこう,pure-incense,training,10,Prevents wild encounters of level lower than your party’s lead Pokémon. Breeding: Chimecho begets a Chingling Egg.
+298,プロテクター,protector,evolution,80,Traded on a Rhydon: Holder evolves into Rhyperior.
+299,エレキブースター,electirizer,evolution,80,Traded on an Electabuzz: Holder evolves into Electivire.
+300,マグマブースター,magmarizer,evolution,80,Traded on a Magmar: Holder evolves into Magmortar.
+301,あやしいパッチ,dubious-disc,evolution,50,Traded on a Porygon2: Holder evolves into Porygon-Z.
+302,れいかいのぬの,reaper-cloth,evolution,10,Traded on a Dusclops: Holder evolves into Dusknoir.
+303,するどいツメ,razor-claw,held-items,80,Held: Raises the holder’s critical hit ratio by one stage. Held by a Sneasel while levelling up at night: Holder evolves into Weavile.
+304,するどいキバ,razor-fang,held-items,30,Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.
+305,わざマシン01,tm01,all-machines,,Teaches Hone Claws to a compatible Pokémon. (Gen IV & III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch)
+306,わざマシン02,tm02,all-machines,,Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)
+307,わざマシン03,tm03,all-machines,,Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance)
+308,わざマシン04,tm04,all-machines,,Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind)
+309,わざマシン05,tm05,all-machines,,Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick)
+310,わざマシン06,tm06,all-machines,,Teaches Toxic to a compatible Pokémon.
+311,わざマシン07,tm07,all-machines,,Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)
+312,わざマシン08,tm08,all-machines,,Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)
+313,わざマシン09,tm09,all-machines,,Teaches Venoshock to a compatible Pokémon. (Gen IV & III: Bullet Seed Gen II: Psych Up Gen I: Take Down)
+314,わざマシン10,tm10,all-machines,,Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)
+315,わざマシン11,tm11,all-machines,,Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam)
+316,わざマシン12,tm12,all-machines,,Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun)
+317,わざマシン13,tm13,all-machines,,Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore)
+318,わざマシン14,tm14,all-machines,,Teaches Blizzard to a compatible Pokémon.
+319,わざマシン15,tm15,all-machines,,Teaches Hyper Beam to a compatible Pokémon.
+320,わざマシン16,tm16,all-machines,,Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day)
+321,わざマシン17,tm17,all-machines,,Teaches Protect to a compatible Pokémon. (Gen I: Submission)
+322,わざマシン18,tm18,all-machines,,Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter)
+323,わざマシン19,tm19,all-machines,,Teaches Telekinesis to a compatible Pokémon. (Gen IV & III & II: Giga Drain Gen I: Seismic Toss)
+324,わざマシン20,tm20,all-machines,,Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage)
+325,わざマシン21,tm21,all-machines,,Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain)
+326,わざマシン22,tm22,all-machines,,Teaches SolarBeam to a compatible Pokémon.
+327,わざマシン23,tm23,all-machines,,Teaches Smack Down to a compatible Pokémon. (Gen IV & III & II: Iron Tail Gen I: Dragon Rage)
+328,わざマシン24,tm24,all-machines,,Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath)
+329,わざマシン25,tm25,all-machines,,Teaches Thunder to a compatible Pokémon.
+330,わざマシン26,tm26,all-machines,,Teaches Earthquake to a compatible Pokémon.
+331,わざマシン27,tm27,all-machines,,Teaches Return to a compatible Pokémon. (Gen I: Fissure)
+332,わざマシン28,tm28,all-machines,,Teaches Dig to a compatible Pokémon.
+333,わざマシン29,tm29,all-machines,,Teaches Psychic to a compatible Pokémon.
+334,わざマシン30,tm30,all-machines,,Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)
+335,わざマシン31,tm31,all-machines,,Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic)
+336,わざマシン32,tm32,all-machines,,Teaches Double Team to a compatible Pokémon.
+337,わざマシン33,tm33,all-machines,,Teaches Reflect to a compatible Pokémon. (Gen II: Ice Punch)
+338,わざマシン34,tm34,all-machines,,Teaches Sludge Wave to a compatible Pokémon. (Gen IV & III: Shock Wave Gen II: Swagger Gen I: Bide)
+339,わざマシン35,tm35,all-machines,,Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)
+340,わざマシン36,tm36,all-machines,,Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)
+341,わざマシン37,tm37,all-machines,,Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)
+342,わざマシン38,tm38,all-machines,,Teaches Fire Blast to a compatible Pokémon.
+343,わざマシン39,tm39,all-machines,,Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift)
+344,わざマシン40,tm40,all-machines,,Teaches Aerial Ace to a compatible Pokémon. (Gen II: Defense Curl Gen I: Skull Bash)
+345,わざマシン41,tm41,all-machines,,Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled)
+346,わざマシン42,tm42,all-machines,,Teaches Facade to a compatible Pokémon. (Gen II & I: Dream Eater)
+347,わざマシン43,tm43,all-machines,,Teaches Flame Charge to a compatible Pokémon. (Gen IV & III: Secret Power Gen II: Detect Gen I: Sky Attack)
+348,わざマシン44,tm44,all-machines,,Teaches Rest to a compatible Pokémon.
+349,わざマシン45,tm45,all-machines,,Teaches Attract to a compatible Pokémon. (Gen I: Thunder Wave)
+350,わざマシン46,tm46,all-machines,,Teaches Thief to a compatible Pokémon. (Gen I: Psywave)
+351,わざマシン47,tm47,all-machines,,Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion)
+352,わざマシン48,tm48,all-machines,,Teaches Round to a compatible Pokémon. (Gen IV & III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide)
+353,わざマシン49,tm49,all-machines,,Teaches Echoed Voice to a compatible Pokémon. (Gen IV & III: Snatch Gen II: Fury Cutter Gen I: Tri Attack)
+354,わざマシン50,tm50,all-machines,,Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)
+355,わざマシン51,tm51,all-machines,,Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost)
+356,わざマシン52,tm52,all-machines,,Teaches Focus Blast to a compatible Pokémon.
+357,わざマシン53,tm53,all-machines,,Teaches Energy Ball to a compatible Pokémon.
+358,わざマシン54,tm54,all-machines,,Teaches False Swipe to a compatible Pokémon.
+359,わざマシン55,tm55,all-machines,,Teaches Scald to a compatible Pokémon. (Gen IV: Brine)
+360,わざマシン56,tm56,all-machines,,Teaches Fling to a compatible Pokémon.
+361,わざマシン57,tm57,all-machines,,Teaches Charge Beam to a compatible Pokémon.
+362,わざマシン58,tm58,all-machines,,Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)
+363,わざマシン59,tm59,all-machines,,Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse)
+364,わざマシン60,tm60,all-machines,,Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)
+365,わざマシン61,tm61,all-machines,,Teaches Will-O-Wisp to a compatible Pokémon.
+366,わざマシン62,tm62,all-machines,,Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)
+367,わざマシン63,tm63,all-machines,,Teaches Embargo to a compatible Pokémon.
+368,わざマシン64,tm64,all-machines,,Teaches Explosion to a compatible Pokémon.
+369,わざマシン65,tm65,all-machines,,Teaches Shadow Claw to a compatible Pokémon.
+370,わざマシン66,tm66,all-machines,,Teaches Payback to a compatible Pokémon.
+371,わざマシン67,tm67,all-machines,,Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle)
+372,わざマシン68,tm68,all-machines,,Teaches Giga Impact to a compatible Pokémon.
+373,わざマシン69,tm69,all-machines,,Teaches Rock Polish to a compatible Pokémon.
+374,わざマシン70,tm70,all-machines,,Teaches Flash to a compatible Pokémon.
+375,わざマシン71,tm71,all-machines,,Teaches Stone Edge to a compatible Pokémon.
+376,わざマシン72,tm72,all-machines,,Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)
+377,わざマシン73,tm73,all-machines,,Teaches Thunder Wave to a compatible Pokémon.
+378,わざマシン74,tm74,all-machines,,Teaches Gyro Ball to a compatible Pokémon.
+379,わざマシン75,tm75,all-machines,,Teaches Swords Dance to a compatible Pokémon.
+380,わざマシン76,tm76,all-machines,,Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock)
+381,わざマシン77,tm77,all-machines,,Teaches Psych Up to a compatible Pokémon.
+382,わざマシン78,tm78,all-machines,,Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate)
+383,わざマシン79,tm79,all-machines,,Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse)
+384,わざマシン80,tm80,all-machines,,Teaches Rock Slide to a compatible Pokémon.
+385,わざマシン81,tm81,all-machines,,Teaches X-Scissor to a compatible Pokémon.
+386,わざマシン82,tm82,all-machines,,Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk)
+387,わざマシン83,tm83,all-machines,,Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift)
+388,わざマシン84,tm84,all-machines,,Teaches Poison Jab to a compatible Pokémon.
+389,わざマシン85,tm85,all-machines,,Teaches Dream Eater to a compatible Pokémon.
+390,わざマシン86,tm86,all-machines,,Teaches Grass Knot to a compatible Pokémon.
+391,わざマシン87,tm87,all-machines,,Teaches Swagger to a compatible Pokémon.
+392,わざマシン88,tm88,all-machines,,Teaches Pluck to a compatible Pokémon.
+393,わざマシン89,tm89,all-machines,,Teaches U-turn to a compatible Pokémon.
+394,わざマシン90,tm90,all-machines,,Teaches Substitute to a compatible Pokémon.
+395,わざマシン91,tm91,all-machines,,Teaches Flash Cannon to a compatible Pokémon.
+396,わざマシン92,tm92,all-machines,,Teaches Trick Room to a compatible Pokémon.
+397,ひでんマシン01,hm01,all-machines,,Teaches Cut to a compatible Pokémon.
+398,ひでんマシン02,hm02,all-machines,,Teaches Fly to a compatible Pokémon.
+399,ひでんマシン03,hm03,all-machines,,Teaches Surf to a compatible Pokémon.
+400,ひでんマシン04,hm04,all-machines,,Teaches Strength to a compatible Pokémon.
+401,ひでんマシン05,hm05,all-machines,,Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash)
+402,ひでんマシン06,hm06,all-machines,,Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool)
+403,ひでんマシン07,hm07,all-machines,,Teaches a move to a compatible Pokémon. (Gen IV & III & II: Waterfall)
+404,ひでんマシン08,hm08,all-machines,,Teaches a move to a compatible Pokémon. (Gen IV: Rock Climb Gen III: Dive)
+405,たんけんセット,explorer-kit,gameplay,,Allows visiting the Underground.
+406,たからぶくろ,loot-sack,unused,,Carries coal mine loot.
+407,ルールブック,rule-book,unused,,List of battle types and their rules.
+408,ポケトレ,poke-radar,gameplay,,Use to track down rare or shiny Pokémon. 50 steps to recharge.
+409,ポイントカード,point-card,gameplay,,Keeps count of Battle Points earned.
+410,ぼうけんノート,journal,gameplay,,Records prior significant activities the player took.
+411,シールいれ,seal-case,gameplay,,Stores Seals that can be applied to Poké Ball capsules.
+412,アクセサリーいれ,fashion-case,gameplay,,Holds Pokémon Accessories for use in Contests.
+413,シールぶくろ,seal-bag,unused,,Holds ten Seals for Poké Balls.
+414,ともだちてちょう,pal-pad,gameplay,,Use to record Friend Codes and check your own.
+415,はつでんしょキー,works-key,plot-advancement,,Grants access to Valley Windworks.
+416,こだいのおまもり,old-charm,plot-advancement,,Trade to Cynthia’s grandmother in Celestic Town for HM04 (Surf).
+417,ギンガだんのカギ,galactic-key,plot-advancement,,Grants access to Galactic HQ in Veilstone City.
+418,あかいくさり,red-chain,unused,,Used to bind Palkia and Dialga.
+419,タウンマップ,town-map,gameplay,,Use to see the overworld map.
+420,バトルサーチャー,vs-seeker,gameplay,,Allows rebattling of on-screen trainers. 100 steps to recharge.
+421,コインケース,coin-case,gameplay,,Holds coins for the Game Corner.
+422,ボロのつりざお,old-rod,gameplay,,Used to catch Pokémon in bodies of water.
+423,いいつりざお,good-rod,gameplay,,Used to catch Pokémon in bodies of water.
+424,すごいつりざお,super-rod,gameplay,,Used to catch Pokémon in bodies of water.
+425,コダックじょうろ,sprayduck,gameplay,,Used to water berries.
+426,ポフィンケース,poffin-case,gameplay,,Holds Poffins.
+427,じてんしゃ,bicycle,gameplay,,Use for fast transit.
+428,ルームキー,suite-key,event-items,,Opens a locked building in the Lakeside Resort.
+429,オーキドのてがみ,oaks-letter,event-items,,"Allows access to Seabreak path, Flower Paradise, and Shaymin."
+430,みかづきのはね,lunar-wing,event-items,,Cures sailor’s son of nightmares in Canalave City.
+431,メンバーズカード,member-card,event-items,,Allows access to Newmoon Island and Darkrai.
+432,てんかいのふえ,azure-flute,event-items,,Allows entry into the Hall of Origin. Unreleased.
+433,ふねのチケット,ss-ticket,plot-advancement,,Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)
+434,コンテストパス,contest-pass,gameplay,,Allows participation in Pokémon Contests.
+435,かざんのおきいし,magma-stone,plot-advancement,,Magma is sealed inside.
+436,おとどけもの,parcel,plot-advancement,,Given to the trainer’s rival in Jubilife City. Contains Town Maps.
+437,ひきかえけん1,coupon-1,plot-advancement,,The first of three tickets used to obtain a Pokétch.
+438,ひきかえけん2,coupon-2,plot-advancement,,The second of three tickets used to obtain a Pokétch.
+439,ひきかえけん3,coupon-3,plot-advancement,,The last of three tickets used to obtain a Pokétch.
+440,そうこのカギ,storage-key,plot-advancement,,Grants access to the Team Galactic warehouse in Veilstone City.
+441,ひでんのくすり,secret-potion,plot-advancement,,Used to heal the Ampharos at the top of Olivine Lighthouse.
+442,はっきんだま,griseous-orb,species-specific,60,"Boosts the damage from Giratina’s Dragon-type and Ghost-type moves by 20%, and transforms it into Origin Forme."
+443,バトルレコーダー,vs-recorder,gameplay,,"Records wireless, Wi-Fi, or Battle Frontier battles, and stores points."
+444,グラシデアのはな,gracidea,event-items,,Changes an unfrozen Shaymin to Sky Forme in the day.
+445,ひみつのカギ,secret-key,event-items,,Gen IV: The key to Rotom’s appliance room. Gen III: The key to Cinnabar Gym.
+446,ぼんぐりケース,apricorn-box,gameplay,,Holds Apricorns.
+447,きのみプランター,berry-pots,gameplay,,Allows portable berry growing.
+448,ゼニガメじょうろ,squirt-bottle,plot-advancement,,Use on Sudowoodo blocking the path on Route 36. Also waters berries.
+449,ルアーボール,lure-ball,apricorn-balls,,3× effectiveness while fishing. Made from Blu Apricorn.
+450,レベルボール,level-ball,apricorn-balls,,Success rate based off of fraction target Pokémon is of user’s Pokémon. Made from Red Apricorn.
+451,ムーンボール,moon-ball,apricorn-balls,,4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.
+452,ヘビーボール,heavy-ball,apricorn-balls,,Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn.
+453,スピードボール,fast-ball,apricorn-balls,,4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn.
+454,フレンドボール,friend-ball,apricorn-balls,,Caught Pokémon start with 200 happiness. Made from Grn Apricorn.
+455,ラブラブボール,love-ball,apricorn-balls,,"8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn."
+456,パークボール,park-ball,standard-balls,,Catches Pokémon in the Pal Park every time.
+457,コンペボール,sport-ball,standard-balls,,Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)
+458,あかぼんぐり,red-apricorn,apricorn-box,10,Used to make a Level Ball.
+459,あおぼんぐり,blue-apricorn,apricorn-box,10,Used to make a Lure Ball.
+460,きぼんぐり,yellow-apricorn,apricorn-box,10,Used to make a Moon Ball.
+461,みどぼんぐり,green-apricorn,apricorn-box,10,Used to make a Friend Ball.
+462,ももぼんぐり,pink-apricorn,apricorn-box,10,Used to make a Love Ball.
+463,しろぼんぐり,white-apricorn,apricorn-box,10,Used to make a Fast Ball.
+464,くろぼんぐり,black-apricorn,apricorn-box,10,Used to make a Heavy Ball.
+465,ダウジングマシン,dowsing-machine,gameplay,,Use to find hidden items on the field. AKA Itemfinder.
+466,いかりまんじゅう,rage-candy-bar,gameplay,30,HS: Traded for TM64. Gen II & Gen V: Acts as a Potion.
+467,べにいろのたま,red-orb,plot-advancement,,Summons Groudon to the Embedded Tower.
+468,あいいろのたま,blue-orb,plot-advancement,,Summons Kyogre to the Embedded Tower.
+469,もえぎいろのたま,jade-orb,plot-advancement,,Summons Rayquaza to the Embedded Tower.
+470,なぞのすいしょう,enigma-stone,event-items,,S: Summons Latias H: Summons Latios.
+471,アンノーンノート,unown-report,gameplay,,Keeps track of Unown types caught.
+472,ブルーカード,blue-card,gameplay,,Keeps track of points from Buena’s show.
+473,おいしいシッポ,slowpoke-tail,unused,,A tasty tail that sells for a high price.
+474,とうめいなスズ,clear-bell,plot-advancement,,HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower.
+475,カードキー,card-key,plot-advancement,,HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors.
+476,ちかのかぎ,basement-key,plot-advancement,,HS: Key to the tunnel under Goldenrod City. Gen III: Key to New Mauville.
+477,あかいウロコ,red-scale,plot-advancement,,Trade to Mr. Pokémon for an Exp. Share.
+478,おとしもの,lost-item,plot-advancement,,A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass.
+479,リニアパス,pass,plot-advancement,,Grants access to ride the Magnet Train between Goldenrod City and Saffron City.
+480,きかいのぶひん,machine-part,plot-advancement,,Must be replaced in the Power Plant to power the Magnet Train.
+481,ぎんいろのはね,silver-wing,plot-advancement,,Summons Lugia to the Whirl Islands.
+482,にじいろのはね,rainbow-wing,plot-advancement,,Summons Ho-Oh at the top of the Bell Tower.
+483,ふしぎなタマゴ,mystery-egg,plot-advancement,,Deliver to Professor Elm.
+484,ＧＢプレイヤー,gb-sounds,gameplay,,Use to listen to GameBoy era audio.
+485,うみなりのスズ,tidal-bell,plot-advancement,,Allows Kimono-girls to summon Lugia.
+486,データカード01,data-card-01,data-cards,,Records the number of times the trainer has come in first place overall in the Pokéathlon.
+487,データカード02,data-card-02,data-cards,,Records the number of times the trainer has come in last place overall in the Pokéathlon.
+488,データカード03,data-card-03,data-cards,,Records the number of times the trainer’s Pokémon have dashed in the Pokéathlon.
+489,データカード04,data-card-04,data-cards,,Records the number of times the trainer’s Pokémon have jumped in the Pokéathlon.
+490,データカード05,data-card-05,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash.
+491,データカード06,data-card-06,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Relay Run.
+492,データカード07,data-card-07,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.
+493,データカード08,data-card-08,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Block Smash.
+494,データカード09,data-card-09,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Disc Catch.
+495,データカード10,data-card-10,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Snow Throw.
+496,データカード11,data-card-11,data-cards,,Records the number of points the trainer has earned in the Pokéathlon.
+497,データカード12,data-card-12,data-cards,,Records the number of times the trainer’s Pokémon have messed up in the Pokéathlon.
+498,データカード13,data-card-13,data-cards,,Records the number of times the trainer’s Pokémon have defeated themselves in the Pokéathlon.
+499,データカード14,data-card-14,data-cards,,Records the number of times the trainer’s Pokémon have tackled in the Pokéathlon.
+500,データカード15,data-card-15,data-cards,,Records the number of times the trainer’s Pokémon have fallen in the Pokéathlon.
+501,データカード16,data-card-16,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Ring Drop.
+502,データカード17,data-card-17,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump.
+503,データカード18,data-card-18,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Circle Push.
+504,データカード19,data-card-19,data-cards,,Records the number of times the trainer has come in first place overall in the Pokéathlon over wirelss.
+505,データカード20,data-card-20,data-cards,,Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless.
+506,データカード21,data-card-21,data-cards,,Records the number of times the trainer has come in first across all Pokéathlon events.
+507,データカード22,data-card-22,data-cards,,Records the number of times the trainer has come in last across all Pokéathlon events.
+508,データカード23,data-card-23,data-cards,,Records the number of times the trainer has switched Pokémon in the Pokéathlon.
+509,データカード24,data-card-24,data-cards,,Records the number of times the trainer has come in first in the Pokéathlon Goal Roll.
+510,データカード25,data-card-25,data-cards,,Records the number of times the trainer’s Pokémon received prizes in the Pokéathlon.
+511,データカード26,data-card-26,data-cards,,Records the number of times the trainer has instructed Pokémon in the Pokéathlon.
+512,データカード27,data-card-27,data-cards,,Records the total time spent in the Pokéathlon.
+513,ロックカプセル,lock-capsule,unused,,Contains TM95 (Snarl).
+514,フォトアルバム,photo-album,unused,,Stores photos from your adventure.
+515,オレンジメール,orange-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+516,ハーバーメール,harbor-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+517,キラキラメール,glitter-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+518,メカニカルメール,mech-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+519,ウッディメール,wood-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+520,クロスメール,wave-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+521,トレジャーメール,bead-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+522,シャドーメール,shadow-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+523,トロピカルメール,tropic-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+524,ドリームメール,dream-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+525,ミラクルメール,fab-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+526,レトロメール,retro-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+527,マッハじてんしゃ,mach-bike,gameplay,,"Faster than the Acro Bike, and can ride up sandy slopes and across cracked floors."
+528,ダートじてんしゃ,acro-bike,gameplay,,"More maneuverable than the Mach Bike, and allows hopping along rails."
+529,ホエルコじょうろ,wailmer-pail,gameplay,,Used to water berries.
+530,デボンのにもつ,devon-goods,plot-advancement,,Contains mechanical parts to be delivered to Captain Stern.
+531,はいぶくろ,soot-sack,gameplay,,Stores volcanic ash from Route 113.
+532,ポロックケース,pokeblock-case,gameplay,,Holds Pokéblocks.
+533,ダイゴへのてがみ,letter,plot-advancement,,A letter to Steven from the Devon Corp president.
+534,むげんのチケット,eon-ticket,event-items,,Provides access to Southern Island and Latias or Latios.
+535,たんちき,scanner,plot-advancement,,Trade to Captain Stern for a DeepSeaTooth or DeepSeaScale.
+536,ゴーゴーゴーグル,go-goggles,gameplay,,Allows passage through windy deserts.
+537,いんせき,meteorite,plot-advancement,,FL: Deliver to Lostelle’s father. RSE: Trade to Professor Cozmo for TM27 (Return).
+538,1ごうしつのカギ,rm-1-key,plot-advancement,,Unlocks room 1 on the Abandoned Ship.
+539,2ごうしつのカギ,rm-2-key,plot-advancement,,Unlocks room 2 on the Abandoned Ship.
+540,4ごうしつのカギ,rm-4-key,plot-advancement,,Unlocks room 4 on the Abandoned Ship.
+541,6ごうしつのカギ,rm-6-key,plot-advancement,,Unlocks room 6 on the Abandoned Ship.
+542,デボンスコープ,devon-scope,gameplay,,Allows spotting of invisible Kecleon.
+543,おとどけもの,oaks-parcel,plot-advancement,,Trade to Prof. Oak for a Pokédex.
+544,ポケモンのふえ,poke-flute,plot-advancement,,"Use to awaken sleeping Pokémon, including Snorlax on roads."
+545,ひきかえけん,bike-voucher,plot-advancement,,Trade in Cerulean bike shop for a Bicycle.
+546,きんのいれば,gold-teeth,plot-advancement,,The Safari Zone Warden’s dentures. Trade for HM04 (Strength).
+547,エレベータのカギ,lift-key,plot-advancement,,Operates the elevator in Team Rocket’s Celadon Hideout.
+548,シルフスコープ,silph-scope,plot-advancement,,Used to identify the true forms of ghosts in Pokémon Tower.
+549,ボイスチェッカー,fame-checker,gameplay,,Records information about NPCs.
+550,わざマシンケース,tm-case,gameplay,,Holds TMs.
+551,きのみぶくろ,berry-pouch,gameplay,,Holds berries.
+552,おしえテレビ,teachy-tv,gameplay,,Teachers basic trainer advice.
+553,トライパス,tri-pass,plot-advancement,,Grants access to the first three Sevii Islands.
+554,レインボーパス,rainbow-pass,plot-advancement,,Grants access to all of the Sevii Islands.
+555,おちゃ,tea,plot-advancement,,Grants access to Saffron City.
+556,しんぴのチケット,mysticticket,event-items,,Allows access to Navel Rock and Lugia or Ho-oh.
+557,オーロラチケット,auroraticket,event-items,,Allows access to Birth Island and Deoxys.
+558,こないれ,powder-jar,gameplay,,Stores Berry Powder made using a Berry Crusher.
+559,ルビー,ruby,plot-advancement,,Give to Celio with Sapphire to activate Network Machine and get Rainbow Pass.
+560,サファイア,sapphire,plot-advancement,,Give to Celio with Ruby to activate Network Machine and get Rainbow Pass.
+561,マグマのしるし,magma-emblem,plot-advancement,,Provides access to the Team Magma Hideout in the Jagged Pass.
+562,ふるびたかいず,old-sea-map,event-items,,Allows access to Faraway Island and Mew. Unreleased outside of Japan.
+563,アクアカセット,douse-drive,species-specific,70,"Grants Genesect a blue, Water-type Techno Blast."
+564,イナズマカセット,shock-drive,species-specific,70,"Grants Genesect a yellow, Electric-type Techno Blast."
+565,ブレイズカセット,burn-drive,species-specific,70,"Grants Genesect a red, Fire-type Techno Blast."
+566,フリーズカセット,chill-drive,species-specific,70,"Grants Genesect a white, Ice-type Techno Blast."
+567,ハートスイーツ,sweet-heart,healing,30,Restores 20 HP.
+568,はじめてメール,greet-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+569,だいすきメール,favored-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+570,おさそいメール,rsvp-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+571,かんしゃメール,thanks-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+572,しつもんメール,inquiry-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+573,おすすめメール,like-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+574,おかえしメール,reply-mail,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+575,ブリッジメールＳ,bridge-mail-s,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+576,ブリッジメールＨ,bridge-mail-d,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+577,ブリッジメールＣ,bridge-mail-t,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+578,ブリッジメールＶ,bridge-mail-v,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+579,ブリッジメールＷ,bridge-mail-m,all-mail,,Lets a Trainer write a message and send it via Pokémon trade.
+580,きれいなウロコ,prism-scale,evolution,30,Traded on a Feebas: Holder evolves into Milotic.
+581,しんかのきせき,eviolite,held-items,40,"Held: Holder has 1.5× Defense and Special Defense, as long as it’s not fully evolved."
+582,かるいし,float-stone,held-items,30,Held: Holder has 0.5× weight.
+583,ゴツゴツメット,rocky-helmet,held-items,60,"Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage."
+584,ふうせん,air-balloon,held-items,10,"Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move."
+585,レッドカード,red-card,held-items,10,"Held: When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use."
+586,ねらいのまと,ring-target,held-items,10,Held: Negates the holder’s type immunities. Ability immunities are not removed.
+587,しめつけバンド,binding-band,held-items,30,Held: Doubles the per-turn damage of multi-turn trapping moves.
+588,きゅうこん,absorb-bulb,held-items,30,Held: Raises the holder’s Special Attack by one stage when it takes Water-type damage.
+589,じゅうでんち,cell-battery,held-items,30,Held: Raises the holder’s Attack by one stage when it takes Electric-type damage.
+590,だっしゅつボタン,eject-button,held-items,30,"Held: When the holder takes damage from a move, it switches out for a party Pokémon of the Trainer’s choice."
+591,ほのおのジュエル,fire-gem,jewels,,"Held: When the holder uses a damaging Fire-type move, the move has 1.5× power and this item is consumed."
+592,みずのジュエル,water-gem,jewels,,"Held: When the holder uses a damaging Water-type move, the move has 1.5× power and this item is consumed."
+593,でんきのジュエル,electric-gem,jewels,,"Held: When the holder uses a damaging Electric-type move, the move has 1.5× power and this item is consumed."
+594,くさのジュエル,grass-gem,jewels,,"Held: When the holder uses a damaging Grass-type move, the move has 1.5× power and this item is consumed."
+595,こおりのジュエル,ice-gem,jewels,,"Held: When the holder uses a damaging Ice-type move, the move has 1.5× power and this item is consumed."
+596,かくとうジュエル,fighting-gem,jewels,,"Held: When the holder uses a damaging Fighting-type move, the move has 1.5× power and this item is consumed."
+597,どくのジュエル,poison-gem,jewels,,"Held: When the holder uses a damaging Poison-type move, the move has 1.5× power and this item is consumed."
+598,じめんのジュエル,ground-gem,jewels,,"Held: When the holder uses a damaging Ground-type move, the move has 1.5× power and this item is consumed."
+599,ひこうのジュエル,flying-gem,jewels,,"Held: When the holder uses a damaging Flying-type move, the move has 1.5× power and this item is consumed."
+600,エスパージュエル,psychic-gem,jewels,,"Held: When the holder uses a damaging Psychic-type move, the move has 1.5× power and this item is consumed."
+601,むしのジュエル,bug-gem,jewels,,"Held: When the holder uses a damaging Bug-type move, the move has 1.5× power and this item is consumed."
+602,いわのジュエル,rock-gem,jewels,,"Held: When the holder uses a damaging Rock-type move, the move has 1.5× power and this item is consumed."
+603,ゴーストジュエル,ghost-gem,jewels,,"Held: When the holder uses a damaging Ghost-type move, the move has 1.5× power and this item is consumed."
+604,あくのジュエル,dark-gem,jewels,,"Held: When the holder uses a damaging Dark-type move, the move has 1.5× power and this item is consumed."
+605,はがねのジュエル,steel-gem,jewels,,"Held: When the holder uses a damaging Steel-type move, the move has 1.5× power and this item is consumed."
+606,たいりょくのハネ,health-wing,vitamins,20,Increases HP effort by 1.
+607,きんりょくのハネ,muscle-wing,vitamins,20,Increases Attack effort by 1.
+608,ていこうのハネ,resist-wing,vitamins,20,Increases Defense effort by 1.
+609,ちりょくのハネ,genius-wing,vitamins,20,Increases Special Attack effort by 1.
+610,せいしんのハネ,clever-wing,vitamins,20,Increases Special Defense effort by 1.
+611,しゅんぱつのハネ,swift-wing,vitamins,20,Increases Speed effort by 1.
+612,きれいなハネ,pretty-wing,loot,20,Sell for 100 Pokédollars.
+613,ふたのカセキ,cover-fossil,dex-completion,100,Can be revived into a Tirtouga.
+614,はねのカセキ,plume-fossil,dex-completion,100,Can be revived into an Archen.
+615,リバティチケット,liberty-pass,event-items,,Allows access to Liberty Garden and Victini.
+616,デルダマ,pass-orb,held-items,30,Activates Pass Powers.
+617,ドリームボール,dream-ball,special-balls,,Catches Pokémon found in the Dream World.
+618,ポケじゃらし,poke-toy,spelunking,30,Ends a wild battle.
+619,グッズケース,prop-case,gameplay,,Stores props for the Pokémon Musical.
+620,ドラゴンのホネ,dragon-skull,plot-advancement,,Return to the museum in Nacrene City.
+621,かおるキノコ,balm-mushroom,loot,30,Sell to Hungry Maid for 25000 Pokédollars.
+622,でかいきんのたま,big-nugget,loot,130,Sell to Ore Collector for 30000 Pokédollars.
+623,おだんごしんじゅ,pearl-string,loot,30,Sell to Ore Collector for 25000 Pokédollars.
+624,すいせいのかけら,comet-shard,loot,30,Sell to Ore Collector for 60000 Pokédollars.
+625,こだいのどうか,relic-copper,loot,30,Sell to Villa Owner for 1000 Pokédollars.
+626,こだいのぎんか,relic-silver,loot,30,Sell to Villa Owner 5000 Pokédollars.
+627,こだいのきんか,relic-gold,loot,30,Sell to Villa Owner 10000 Pokédollars.
+628,こだいのツボ,relic-vase,loot,30,Sell to Villa Owner 50000 Pokédollars.
+629,こだいのうでわ,relic-band,loot,30,Sell to Villa Owner for 100000 Pokédollars.
+630,こだいのせきぞう,relic-statue,loot,30,Sell to Villa Owner 200000 Pokédollars.
+631,こだいのおうかん,relic-crown,loot,30,Sell to Villa Owner for 300000 Pokédollars.
+632,ヒウンアイス,casteliacone,status-cures,30,Cures any status ailment and confusion.
+633,クリティカット2,dire-hit-2,miracle-shooter,,Raises critical hit rate by two stages in battle.  Wonder Launcher only.
+634,スピーダー2,x-speed-2,miracle-shooter,,Raises Speed by two stages in battle.  Wonder Launcher only.
+635,ＳＰアップ2,x-sp-atk-2,miracle-shooter,,Raises Special Attack by two stages in battle.  Wonder Launcher only.
+636,ＳＰガード2,x-sp-def-2,miracle-shooter,,Raises Special Defense by two stages in battle.  Wonder Launcher only.
+637,ディフェンダー2,x-defense-2,miracle-shooter,,Raises Defense by two stages in battle.  Wonder Launcher only.
+638,プラスパワー2,x-attack-2,miracle-shooter,,Raises Attack by two stages in battle.  Wonder Launcher only.
+639,ヨクアタール2,x-accuracy-2,miracle-shooter,,Raises accuracy by two stages in battle.  Wonder Launcher only.
+640,スピーダー3,x-speed-3,miracle-shooter,,Raises Speed by three stages in battle.  Wonder Launcher only.
+641,ＳＰアップ3,x-sp-atk-3,miracle-shooter,,Raises Special Attack by three stages in battle.  Wonder Launcher only.
+642,ＳＰガード3,x-sp-def-3,miracle-shooter,,Raises Special Defense by three stages in battle.  Wonder Launcher only.
+643,ディフェンダー3,x-defense-3,miracle-shooter,,Raises Defense by three stages in battle.  Wonder Launcher only.
+644,プラスパワー3,x-attack-3,miracle-shooter,,Raises Attack by three stages in battle.  Wonder Launcher only.
+645,ヨクアタール3,x-accuracy-3,miracle-shooter,,Raises accuracy by three stages in battle.  Wonder Launcher only.
+646,スピーダー6,x-speed-6,miracle-shooter,,Raises Speed by six stages in battle.  Wonder Launcher only.
+647,ＳＰアップ6,x-sp-atk-6,miracle-shooter,,Raises Special Attack by six stages in battle.  Wonder Launcher only.
+648,ＳＰガード6,x-sp-def-6,miracle-shooter,,Raises Special Defense by six stages in battle.  Wonder Launcher only.
+649,ディフェンダー6,x-defense-6,miracle-shooter,,Raises Defense by six stages in battle.  Wonder Launcher only.
+650,プラスパワー6,x-attack-6,miracle-shooter,,Raises Attack by six stages in battle.  Wonder Launcher only.
+651,ヨクアタール6,x-accuracy-6,miracle-shooter,,Raises accuracy by six stages in battle.  Wonder Launcher only.
+652,スキルコール,ability-urge,miracle-shooter,,Forcibly activates a friendly Pokémon’s ability.
+653,アイテムドロップ,item-drop,miracle-shooter,,Forces a friendly Pokémon to drop its held item.
+654,アイテムコール,item-urge,miracle-shooter,,Forcibly activates a friendly Pokémon’s held item.
+655,フラットコール,reset-urge,miracle-shooter,,Resets a friendly Pokémon’s stat changes.
+656,クリティカット3,dire-hit-3,miracle-shooter,,Raises critical hit rate by three stages in battle.  Wonder Launcher only.
+657,ライトストーン,light-stone,plot-advancement,,Summons Reshiram for the final battle against N.
+658,ダークストーン,dark-stone,plot-advancement,,Summons Zekrom for the final battle against N.
+659,わざマシン93,tm93,all-machines,,Teaches Wild Charge to a compatible Pokémon.
+660,わざマシン94,tm94,all-machines,,Teaches Rock Smash to a compatible Pokémon.
+661,わざマシン95,tm95,all-machines,,Teaches Snarl to a compatible Pokémon.
+662,ライブキャスター,xtransceiver,gameplay,,Makes four-way video calls.
+663,ゴッドストーン,god-stone,unused,,Unknown.  Currently unused.
+664,はいたつぶつ1,gram-1,plot-advancement,,Part of a sidequest to obtain TM89.
+665,はいたつぶつ2,gram-2,plot-advancement,,Part of a sidequest to obtain TM89.
+666,はいたつぶつ3,gram-3,plot-advancement,,Part of a sidequest to obtain TM89.
+668,ドラゴンジュエル,dragon-gem,jewels,,"Held: When the holder uses a damaging Dragon-type move, the move has 1.5× power and this item is consumed."
+669,ノーマルジュエル,normal-gem,jewels,,"Held: When the holder uses a damaging Normal-type move, the move has 1.5× power and this item is consumed."
+670,メダルボックス,medal-box,gameplay,,Holds medals recieved in the medal rally.
+671,いでんしのくさび,dna-splicers,gameplay,,"Fuses Kyurem with Reshiram or Zekrom, or splits them apart again."
+673,きょかしょう,permit,gameplay,,Grants access to the Nature Preserve.
+674,まるいおまもり,oval-charm,gameplay,,Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps.
+675,ひかるおまもり,shiny-charm,gameplay,,Raises the chance of finding a shiny Pokémon.
+676,プラズマカード,plasma-card,plot-advancement,,Required to progress in the Plasma Frigate.
+677,よごれたハンカチ,grubby-hanky,plot-advancement,,Appears in the Café Warehouse on Sunday; return to the customer with a Patrat on Thursday.
+678,アクロママシーン,colress-machine,plot-advancement,,Wakes up the Crustle blocking the way in Seaside Cave.
+679,わすれもの,dropped-item,plot-advancement,,Returned to Curtis or Yancy as part of a sidequest.
+681,うつしかがみ,reveal-glass,gameplay,,"Switches Tornadus, Thundurus, and Landorus between Incarnate and Therian Forme."
+682,じゃくてんほけん,weakness-policy,held-items,80,"Held: When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages."
+683,とつげきチョッキ,assault-vest,held-items,80,Raises the holder’s Special Defense to 1.5×.  Prevents the holder from selecting a status move.
+684,せいれいプレート,pixie-plate,plates,90,Held: Fairy-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fairy.
+685,とくせいカプセル,ability-capsule,vitamins,,Switches a Pokémon between its two possible (non-Hidden) Abilities.
+686,ホイップポップ,whipped-dream,evolution,80,Traded on a Swirlix: Holder evolves into Slurpuff.
+687,においぶくろ,sachet,evolution,80,Traded on a Spritzee: Holder evolves into Aromatisse.
+688,ひかりごけ,luminous-moss,held-items,30,"Held: If the holder is hit by a damaging Water move, raises its Special Defense by one stage."
+689,ゆきだま,snowball,held-items,30,"Held: If the holder is hit by a damaging Ice move, raises its Attack by one stage."
+690,ぼうじんゴーグル,safety-goggles,held-items,80,Held: Prevents damage from powder moves and the damage from Hail and Sandstorm.
+691,たわわこやし,rich-mulch,mulch,30,Increases the total number of Berries by 2.
+692,びっくりこやし,surprise-mulch,mulch,30,Increases the chance of Berry mutation.
+693,ぐんぐんこやし,boost-mulch,mulch,30,Causes soil to dry out in 4 hours.
+694,とんでもこやし,amaze-mulch,mulch,30,"Increases the total number of Berries by 2, increases the chance of Berry mutation, and causes soil to dry out in 4 hours."
+695,ゲンガナイト,gengarite,mega-stones,80,Held: Allows Gengar to Mega Evolve into Mega Gengar.
+696,サーナイトナイト,gardevoirite,mega-stones,80,Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.
+697,デンリュウナイト,ampharosite,mega-stones,80,Held: Allows Ampharos to Mega Evolve into Mega Ampharos.
+698,フシギバナイト,venusaurite,mega-stones,80,Held: Allows Venusaur to Mega Evolve into Mega Venusaur.
+699,リザードナイトＸ,charizardite-x,mega-stones,80,Held: Allows Charizard to Mega Evolve into Mega Charizard X.
+700,カメックスナイト,blastoisinite,mega-stones,80,Held: Allows Blastoise to Mega Evolve into Mega Blastoise.
+701,ミュウツナイトＸ,mewtwonite-x,mega-stones,80,Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo X.
+702,ミュウツナイトＹ,mewtwonite-y,mega-stones,80,Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo Y.
+703,バシャーモナイト,blazikenite,mega-stones,80,Held: Allows Blaziken to Mega Evolve into Mega Blaziken.
+704,チャーレムナイト,medichamite,mega-stones,80,Held: Allows Medicham to Mega Evolve into Mega Medicham.
+705,ヘルガナイト,houndoominite,mega-stones,80,Held: Allows Houndoom to Mega Evolve into Mega Houndoom.
+706,ボスゴドラナイト,aggronite,mega-stones,80,Held: Allows Aggron to Mega Evolve into Mega Aggron.
+707,ジュペッタナイト,banettite,mega-stones,80,Held: Allows Banette to Mega Evolve into Mega Banette.
+708,バンギラスナイト,tyranitarite,mega-stones,80,Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.
+709,ハッサムナイト,scizorite,mega-stones,80,Held: Allows Scizor to Mega Evolve into Mega Scizor.
+710,カイロスナイト,pinsirite,mega-stones,80,Held: Allows Pinsir to Mega Evolve into Mega Pinsir.
+711,プテラナイト,aerodactylite,mega-stones,80,Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.
+712,ルカリオナイト,lucarionite,mega-stones,80,Held: Allows Lucario to Mega Evolve into Mega Lucario.
+713,ユキノオナイト,abomasite,mega-stones,80,Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow.
+714,ガルーラナイト,kangaskhanite,mega-stones,80,Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.
+715,ギャラドスナイト,gyaradosite,mega-stones,80,Held: Allows Gyarados to Mega Evolve into Mega Gyarados.
+716,アブソルナイト,absolite,mega-stones,80,Held: Allows Absol to Mega Evolve into Mega Absol.
+717,リザードナイトＹ,charizardite-y,mega-stones,80,Held: Allows Charizard to Mega Evolve into Mega Charizard Y.
+718,フーディナイト,alakazite,mega-stones,80,Held: Allows Alakazam to Mega Evolve into Mega Alakazam.
+719,ヘラクロスナイト,heracronite,mega-stones,80,Held: Allows Heracross to Mega Evolve into Mega Heracross.
+720,クチートナイト,mawilite,mega-stones,80,Held: Allows Mawile to Mega Evolve into Mega Mawile.
+721,ライボルトナイト,manectite,mega-stones,80,Held: Allows Manectric to Mega Evolve into Mega Manectric.
+722,ガブリアスナイト,garchompite,mega-stones,80,Held: Allows Garchomp to Mega Evolve into Mega Garchomp.
+723,ロゼルのみ,roseli-berry,type-protection,10,Held: Consumed when struck by a super-effective Fairy-type attack to halve the damage.
+724,アッキのみ,kee-berry,other,10,"Held: When the holder is hit by a physical move, increases its Defense by one stage."
+725,タラプのみ,maranga-berry,other,10,"Held: When the holder is hit by a special move, increases its Special Defense by one stage."
+726,バーゲンチケット,discount-coupon,loot,10,Can be used at a boutique for a 50% discount.  Consumed once used.
+727,ふしぎなおきもの,strange-souvenir,loot,30,Vendor trash.
+728,ミアレガレット,lumiose-galette,status-cures,30,Cures all major status ailments and confusion.
+729,アゴのカセキ,jaw-fossil,dex-completion,100,Can be revived into a Tyrunt.
+730,ヒレのカセキ,sail-fossil,dex-completion,100,Can be revived into an Amaura.
+731,ようせいジュエル,fairy-gem,jewels,,"Held: When the holder uses a damaging Fairy move, the move has 1.5× power and this item is consumed."
+732,たんけんこころえ,adventure-rules,gameplay,,Contains basic gameplay information.
+733,エレベータのキー,elevator-key,plot-advancement,,Unlocks the elevator in Lysandre Labs.
+734,ホロキャスター,holo-caster,gameplay,,Displays cutscene conversations as the plot advances.
+735,カロスエンブレム,honor-of-kalos,plot-advancement,,"Does nothing, but signifies becoming Champion."
+736,すごそうないし,intriguing-stone,plot-advancement,,"Trade for a Sun Stone in X and Y, or Pidgeotite in Omega Ruby and Alpha Sapphire."
+737,レンズケース,lens-case,gameplay,,Allows the player to change their eye color.
+738,ハンサムチケット,looker-ticket,plot-advancement,,Advances the Looker postgame plot.
+739,メガリング,mega-ring,gameplay,,Allows the player’s Pokémon to Mega Evolve.
+740,はつでんしょパス,power-plant-pass,plot-advancement,,Permits entry to the Kalos Power Plant.
+741,はかせのてがみ,profs-letter,plot-advancement,,Traded to the player’s mom for the Town Map and a Potion.
+742,ローラースケート,roller-skates,gameplay,,Allows the player to move quickly and off the grid.
+743,ハスボーじょうろ,sprinklotad,gameplay,,Waters Berry plants.
+744,ＴＭＶパス,tmv-pass,gameplay,,Permits access to Kiloude City.
+745,わざマシン96,tm96,all-machines,,Teaches a Pokémon TM96.
+746,わざマシン97,tm97,all-machines,,Teaches a Pokémon TM97.
+747,わざマシン98,tm98,all-machines,,Teaches a Pokémon TM98.
+748,わざマシン99,tm99,all-machines,,Teaches a Pokémon TM99.
+749,わざマシン100,tm100,all-machines,,Teaches a Pokémon TM100.
+760,ラティアスナイト,latiasite,mega-stones,80,Held: Allows Latias to Mega Evolve into Mega Latias.
+761,ラティオスナイト,latiosite,mega-stones,80,Held: Allows Latios to Mega Evolve into Mega Latios.
+762,ありふれたいし,common-stone,unused,,Unknown.
+763,コスメポーチ,makeup-bag,gameplay,,Allows the player to change their lipstick color.
+764,いしょうトランク,travel-trunk,unused,,"Unobtainable, but allows the player to change clothes anywhere."
+765,シャラサブレ,shalour-sable,status-cures,30,Cures any major status ailment and confusion.
+768,メガチャーム,mega-charm,unused,,Unused Key Stone.
+769,メガグローブ,mega-glove,unused,,Unused NPC Key Stone.
+770,デボンのにもつ,devon-parts,plot-advancement,,Allows Captain Stern to set out on his expedition.
+772,ポロックキット,pokeblock-kit,gameplay,,Creates and stores Pokéblocks.
+773,1ごうしつのカギ,key-to-room-1,plot-advancement,,Unlocks the door to Room 1 in Sea Mauville.
+774,2ごうしつのカギ,key-to-room-2,plot-advancement,,Unlocks the door to Room 2 in Sea Mauville.
+775,4ごうしつのカギ,key-to-room-4,plot-advancement,,Unlocks the door to Room 4 in Sea Mauville.
+776,6ごうしつのカギ,key-to-room-6,plot-advancement,,Unlocks the door to Room 6 in Sea Mauville.
+779,デボンボンベ,devon-scuba-gear,plot-advancement,,Worn by the player while underwater.
+780,ライブスーツ,contest-costume--jacket,gameplay,,Worn during Pokémon Contests.
+782,マグマスーツ,magma-suit,plot-advancement,,Allows the player to ride Groudon in the Cave of Origin.
+783,アクアスーツ,aqua-suit,plot-advancement,,Allows the player to ride Kyogre in the Cave of Origin.
+784,ペアチケット,pair-of-tickets,plot-advancement,,Allows the player and their mother to see the star show in the Mossdeep Space Center.
+785,メガバングル,mega-bracelet,gameplay,,Allows the player’s Pokémon to Mega Evolve.
+786,メガペンダント,mega-pendant,unused,,Unused NPC Key Stone.
+787,メガメガネ,mega-glasses,unused,,Unused NPC Key Stone.
+788,メガイカリ,mega-anchor,unused,,Unused NPC Key Stone.
+789,メガラペルピン,mega-stickpin,unused,,Unused NPC Key Stone.
+790,メガティアラ,mega-tiara,unused,,Unused NPC Key Stone.
+791,メガアンクレット,mega-anklet,unused,,Unused NPC Key Stone.
+793,ラグラージナイト,swampertite,mega-stones,80,Held: Allows Swampert to Mega Evolve into Mega Swampert.
+794,ジュカインナイト,sceptilite,mega-stones,80,Held: Allows Sceptile to Mega Evolve into Mega Sceptile.
+795,ヤミラミナイト,sablenite,mega-stones,80,Held: Allows Sableye to Mega Evolve into Mega Sableye.
+796,チルタリスナイト,altarianite,mega-stones,80,Held: Allows Altaria to Mega Evolve into Mega Altaria.
+797,エルレイドナイト,galladite,mega-stones,80,Held: Allows Gallade to Mega Evolve into Mega Gallade.
+798,タブンネナイト,audinite,mega-stones,80,Held: Allows Audino to Mega Evolve into Mega Audino.
+799,メタグロスナイト,metagrossite,mega-stones,80,Held: Allows Metagross to Mega Evolve into Mega Metagross.
+800,サメハダナイト,sharpedonite,mega-stones,80,Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.
+801,ヤドランナイト,slowbronite,mega-stones,80,Held: Allows Slowbro to Mega Evolve into Mega Slowbro.
+802,ハガネールナイト,steelixite,mega-stones,80,Held: Allows Steelix to Mega Evolve into Mega Steelix.
+803,ピジョットナイト,pidgeotite,mega-stones,80,Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.
+804,オニゴーリナイト,glalitite,mega-stones,80,Held: Allows Glalie to Mega Evolve into Mega Glalie.
+805,ディアンシナイト,diancite,mega-stones,80,Held: Allows Diancie to Mega Evolve into Mega Diancie.
+806,いましめのツボ,prison-bottle,gameplay,,Transforms Hoopa into its Unbound form for up to three days.
+807,メガブレス,mega-cuff,unused,,Unused Key Stone.
+808,バクーダナイト,cameruptite,mega-stones,80,Held: Allows Camerupt to Mega Evolve into Mega Camerupt.
+809,ミミロップナイト,lopunnite,mega-stones,80,Held: Allows Lopunny to Mega Evolve into Mega Lopunny.
+810,ボーマンダナイト,salamencite,mega-stones,80,Held: Allows Salamence to Mega Evolve into Mega Salamence.
+811,スピアナイト,beedrillite,mega-stones,80,Held: Allows Beedrill to Mega Evolve into Mega Beedrill.
+814,キーストーン,key-stone,gameplay,,Allows the player’s Pokémon to Mega Evolve.
+815,いんせきのかけら,meteorite-shard,plot-advancement,,"Causes the Meteorite to transform to its final form, allowing Rayquaza to Mega Evolve."
+816,むげんのふえ,eon-flute,gameplay,,Summons Latias or Latios for a ride.
+817,ノーマルＺ,normalium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Normal moves.
+818,ホノオＺ,firium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Fire moves.
+819,ミズＺ,waterium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Water moves.
+820,デンキＺ,electrium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Electric moves.
+821,クサＺ,grassium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Grass moves.
+822,コオリＺ,icium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Ice moves.
+823,カクトウＺ,fightinium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Fighting moves.
+824,ドクＺ,poisonium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Poison moves.
+825,ジメンＺ,groundium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Ground moves.
+826,ヒコウＺ,flyinium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Flying moves.
+827,エスパーＺ,psychium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Psychic moves.
+828,ムシＺ,buginium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Bug moves.
+829,イワＺ,rockium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Rock moves.
+830,ゴーストＺ,ghostium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Ghost moves.
+831,ドラゴンＺ,dragonium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Dragon moves.
+832,アクＺ,darkinium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Dark moves.
+833,ハガネＺ,steelium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Steel moves.
+834,フェアリーＺ,fairium-z--held,z-crystals,,Held: Allows a Pokémon to use the Z-move equivalents of its Fairy moves.
+835,ピカチュウＺ,pikanium-z--held,z-crystals,,Held: Allows Pikachu to upgrade Volt Tackle into Catastropika.
+836,ぎんのおうかん,bottle-cap,loot,30,Trade to Mr. Hyper to maximize one of a Pokémon’s genes.
+837,きんのおうかん,gold-bottle-cap,loot,30,Trade to Mr. Hyper to maximize all of a Pokémon’s genes.
+838,Ｚリング,z-ring,gameplay,,Allows the player’s Pokémon to use Z-moves.
+839,ジュナイパーＺ,decidium-z--held,z-crystals,,Held: Allows Decidueye to upgrade Spirit Shackle into Sinister Arrow Raid.
+840,ガオガエンＺ,incinium-z--held,z-crystals,,Held: Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault.
+841,アシレーヌＺ,primarium-z--held,z-crystals,,Held: Allows Primarina to upgrade Sparkling Aria into Oceanic Operetta.
+842,カプＺ,tapunium-z--held,z-crystals,,Held: Allows the Tapus to upgrade Nature’s Madness into Guardian of Alola.
+843,マーシャドーＺ,marshadium-z--held,z-crystals,,Held: Allows Marshadow to upgrade Spectral Thief into Soul-Stealing 7 Star Strike.
+844,アロライＺ,aloraichium-z--held,z-crystals,,Held: Allows Alola Raichu to upgrade Thunderbolt into Stoked Sparksurfer.
+845,カビゴンＺ,snorlium-z--held,z-crystals,,Held: Allows Snorlax to upgrade Giga Impact into Pulverizing Pancake.
+846,イーブイＺ,eevium-z--held,z-crystals,,Held: Allows Eevee to upgrade Last Resort into Extreme Evoboost.
+847,ミュウＺ,mewnium-z--held,z-crystals,,Held: Allows Mew to upgrade Psychic into Genesis Supernova.
+877,サトピカＺ,pikashunium-z--held,z-crystals,,"Held: Allows cap-wearing Pikachu to upgrade Thunderbolt into 10,000,000 Volt Thunderbolt."
+878,ざいりょうぶくろ,forage-bag,gameplay,,Holds ingredients during Mallow’s trial.
+879,つりざお,fishing-rod,gameplay,,Allows the player to fish for Pokémon.
+880,はかせのふくめん,professors-mask,plot-advancement,,Lost by Professor Kukui.
+881,フェスチケット,festival-ticket,gameplay,,Hosts a mission in Festival Plaza.
+882,かがやくいし,sparkling-stone,plot-advancement,,Required to obtain a Z-Ring.
+883,ビビリだま,adrenaline-orb,held-items,30,Makes wild Pokémon more likely to summon allies.  Held: increases the holder’s Speed by one stage when affected by Intimidate.
+884,ジガルデキューブ,zygarde-cube,gameplay,,Contains collected Zygarde cells/cores.  Can teach Zygarde moves.
+885,こおりのいし,ice-stone,evolution,30,Evolves an Alola Sandshrew into Alola Sandslash or an Alola Vulpix into Alola Ninetales.
+886,ライドギア,ride-pager,unused,,Allows the player to summon a Ride Pokémon.
+887,ウルトラボール,beast-ball,special-balls,,Tries to catch a wild Pokémon.  Success rate is 5× for Ultra Beasts and 0.1× for all other Pokémon.
+888,おおきいマラサダ,big-malasada,status-cures,30,Cures major status ailments and confusion.
+889,くれないのミツ,red-nectar,species-specific,10,Changes Oricorio to Baile Style.
+890,やまぶきのミツ,yellow-nectar,species-specific,10,Changes Oricorio to Pom-Pom Style.
+891,うすもものミツ,pink-nectar,species-specific,10,Changes Oricorio to Pa’u Style.
+892,むらさきのミツ,purple-nectar,species-specific,10,Changes Oricorio to Sensu Style.
+893,たいようのふえ,sun-flute,plot-advancement,,Evolves Nebby into Solgaleo when used at the Altar of the Sunne.
+894,つきのふえ,moon-flute,plot-advancement,,Evolves Nebby into Lunala when used at the Altar of the Moone.
+895,あやしいカード,enigmatic-card,plot-advancement,,Unlocks Looker’s motel room on Route 8.
+896,グランドコート,terrain-extender,held-items,60,Held: Extends the holder’s Terrain effects to 8 turns.
+897,ぼうごパット,protective-pads,held-items,30,Held: Prevents side effects of contact moves used on the holder.
+898,エレキシード,electric-seed,held-items,10,Held: Consumed on Electric Terrain and raises the holder’s Defense by one stage.
+899,サイコシード,psychic-seed,held-items,10,Held: Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage.
+900,ミストシード,misty-seed,held-items,10,Held: Consumed on Misty Terrain and raises the holder’s Special Defense by one stage.
+901,グラスシード,grassy-seed,held-items,10,Held: Consumed on Grassy Terrain and raises the holder’s Defense by one stage.
+902,ファイトメモリ,fighting-memory,memories,50,Held: Changes Silvally to its Fighting form.  Changes Multi-Attack’s type to Fighting.
+903,フライングメモリ,flying-memory,memories,50,Held: Changes Silvally to its Flying form.  Changes Multi-Attack’s type to Flying.
+904,ポイズンメモリ,poison-memory,memories,50,Held: Changes Silvally to its Poison form.  Changes Multi-Attack’s type to Poison.
+905,グラウンドメモリ,ground-memory,memories,50,Held: Changes Silvally to its Ground form.  Changes Multi-Attack’s type to Ground.
+906,ロックメモリ,rock-memory,memories,50,Held: Changes Silvally to its Rock form.  Changes Multi-Attack’s type to Rock.
+907,バグメモリ,bug-memory,memories,50,Held: Changes Silvally to its Bug form.  Changes Multi-Attack’s type to Bug.
+908,ゴーストメモリ,ghost-memory,memories,50,Held: Changes Silvally to its Ghost form.  Changes Multi-Attack’s type to Ghost.
+909,スチールメモリ,steel-memory,memories,50,Held: Changes Silvally to its Steel form.  Changes Multi-Attack’s type to Steel.
+910,ファイヤーメモリ,fire-memory,memories,50,Held: Changes Silvally to its Fire form.  Changes Multi-Attack’s type to Fire.
+911,ウオーターメモリ,water-memory,memories,50,Held: Changes Silvally to its Water form.  Changes Multi-Attack’s type to Water.
+912,グラスメモリ,grass-memory,memories,50,Held: Changes Silvally to its Grass form.  Changes Multi-Attack’s type to Grass.
+913,エレクトロメモリ,electric-memory,memories,50,Held: Changes Silvally to its Electric form.  Changes Multi-Attack’s type to Electric.
+914,サイキックメモリ,psychic-memory,memories,50,Held: Changes Silvally to its Psychic form.  Changes Multi-Attack’s type to Psychic.
+915,アイスメモリ,ice-memory,memories,50,Held: Changes Silvally to its Ice form.  Changes Multi-Attack’s type to Ice.
+916,ドラゴンメモリ,dragon-memory,memories,50,Held: Changes Silvally to its Dragon form.  Changes Multi-Attack’s type to Dragon.
+917,ダークメモリ,dark-memory,memories,50,Held: Changes Silvally to its Dark form.  Changes Multi-Attack’s type to Dark.
+918,フェアリーメモリ,fairy-memory,memories,50,Held: Changes Silvally to its Fairy form.  Changes Multi-Attack’s type to Fairy.
+919,じてんしゃ,bike--green,unused,,XXX new effect for bike--green
+920,そうこのカギ,storage-key--galactic-warehouse,unused,,XXX new effect for storage-key--galactic-warehouse
+921,ちかのかぎ,basement-key--goldenrod,unused,,XXX new effect for basement-key--goldenrod
+922,ライブキャスター,xtransceiver--red,unused,,XXX new effect for xtranceiver--red
+923,ライブキャスター,xtransceiver--yellow,unused,,XXX new effect for xtranceiver--yellow
+924,いでんしのくさび,dna-splicers--merge,unused,,XXX new effect for dna-splicers--merge
+925,いでんしのくさび,dna-splicers--split,unused,,XXX new effect for dna-splicers--split
+926,わすれもの,dropped-item--red,unused,,XXX new effect for dropped-item--red
+927,わすれもの,dropped-item--yellow,unused,,XXX new effect for dropped-item--yellow
+928,ホロキャスター,holo-caster--green,unused,,XXX new effect for holo-caster--green
+929,じてんしゃ,bike--yellow,unused,,XXX new effect for bike--yellow
+930,ホロキャスター,holo-caster--red,unused,,XXX new effect for holo-caster--red
+931,ちかのカギ,basement-key--new-mauville,unused,,XXX new effect for basement-key--new-mauville
+932,そうこのカギ,storage-key--sea-mauville,unused,,XXX new effect for storage-key--sea-mauville
+933,ふねのチケット,ss-ticket--hoenn,unused,,XXX new effect for ss-ticket--hoenn
+934,ライブドレス,contest-costume--dress,unused,,XXX new effect for contest-costume--dress
+935,いんせき,meteorite--2,unused,,XXX new effect for meteorite--2
+936,いんせき,meteorite--3,unused,,XXX new effect for meteorite--3
+937,いんせき,meteorite--4,unused,,XXX new effect for meteorite--4
+938,ノーマルＺ,normalium-z--bag,unused,,XXX new effect for normalium-z--bag
+939,ホノオＺ,firium-z--bag,unused,,XXX new effect for firium-z--bag
+940,ミズＺ,waterium-z--bag,unused,,XXX new effect for waterium-z--bag
+941,デンキＺ,electrium-z--bag,unused,,XXX new effect for electrium-z--bag
+942,クサＺ,grassium-z--bag,unused,,XXX new effect for grassium-z--bag
+943,コオリＺ,icium-z--bag,unused,,XXX new effect for icium-z--bag
+944,カクトウＺ,fightinium-z--bag,unused,,XXX new effect for fightinium-z--bag
+945,ドクＺ,poisonium-z--bag,unused,,XXX new effect for poisonium-z--bag
+946,ジメンＺ,groundium-z--bag,unused,,XXX new effect for groundium-z--bag
+947,ヒコウＺ,flyinium-z--bag,unused,,XXX new effect for flyinium-z--bag
+948,エスパーＺ,psychium-z--bag,unused,,XXX new effect for psychium-z--bag
+949,ムシＺ,buginium-z--bag,unused,,XXX new effect for buginium-z--bag
+950,イワＺ,rockium-z--bag,unused,,XXX new effect for rockium-z--bag
+951,ゴーストＺ,ghostium-z--bag,unused,,XXX new effect for ghostium-z--bag
+952,ドラゴンＺ,dragonium-z--bag,unused,,XXX new effect for dragonium-z--bag
+953,アクＺ,darkinium-z--bag,unused,,XXX new effect for darkinium-z--bag
+954,ハガネＺ,steelium-z--bag,unused,,XXX new effect for steelium-z--bag
+955,フェアリーＺ,fairium-z--bag,unused,,XXX new effect for fairium-z--bag
+956,ピカチュウＺ,pikanium-z--bag,unused,,XXX new effect for pikanium-z--bag
+957,ジュナイパーＺ,decidium-z--bag,unused,,XXX new effect for decidium-z--bag
+958,ガオガエンＺ,incinium-z--bag,unused,,XXX new effect for incinium-z--bag
+959,アシレーヌＺ,primarium-z--bag,unused,,XXX new effect for primarium-z--bag
+960,カプＺ,tapunium-z--bag,unused,,XXX new effect for tapunium-z--bag
+961,マーシャドーＺ,marshadium-z--bag,unused,,XXX new effect for marshadium-z--bag
+962,アロライＺ,aloraichium-z--bag,unused,,XXX new effect for aloraichium-z--bag
+963,カビゴンＺ,snorlium-z--bag,unused,,XXX new effect for snorlium-z--bag
+964,イーブイＺ,eevium-z--bag,unused,,XXX new effect for eevium-z--bag
+965,ミュウＺ,mewnium-z--bag,unused,,XXX new effect for mewnium-z--bag
+966,サトピカＺ,pikashunium-z--bag,unused,,XXX new effect for pikashunium-z--bag
+967,ソルガレオＺ,solganium-z--held,unused,,XXX new effect for solganium-z--held
+968,ルナアーラＺ,lunalium-z--held,unused,,XXX new effect for lunalium-z--held
+969,ウルトラネクロＺ,ultranecrozium-z--held,unused,,XXX new effect for ultranecrozium-z--held
+970,ミミッキュＺ,mimikium-z--held,unused,,XXX new effect for mimikium-z--held
+971,ルガルガンＺ,lycanium-z--held,unused,,XXX new effect for lycanium-z--held
+972,ジャラランガＺ,kommonium-z--held,unused,,XXX new effect for kommonium-z--held
+973,ソルガレオＺ,solganium-z--bag,unused,,XXX new effect for solganium-z--bag
+974,ルナアーラＺ,lunalium-z--bag,unused,,XXX new effect for lunalium-z--bag
+975,ウルトラネクロＺ,ultranecrozium-z--bag,unused,,XXX new effect for ultranecrozium-z--bag
+976,ミミッキュＺ,mimikium-z--bag,unused,,XXX new effect for mimikium-z--bag
+977,ルガルガンＺ,lycanium-z--bag,unused,,XXX new effect for lycanium-z--bag
+978,ジャラランガＺ,kommonium-z--bag,unused,,XXX new effect for kommonium-z--bag
+979,Ｚパワーリング,z-power-ring,unused,,XXX new effect for z-power-ring
+980,ももいろはなびら,pink-petal,unused,,XXX new effect for pink-petal
+981,だいだいはなびら,orange-petal,unused,,XXX new effect for orange-petal
+982,あおのはなびら,blue-petal,unused,,XXX new effect for blue-petal
+983,あかのはなびら,red-petal,unused,,XXX new effect for red-petal
+984,みどりのはなびら,green-petal,unused,,XXX new effect for green-petal
+985,きいろのはなびら,yellow-petal,unused,,XXX new effect for yellow-petal
+986,むらさきはなびら,purple-petal,unused,,XXX new effect for purple-petal
+987,にじいろのはな,rainbow-flower,unused,,XXX new effect for rainbow-flower
+988,だいだいバッジ,surge-badge,unused,,XXX new effect for surge-badge
+989,ネクロプラスソル,n-solarizer--merge,unused,,XXX new effect for n-solarizer--merge
+990,ネクロプラスルナ,n-lunarizer--merge,unused,,XXX new effect for n-lunarizer--merge
+991,ネクロプラスソル,n-solarizer--split,unused,,XXX new effect for n-solarizer--split
+992,ネクロプラスルナ,n-lunarizer--split,unused,,XXX new effect for n-lunarizer--split
+993,イリマノーマルＺ,ilimas-normalium-z,unused,,XXX new effect for ilimas-normalium-z
+994,のこされたボール,left-poke-ball,unused,,XXX new effect for left-poke-ball
+995,タマゴふかポン,roto-hatch,unused,,XXX new effect for roto-hatch
+996,やすうりポン,roto-bargain,unused,,XXX new effect for roto-bargain
+997,おこづかいポン,roto-prize-money,unused,,XXX new effect for roto-prize-money
+998,けいけんポン,roto-exp-points,unused,,XXX new effect for roto-exp-points
+999,なつきポン,roto-friendship,unused,,XXX new effect for roto-friendship
+1000,みっけポン,roto-encounter,unused,,XXX new effect for roto-encounter
+1001,かくれポン,roto-stealth,unused,,XXX new effect for roto-stealth
+1002,ＨＰかいふくポン,roto-hp-restore,unused,,XXX new effect for roto-hp-restore
+1003,ＰＰかいふくポン,roto-pp-restore,unused,,XXX new effect for roto-pp-restore
+1004,おうえんポン,roto-boost,unused,,XXX new effect for roto-boost
+1005,つかまえポン,roto-catch,unused,,XXX new effect for roto-catch
+1006,マチスのサイン,autograph,unused,,
+1007,ポケモンボックス,pokemon-box,unused,,
+1008,かいふくポケット,medicine-pocket,unused,,
+1009,アメボトル,candy-jar,unused,,
+1010,きょうかポケット,power-up-pocket,unused,,
+1011,おきがえトランク,clothing-trunk,unused,,
+1012,ほかくポケット,catching-pocket,unused,,
+1013,バトルポケット,battle-pocket,unused,,
+1014,ぎんのズリのみ,silver-razz-berry,catching-bonus,10,
+1015,きんのズリのみ,golden-razz-berry,catching-bonus,10,
+1016,ぎんのナナのみ,silver-nanab-berry,catching-bonus,10,
+1017,きんのナナのみ,golden-nanab-berry,catching-bonus,10,
+1018,ぎんのパイルのみ,silver-pinap-berry,catching-bonus,10,
+1019,きんのパイルのみ,golden-pinap-berry,catching-bonus,10,
+1020,ひみつのカギ,secret-key--letsgo,plot-advancement,,
+1021,ふねのチケット,ss-ticket--letsgo,plot-advancement,,
+1022,おとどけもの,parcel--letsgo,plot-advancement,,
+1023,カードキー,card-key--letsgo,plot-advancement,,
+1024,のびたバネ,stretchy-spring,loot,30,
+1025,チョークいし,chalky-stone,loot,30,
+1026,ビーだま,marble,loot,30,
+1027,かたっぽピアス,lone-earring,loot,30,
+1028,うみべのガラス,beach-glass,loot,30,
+1029,きんのはっぱ,gold-leaf,loot,30,
+1030,ぎんのはっぱ,silver-leaf,loot,30,
+1031,ピカピカだんご,polished-mud-ball,loot,30,
+1032,なんごくかいがら,tropical-shell,loot,30,
+1033,このはのおてがみ,leaf-letter--pikachu,loot,30,
+1034,このはのおてがみ,leaf-letter--eevee,loot,30,
+1035,ちいさなはなたば,small-bouquet,loot,30,
+1036,むしよせコロン,lure,spelunking,30,
+1037,シルバーコロン,super-lure,spelunking,30,
+1038,ゴールドコロン,max-lure,spelunking,30,
+1039,ニビあられ,pewter-crunchies,status-cures,30,
+1040,げんきのアメ,health-candy,vitamins,,
+1041,ちからのアメ,mighty-candy,vitamins,,
+1042,まもりのアメ,tough-candy,vitamins,,
+1043,ちしきのアメ,smart-candy,vitamins,,
+1044,こころのアメ,courage-candy,vitamins,,
+1045,はやさのアメ,quick-candy,vitamins,,
+1046,げんきのアメＬ,health-candy-l,vitamins,,
+1047,ちからのアメＬ,mighty-candy-l,vitamins,,
+1048,まもりのアメＬ,tough-candy-l,vitamins,,
+1049,ちしきのアメＬ,smart-candy-l,vitamins,,
+1050,こころのアメＬ,courage-candy-l,vitamins,,
+1051,はやさのアメＬ,quick-candy-l,vitamins,,
+1052,げんきのアメＸＬ,health-candy-xl,vitamins,,
+1053,ちからのアメＸＬ,mighty-candy-xl,vitamins,,
+1054,まもりのアメＸＬ,tough-candy-xl,vitamins,,
+1055,ちしきのアメＸＬ,smart-candy-xl,vitamins,,
+1056,こころのアメＸＬ,courage-candy-xl,vitamins,,
+1057,はやさのアメＸＬ,quick-candy-xl,vitamins,,
+1058,フシギダネのアメ,bulbasaur-candy,species-candies,,
+1059,ヒトカゲのアメ,charmander-candy,species-candies,,
+1060,ゼニガメのアメ,squirtle-candy,species-candies,,
+1061,キャタピーのアメ,caterpie-candy,species-candies,,
+1062,ビードルのアメ,weedle-candy,species-candies,,
+1063,ポッポのアメ,pidgey-candy,species-candies,,
+1064,コラッタのアメ,rattata-candy,species-candies,,
+1065,オニスズメのアメ,spearow-candy,species-candies,,
+1066,アーボのアメ,ekans-candy,species-candies,,
+1067,ピカチュウのアメ,pikachu-candy,species-candies,,
+1068,サンドのアメ,sandshrew-candy,species-candies,,
+1069,ニドラン♀のアメ,nidoran-f-candy,species-candies,,
+1070,ニドラン♂のアメ,nidoran-m-candy,species-candies,,
+1071,ピッピのアメ,clefairy-candy,species-candies,,
+1072,ロコンのアメ,vulpix-candy,species-candies,,
+1073,プリンのアメ,jigglypuff-candy,species-candies,,
+1074,ズバットのアメ,zubat-candy,species-candies,,
+1075,ナゾノクサのアメ,oddish-candy,species-candies,,
+1076,パラスのアメ,paras-candy,species-candies,,
+1077,コンパンのアメ,venonat-candy,species-candies,,
+1078,ディグダのアメ,diglett-candy,species-candies,,
+1079,ニャースのアメ,meowth-candy,species-candies,,
+1080,コダックのアメ,psyduck-candy,species-candies,,
+1081,マンキーのアメ,mankey-candy,species-candies,,
+1082,ガーディのアメ,growlithe-candy,species-candies,,
+1083,ニョロモのアメ,poliwag-candy,species-candies,,
+1084,ケーシィのアメ,abra-candy,species-candies,,
+1085,ワンリキーのアメ,machop-candy,species-candies,,
+1086,マダツボミのアメ,bellsprout-candy,species-candies,,
+1087,メノクラゲのアメ,tentacool-candy,species-candies,,
+1088,イシツブテのアメ,geodude-candy,species-candies,,
+1089,ポニータのアメ,ponyta-candy,species-candies,,
+1090,ヤドンのアメ,slowpoke-candy,species-candies,,
+1091,コイルのアメ,magnemite-candy,species-candies,,
+1092,カモネギのアメ,farfetchd-candy,species-candies,,
+1093,ドードーのアメ,doduo-candy,species-candies,,
+1094,パウワウのアメ,seel-candy,species-candies,,
+1095,ベトベターのアメ,grimer-candy,species-candies,,
+1096,シェルダーのアメ,shellder-candy,species-candies,,
+1097,ゴースのアメ,gastly-candy,species-candies,,
+1098,イワークのアメ,onix-candy,species-candies,,
+1099,スリープのアメ,drowzee-candy,species-candies,,
+1100,クラブのアメ,krabby-candy,species-candies,,
+1101,ビリリダマのアメ,voltorb-candy,species-candies,,
+1102,タマタマのアメ,exeggcute-candy,species-candies,,
+1103,カラカラのアメ,cubone-candy,species-candies,,
+1104,サワムラーのアメ,hitmonlee-candy,species-candies,,
+1105,エビワラーのアメ,hitmonchan-candy,species-candies,,
+1106,ベロリンガのアメ,lickitung-candy,species-candies,,
+1107,ドガースのアメ,koffing-candy,species-candies,,
+1108,サイホーンのアメ,rhyhorn-candy,species-candies,,
+1109,ラッキーのアメ,chansey-candy,species-candies,,
+1110,モンジャラのアメ,tangela-candy,species-candies,,
+1111,ガルーラのアメ,kangaskhan-candy,species-candies,,
+1112,タッツーのアメ,horsea-candy,species-candies,,
+1113,トサキントのアメ,goldeen-candy,species-candies,,
+1114,ヒトデマンのアメ,staryu-candy,species-candies,,
+1115,バリヤードのアメ,mr-mime-candy,species-candies,,
+1116,ストライクのアメ,scyther-candy,species-candies,,
+1117,ルージュラのアメ,jynx-candy,species-candies,,
+1118,エレブーのアメ,electabuzz-candy,species-candies,,
+1119,カイロスのアメ,pinsir-candy,species-candies,,
+1120,ケンタロスのアメ,tauros-candy,species-candies,,
+1121,コイキングのアメ,magikarp-candy,species-candies,,
+1122,ラプラスのアメ,lapras-candy,species-candies,,
+1123,メタモンのアメ,ditto-candy,species-candies,,
+1124,イーブイのアメ,eevee-candy,species-candies,,
+1125,ポリゴンのアメ,porygon-candy,species-candies,,
+1126,オムナイトのアメ,omanyte-candy,species-candies,,
+1127,カブトのアメ,kabuto-candy,species-candies,,
+1128,プテラのアメ,aerodactyl-candy,species-candies,,
+1129,カビゴンのアメ,snorlax-candy,species-candies,,
+1130,フリーザーのアメ,articuno-candy,species-candies,,
+1131,サンダーのアメ,zapdos-candy,species-candies,,
+1132,ファイヤーのアメ,moltres-candy,species-candies,,
+1133,ミニリュウのアメ,dratini-candy,species-candies,,
+1134,ミュウツーのアメ,mewtwo-candy,species-candies,,
+1135,ミュウのアメ,mew-candy,species-candies,,
+1136,メルタンのアメ,meltan-candy,species-candies,,
+1137,ブーバーのアメ,magmar-candy,species-candies,,
+1138,すいせんじょう,endorsement,plot-advancement,,
+1139,ポケモンボックス,pokemon-box-link,gameplay,,
+1140,ねがいぼし,wishing-star,plot-advancement,,
+1141,ダイマックスＢ,dynamax-band,plot-advancement,,
+1142,つりざお,fishing-rod--galar,gameplay,,
+1143,ロトムじてんしゃ,rotom-bike,gameplay,,
+1144,あらびきヴルスト,sausages,curry-ingredients,10,
+1145,ボブのかんづめ,bobs-food-tin,curry-ingredients,80,
+1146,バックのかんづめ,bachs-food-tin,curry-ingredients,80,
+1147,マメかん,tin-of-beans,curry-ingredients,80,
+1148,しょくパン,bread,curry-ingredients,10,
+1149,パスタ,pasta,curry-ingredients,10,
+1150,キノコパック,mixed-mushrooms,curry-ingredients,10,
+1151,しっぽのくんせい,smoke-poke-tail,curry-ingredients,10,
+1152,ふといながねぎ,large-leek,curry-ingredients,20,
+1153,とくせんリンゴ,fancy-apple,curry-ingredients,20,
+1154,かぼそいホネ,brittle-bones,curry-ingredients,30,
+1155,ポテトパック,pack-of-potatoes,curry-ingredients,10,
+1156,みずべのハーブ,pungent-root,curry-ingredients,10,
+1157,やさいパック,salad-mix,curry-ingredients,10,
+1158,フライもりあわせ,fried-food,curry-ingredients,10,
+1159,ゆでタマゴ,boiled-egg,curry-ingredients,20,
+1160,キャンプセット,camping-gear,gameplay,,
+1161,くちたけん,rusted-sword,species-specific,,
+1162,くちたたて,rusted-shield,species-specific,,
+1163,カセキのトリ,fossilized-bird,dex-completion,100,
+1164,カセキのサカナ,fossilized-fish,dex-completion,100,
+1165,カセキのリュウ,fossilized-drake,dex-completion,100,
+1166,カセキのクビナガ,fossilized-dino,dex-completion,100,
+1167,いちごアメざいく,strawberry-sweet,evolution,10,
+1168,ハートアメざいく,love-sweet,evolution,10,
+1169,ベリーアメざいく,berry-sweet,evolution,10,
+1170,よつばアメざいく,clover-sweet,evolution,10,
+1171,おはなアメざいく,flower-sweet,evolution,10,
+1172,スターアメざいく,star-sweet,evolution,10,
+1173,リボンアメざいく,ribbon-sweet,evolution,10,
+1174,あまーいりんご,sweet-apple,evolution,30,
+1175,すっぱいりんご,tart-apple,evolution,30,
+1176,のどスプレー,throat-spray,held-items,30,
+1177,だっしゅつパック,eject-pack,held-items,50,
+1178,あつぞこブーツ,heavy-duty-boots,held-items,80,
+1179,からぶりほけん,blunder-policy,held-items,80,
+1180,ルームサービス,room-service,held-items,100,
+1181,ばんのうがさ,utility-umbrella,held-items,60,
+1182,けいけんアメＸＳ,exp-candy-xs,vitamins,30,
+1183,けいけんアメＳ,exp-candy-s,vitamins,30,
+1184,けいけんアメＭ,exp-candy-m,vitamins,30,
+1185,けいけんアメＬ,exp-candy-l,vitamins,30,
+1186,けいけんアメＸＬ,exp-candy-xl,vitamins,30,
+1187,ダイマックスアメ,dynamax-candy,vitamins,30,
+1188,わざレコード00,tr00,all-machines,10,
+1189,わざレコード01,tr01,all-machines,85,
+1190,わざレコード02,tr02,all-machines,90,
+1191,わざレコード03,tr03,all-machines,110,
+1192,わざレコード04,tr04,all-machines,90,
+1193,わざレコード05,tr05,all-machines,90,
+1194,わざレコード06,tr06,all-machines,110,
+1195,わざレコード07,tr07,all-machines,10,
+1196,わざレコード08,tr08,all-machines,90,
+1197,わざレコード09,tr09,all-machines,110,
+1198,わざレコード10,tr10,all-machines,100,
+1199,わざレコード11,tr11,all-machines,90,
+1200,わざレコード12,tr12,all-machines,10,
+1201,わざレコード13,tr13,all-machines,10,
+1202,わざレコード14,tr14,all-machines,10,
+1203,わざレコード15,tr15,all-machines,110,
+1204,わざレコード16,tr16,all-machines,80,
+1205,わざレコード17,tr17,all-machines,10,
+1206,わざレコード18,tr18,all-machines,80,
+1207,わざレコード19,tr19,all-machines,80,
+1208,わざレコード20,tr20,all-machines,10,
+1209,わざレコード21,tr21,all-machines,10,
+1210,わざレコード22,tr22,all-machines,90,
+1211,わざレコード23,tr23,all-machines,10,
+1212,わざレコード24,tr24,all-machines,120,
+1213,わざレコード25,tr25,all-machines,80,
+1214,わざレコード26,tr26,all-machines,10,
+1215,わざレコード27,tr27,all-machines,10,
+1216,わざレコード28,tr28,all-machines,120,
+1217,わざレコード29,tr29,all-machines,10,
+1218,わざレコード30,tr30,all-machines,10,
+1219,わざレコード31,tr31,all-machines,100,
+1220,わざレコード32,tr32,all-machines,80,
+1221,わざレコード33,tr33,all-machines,80,
+1222,わざレコード34,tr34,all-machines,120,
+1223,わざレコード35,tr35,all-machines,90,
+1224,わざレコード36,tr36,all-machines,95,
+1225,わざレコード37,tr37,all-machines,10,
+1226,わざレコード38,tr38,all-machines,10,
+1227,わざレコード39,tr39,all-machines,120,
+1228,わざレコード40,tr40,all-machines,10,
+1229,わざレコード41,tr41,all-machines,85,
+1230,わざレコード42,tr42,all-machines,90,
+1231,わざレコード43,tr43,all-machines,130,
+1232,わざレコード44,tr44,all-machines,10,
+1233,わざレコード45,tr45,all-machines,90,
+1234,わざレコード46,tr46,all-machines,10,
+1235,わざレコード47,tr47,all-machines,80,
+1236,わざレコード48,tr48,all-machines,10,
+1237,わざレコード49,tr49,all-machines,10,
+1238,わざレコード50,tr50,all-machines,90,
+1239,わざレコード51,tr51,all-machines,10,
+1240,わざレコード52,tr52,all-machines,10,
+1241,わざレコード53,tr53,all-machines,120,
+1242,わざレコード54,tr54,all-machines,10,
+1243,わざレコード55,tr55,all-machines,120,
+1244,わざレコード56,tr56,all-machines,80,
+1245,わざレコード57,tr57,all-machines,80,
+1246,わざレコード58,tr58,all-machines,80,
+1247,わざレコード59,tr59,all-machines,80,
+1248,わざレコード60,tr60,all-machines,80,
+1249,わざレコード61,tr61,all-machines,90,
+1250,わざレコード62,tr62,all-machines,85,
+1251,わざレコード63,tr63,all-machines,80,
+1252,わざレコード64,tr64,all-machines,120,
+1253,わざレコード65,tr65,all-machines,90,
+1254,わざレコード66,tr66,all-machines,120,
+1255,わざレコード67,tr67,all-machines,90,
+1256,わざレコード68,tr68,all-machines,10,
+1257,わざレコード69,tr69,all-machines,80,
+1258,わざレコード70,tr70,all-machines,80,
+1259,わざレコード71,tr71,all-machines,130,
+1260,わざレコード72,tr72,all-machines,120,
+1261,わざレコード73,tr73,all-machines,120,
+1262,わざレコード74,tr74,all-machines,80,
+1263,わざレコード75,tr75,all-machines,100,
+1264,わざレコード76,tr76,all-machines,10,
+1265,わざレコード77,tr77,all-machines,10,
+1266,わざレコード78,tr78,all-machines,95,
+1267,わざレコード79,tr79,all-machines,10,
+1268,わざレコード80,tr80,all-machines,10,
+1269,わざレコード81,tr81,all-machines,95,
+1270,わざレコード82,tr82,all-machines,20,
+1271,わざレコード83,tr83,all-machines,10,
+1272,わざレコード84,tr84,all-machines,80,
+1273,わざレコード85,tr85,all-machines,10,
+1274,わざレコード86,tr86,all-machines,90,
+1275,わざレコード87,tr87,all-machines,80,
+1276,わざレコード88,tr88,all-machines,10,
+1277,わざレコード89,tr89,all-machines,110,
+1278,わざレコード90,tr90,all-machines,90,
+1279,わざレコード91,tr91,all-machines,10,
+1280,わざレコード92,tr92,all-machines,80,
+1281,わざレコード93,tr93,all-machines,85,
+1282,わざレコード94,tr94,all-machines,95,
+1283,わざレコード95,tr95,all-machines,80,
+1284,わざレコード96,tr96,all-machines,90,
+1285,わざレコード97,tr97,all-machines,85,
+1286,わざレコード98,tr98,all-machines,85,
+1287,わざレコード99,tr99,all-machines,80,
+1288,わざマシン00,tm00,all-machines,,
+1289,さみしがりミント,lonely-mint,nature-mints,10,
+1290,いじっぱりミント,adamant-mint,nature-mints,10,
+1291,やんちゃミント,naughty-mint,nature-mints,10,
+1292,ゆうかんミント,brave-mint,nature-mints,10,
+1293,ずぶといミント,bold-mint,nature-mints,10,
+1294,わんぱくミント,impish-mint,nature-mints,10,
+1295,のうてんきミント,lax-mint,nature-mints,10,
+1296,のんきミント,relaxed-mint,nature-mints,10,
+1297,ひかえめミント,modest-mint,nature-mints,10,
+1298,おっとりミント,mild-mint,nature-mints,10,
+1299,うっかりやミント,rash-mint,nature-mints,10,
+1300,れいせいミント,quiet-mint,nature-mints,10,
+1301,おだやかミント,calm-mint,nature-mints,10,
+1302,おとなしいミント,gentle-mint,nature-mints,10,
+1303,しんちょうミント,careful-mint,nature-mints,10,
+1304,なまいきミント,sassy-mint,nature-mints,10,
+1305,おくびょうミント,timid-mint,nature-mints,10,
+1306,せっかちミント,hasty-mint,nature-mints,10,
+1307,ようきミント,jolly-mint,nature-mints,10,
+1308,むじゃきミント,naive-mint,nature-mints,10,
+1309,まじめミント,serious-mint,nature-mints,10,
+1310,ねがいのかたまり,wishing-piece,collectibles,50,
+1311,われたポット,cracked-pot,evolution,80,
+1312,かけたポット,chipped-pot,evolution,80,
+1313,すごいみみせん,hi-tech-earbuds,gameplay,,
+1314,フサパック,fruit-bunch,curry-ingredients,10,
+1315,モーモーチーズ,moomoo-cheese,curry-ingredients,20,
+1316,スパイスセット,spice-mix,curry-ingredients,50,
+1317,しんせんクリーム,fresh-cream,curry-ingredients,10,
+1318,レトルトカレー,packaged-curry,curry-ingredients,10,
+1319,ヤシのミルク,coconut-milk,curry-ingredients,10,
+1320,レトルトめん,instant-noodles,curry-ingredients,10,
+1321,レトルトバーグ,precooked-burger,curry-ingredients,10,
+1322,キョダイパウダー,gigantamix,curry-ingredients,50,
+1323,ねがいのかけら,wishing-chip,unused,,
+1324,ロトムじてんしゃ,rotom-bike--water-mode,unused,,
+1325,ゆれないおまもり,catching-charm,gameplay,,
+1326,ふるびたてがみ,old-letter,plot-advancement,,
+1327,バンドのサイン,band-autograph,unused,,
+1328,ソニアのほん,sonias-book,plot-advancement,,
+1329,ロトムのカタログ,rotom-catalog,gameplay,,
+1330,★And458,dynamax-crystal-and458,dynamax-crystals,,
+1331,★And15,dynamax-crystal-and15,dynamax-crystals,,
+1332,★And337,dynamax-crystal-and337,dynamax-crystals,,
+1333,★And603,dynamax-crystal-and603,dynamax-crystals,,
+1334,★And390,dynamax-crystal-and390,dynamax-crystals,,
+1335,★Sgr6879,dynamax-crystal-sgr6879,dynamax-crystals,,
+1336,★Sgr6859,dynamax-crystal-sgr6859,dynamax-crystals,,
+1337,★Sgr6913,dynamax-crystal-sgr6913,dynamax-crystals,,
+1338,★Sgr7348,dynamax-crystal-sgr7348,dynamax-crystals,,
+1339,★Sgr7121,dynamax-crystal-sgr7121,dynamax-crystals,,
+1340,★Sgr6746,dynamax-crystal-sgr6746,dynamax-crystals,,
+1341,★Sgr7194,dynamax-crystal-sgr7194,dynamax-crystals,,
+1342,★Sgr7337,dynamax-crystal-sgr7337,dynamax-crystals,,
+1343,★Sgr7343,dynamax-crystal-sgr7343,dynamax-crystals,,
+1344,★Sgr6812,dynamax-crystal-sgr6812,dynamax-crystals,,
+1345,★Sgr7116,dynamax-crystal-sgr7116,dynamax-crystals,,
+1346,★Sgr7264,dynamax-crystal-sgr7264,dynamax-crystals,,
+1347,★Sgr7597,dynamax-crystal-sgr7597,dynamax-crystals,,
+1348,★Del7882,dynamax-crystal-del7882,dynamax-crystals,,
+1349,★Del7906,dynamax-crystal-del7906,dynamax-crystals,,
+1350,★Del7852,dynamax-crystal-del7852,dynamax-crystals,,
+1351,★Psc596,dynamax-crystal-psc596,dynamax-crystals,,
+1352,★Psc361,dynamax-crystal-psc361,dynamax-crystals,,
+1353,★Psc510,dynamax-crystal-psc510,dynamax-crystals,,
+1354,★Psc437,dynamax-crystal-psc437,dynamax-crystals,,
+1355,★Psc8773,dynamax-crystal-psc8773,dynamax-crystals,,
+1356,★Lep1865,dynamax-crystal-lep1865,dynamax-crystals,,
+1357,★Lep1829,dynamax-crystal-lep1829,dynamax-crystals,,
+1358,★Boo5340,dynamax-crystal-boo5340,dynamax-crystals,,
+1359,★Boo5506,dynamax-crystal-boo5506,dynamax-crystals,,
+1360,★Boo5435,dynamax-crystal-boo5435,dynamax-crystals,,
+1361,★Boo5602,dynamax-crystal-boo5602,dynamax-crystals,,
+1362,★Boo5733,dynamax-crystal-boo5733,dynamax-crystals,,
+1363,★Boo5235,dynamax-crystal-boo5235,dynamax-crystals,,
+1364,★Boo5351,dynamax-crystal-boo5351,dynamax-crystals,,
+1365,★Hya3748,dynamax-crystal-hya3748,dynamax-crystals,,
+1366,★Hya3903,dynamax-crystal-hya3903,dynamax-crystals,,
+1367,★Hya3418,dynamax-crystal-hya3418,dynamax-crystals,,
+1368,★Hya3482,dynamax-crystal-hya3482,dynamax-crystals,,
+1369,★Hya3845,dynamax-crystal-hya3845,dynamax-crystals,,
+1370,★Eri1084,dynamax-crystal-eri1084,dynamax-crystals,,
+1371,★Eri472,dynamax-crystal-eri472,dynamax-crystals,,
+1372,★Eri1666,dynamax-crystal-eri1666,dynamax-crystals,,
+1373,★Eri897,dynamax-crystal-eri897,dynamax-crystals,,
+1374,★Eri1231,dynamax-crystal-eri1231,dynamax-crystals,,
+1375,★Eri874,dynamax-crystal-eri874,dynamax-crystals,,
+1376,★Eri1298,dynamax-crystal-eri1298,dynamax-crystals,,
+1377,★Eri1325,dynamax-crystal-eri1325,dynamax-crystals,,
+1378,★Eri984,dynamax-crystal-eri984,dynamax-crystals,,
+1379,★Eri1464,dynamax-crystal-eri1464,dynamax-crystals,,
+1380,★Eri1393,dynamax-crystal-eri1393,dynamax-crystals,,
+1381,★Eri850,dynamax-crystal-eri850,dynamax-crystals,,
+1382,★Tau1409,dynamax-crystal-tau1409,dynamax-crystals,,
+1383,★Tau1457,dynamax-crystal-tau1457,dynamax-crystals,,
+1384,★Tau1165,dynamax-crystal-tau1165,dynamax-crystals,,
+1385,★Tau1791,dynamax-crystal-tau1791,dynamax-crystals,,
+1386,★Tau1910,dynamax-crystal-tau1910,dynamax-crystals,,
+1387,★Tau1346,dynamax-crystal-tau1346,dynamax-crystals,,
+1388,★Tau1373,dynamax-crystal-tau1373,dynamax-crystals,,
+1389,★Tau1412,dynamax-crystal-tau1412,dynamax-crystals,,
+1390,★CMa2491,dynamax-crystal-cma2491,dynamax-crystals,,
+1391,★CMa2693,dynamax-crystal-cma2693,dynamax-crystals,,
+1392,★CMa2294,dynamax-crystal-cma2294,dynamax-crystals,,
+1393,★CMa2827,dynamax-crystal-cma2827,dynamax-crystals,,
+1394,★CMa2282,dynamax-crystal-cma2282,dynamax-crystals,,
+1395,★CMa2618,dynamax-crystal-cma2618,dynamax-crystals,,
+1396,★CMa2657,dynamax-crystal-cma2657,dynamax-crystals,,
+1397,★CMa2646,dynamax-crystal-cma2646,dynamax-crystals,,
+1398,★UMa4905,dynamax-crystal-uma4905,dynamax-crystals,,
+1399,★UMa4301,dynamax-crystal-uma4301,dynamax-crystals,,
+1400,★UMa5191,dynamax-crystal-uma5191,dynamax-crystals,,
+1401,★UMa5054,dynamax-crystal-uma5054,dynamax-crystals,,
+1402,★UMa4295,dynamax-crystal-uma4295,dynamax-crystals,,
+1403,★UMa4660,dynamax-crystal-uma4660,dynamax-crystals,,
+1404,★UMa4554,dynamax-crystal-uma4554,dynamax-crystals,,
+1405,★UMa4069,dynamax-crystal-uma4069,dynamax-crystals,,
+1406,★UMa3569,dynamax-crystal-uma3569,dynamax-crystals,,
+1407,★UMa3323,dynamax-crystal-uma3323,dynamax-crystals,,
+1408,★UMa4033,dynamax-crystal-uma4033,dynamax-crystals,,
+1409,★UMa4377,dynamax-crystal-uma4377,dynamax-crystals,,
+1410,★UMa4375,dynamax-crystal-uma4375,dynamax-crystals,,
+1411,★UMa4518,dynamax-crystal-uma4518,dynamax-crystals,,
+1412,★UMa3594,dynamax-crystal-uma3594,dynamax-crystals,,
+1413,★Vir5056,dynamax-crystal-vir5056,dynamax-crystals,,
+1414,★Vir4825,dynamax-crystal-vir4825,dynamax-crystals,,
+1415,★Vir4932,dynamax-crystal-vir4932,dynamax-crystals,,
+1416,★Vir4540,dynamax-crystal-vir4540,dynamax-crystals,,
+1417,★Vir4689,dynamax-crystal-vir4689,dynamax-crystals,,
+1418,★Vir5338,dynamax-crystal-vir5338,dynamax-crystals,,
+1419,★Vir4910,dynamax-crystal-vir4910,dynamax-crystals,,
+1420,★Vir5315,dynamax-crystal-vir5315,dynamax-crystals,,
+1421,★Vir5359,dynamax-crystal-vir5359,dynamax-crystals,,
+1422,★Vir5409,dynamax-crystal-vir5409,dynamax-crystals,,
+1423,★Vir5107,dynamax-crystal-vir5107,dynamax-crystals,,
+1424,★Ari617,dynamax-crystal-ari617,dynamax-crystals,,
+1425,★Ari553,dynamax-crystal-ari553,dynamax-crystals,,
+1426,★Ari546,dynamax-crystal-ari546,dynamax-crystals,,
+1427,★Ari951,dynamax-crystal-ari951,dynamax-crystals,,
+1428,★Ori1713,dynamax-crystal-ori1713,dynamax-crystals,,
+1429,★Ori2061,dynamax-crystal-ori2061,dynamax-crystals,,
+1430,★Ori1790,dynamax-crystal-ori1790,dynamax-crystals,,
+1431,★Ori1903,dynamax-crystal-ori1903,dynamax-crystals,,
+1432,★Ori1948,dynamax-crystal-ori1948,dynamax-crystals,,
+1433,★Ori2004,dynamax-crystal-ori2004,dynamax-crystals,,
+1434,★Ori1852,dynamax-crystal-ori1852,dynamax-crystals,,
+1435,★Ori1879,dynamax-crystal-ori1879,dynamax-crystals,,
+1436,★Ori1899,dynamax-crystal-ori1899,dynamax-crystals,,
+1437,★Ori1543,dynamax-crystal-ori1543,dynamax-crystals,,
+1438,★Cas21,dynamax-crystal-cas21,dynamax-crystals,,
+1439,★Cas168,dynamax-crystal-cas168,dynamax-crystals,,
+1440,★Cas403,dynamax-crystal-cas403,dynamax-crystals,,
+1441,★Cas153,dynamax-crystal-cas153,dynamax-crystals,,
+1442,★Cas542,dynamax-crystal-cas542,dynamax-crystals,,
+1443,★Cas219,dynamax-crystal-cas219,dynamax-crystals,,
+1444,★Cas265,dynamax-crystal-cas265,dynamax-crystals,,
+1445,★Cnc3572,dynamax-crystal-cnc3572,dynamax-crystals,,
+1446,★Cnc3208,dynamax-crystal-cnc3208,dynamax-crystals,,
+1447,★Cnc3461,dynamax-crystal-cnc3461,dynamax-crystals,,
+1448,★Cnc3449,dynamax-crystal-cnc3449,dynamax-crystals,,
+1449,★Cnc3429,dynamax-crystal-cnc3429,dynamax-crystals,,
+1450,★Cnc3627,dynamax-crystal-cnc3627,dynamax-crystals,,
+1451,★Cnc3268,dynamax-crystal-cnc3268,dynamax-crystals,,
+1452,★Cnc3249,dynamax-crystal-cnc3249,dynamax-crystals,,
+1453,★Com4968,dynamax-crystal-com4968,dynamax-crystals,,
+1454,★Crv4757,dynamax-crystal-crv4757,dynamax-crystals,,
+1455,★Crv4623,dynamax-crystal-crv4623,dynamax-crystals,,
+1456,★Crv4662,dynamax-crystal-crv4662,dynamax-crystals,,
+1457,★Crv4786,dynamax-crystal-crv4786,dynamax-crystals,,
+1458,★Aur1708,dynamax-crystal-aur1708,dynamax-crystals,,
+1459,★Aur2088,dynamax-crystal-aur2088,dynamax-crystals,,
+1460,★Aur1605,dynamax-crystal-aur1605,dynamax-crystals,,
+1461,★Aur2095,dynamax-crystal-aur2095,dynamax-crystals,,
+1462,★Aur1577,dynamax-crystal-aur1577,dynamax-crystals,,
+1463,★Aur1641,dynamax-crystal-aur1641,dynamax-crystals,,
+1464,★Aur1612,dynamax-crystal-aur1612,dynamax-crystals,,
+1465,★Pav7790,dynamax-crystal-pav7790,dynamax-crystals,,
+1466,★Cet911,dynamax-crystal-cet911,dynamax-crystals,,
+1467,★Cet681,dynamax-crystal-cet681,dynamax-crystals,,
+1468,★Cet188,dynamax-crystal-cet188,dynamax-crystals,,
+1469,★Cet539,dynamax-crystal-cet539,dynamax-crystals,,
+1470,★Cet804,dynamax-crystal-cet804,dynamax-crystals,,
+1471,★Cep8974,dynamax-crystal-cep8974,dynamax-crystals,,
+1472,★Cep8162,dynamax-crystal-cep8162,dynamax-crystals,,
+1473,★Cep8238,dynamax-crystal-cep8238,dynamax-crystals,,
+1474,★Cep8417,dynamax-crystal-cep8417,dynamax-crystals,,
+1475,★Cen5267,dynamax-crystal-cen5267,dynamax-crystals,,
+1476,★Cen5288,dynamax-crystal-cen5288,dynamax-crystals,,
+1477,★Cen551,dynamax-crystal-cen551,dynamax-crystals,,
+1478,★Cen5459,dynamax-crystal-cen5459,dynamax-crystals,,
+1479,★Cen5460,dynamax-crystal-cen5460,dynamax-crystals,,
+1480,★CMi2943,dynamax-crystal-cmi2943,dynamax-crystals,,
+1481,★CMi2845,dynamax-crystal-cmi2845,dynamax-crystals,,
+1482,★Equ8131,dynamax-crystal-equ8131,dynamax-crystals,,
+1483,★Vul7405,dynamax-crystal-vul7405,dynamax-crystals,,
+1484,★UMi424,dynamax-crystal-umi424,dynamax-crystals,,
+1485,★UMi5563,dynamax-crystal-umi5563,dynamax-crystals,,
+1486,★UMi5735,dynamax-crystal-umi5735,dynamax-crystals,,
+1487,★UMi6789,dynamax-crystal-umi6789,dynamax-crystals,,
+1488,★Crt4287,dynamax-crystal-crt4287,dynamax-crystals,,
+1489,★Lyr7001,dynamax-crystal-lyr7001,dynamax-crystals,,
+1490,★Lyr7178,dynamax-crystal-lyr7178,dynamax-crystals,,
+1491,★Lyr7106,dynamax-crystal-lyr7106,dynamax-crystals,,
+1492,★Lyr7298,dynamax-crystal-lyr7298,dynamax-crystals,,
+1493,★Ara6585,dynamax-crystal-ara6585,dynamax-crystals,,
+1494,★Sco6134,dynamax-crystal-sco6134,dynamax-crystals,,
+1495,★Sco6527,dynamax-crystal-sco6527,dynamax-crystals,,
+1496,★Sco6553,dynamax-crystal-sco6553,dynamax-crystals,,
+1497,★Sco5953,dynamax-crystal-sco5953,dynamax-crystals,,
+1498,★Sco5984,dynamax-crystal-sco5984,dynamax-crystals,,
+1499,★Sco6508,dynamax-crystal-sco6508,dynamax-crystals,,
+1500,★Sco6084,dynamax-crystal-sco6084,dynamax-crystals,,
+1501,★Sco5944,dynamax-crystal-sco5944,dynamax-crystals,,
+1502,★Sco6630,dynamax-crystal-sco6630,dynamax-crystals,,
+1503,★Sco6027,dynamax-crystal-sco6027,dynamax-crystals,,
+1504,★Sco6247,dynamax-crystal-sco6247,dynamax-crystals,,
+1505,★Sco6252,dynamax-crystal-sco6252,dynamax-crystals,,
+1506,★Sco5928,dynamax-crystal-sco5928,dynamax-crystals,,
+1507,★Sco6241,dynamax-crystal-sco6241,dynamax-crystals,,
+1508,★Sco6165,dynamax-crystal-sco6165,dynamax-crystals,,
+1509,★Tri544,dynamax-crystal-tri544,dynamax-crystals,,
+1510,★Leo3982,dynamax-crystal-leo3982,dynamax-crystals,,
+1511,★Leo4534,dynamax-crystal-leo4534,dynamax-crystals,,
+1512,★Leo4357,dynamax-crystal-leo4357,dynamax-crystals,,
+1513,★Leo4057,dynamax-crystal-leo4057,dynamax-crystals,,
+1514,★Leo4359,dynamax-crystal-leo4359,dynamax-crystals,,
+1515,★Leo4031,dynamax-crystal-leo4031,dynamax-crystals,,
+1516,★Leo3852,dynamax-crystal-leo3852,dynamax-crystals,,
+1517,★Leo3905,dynamax-crystal-leo3905,dynamax-crystals,,
+1518,★Leo3773,dynamax-crystal-leo3773,dynamax-crystals,,
+1519,★Gru8425,dynamax-crystal-gru8425,dynamax-crystals,,
+1520,★Gru8636,dynamax-crystal-gru8636,dynamax-crystals,,
+1521,★Gru8353,dynamax-crystal-gru8353,dynamax-crystals,,
+1522,★Lib5685,dynamax-crystal-lib5685,dynamax-crystals,,
+1523,★Lib5531,dynamax-crystal-lib5531,dynamax-crystals,,
+1524,★Lib5787,dynamax-crystal-lib5787,dynamax-crystals,,
+1525,★Lib5603,dynamax-crystal-lib5603,dynamax-crystals,,
+1526,★Pup3165,dynamax-crystal-pup3165,dynamax-crystals,,
+1527,★Pup3185,dynamax-crystal-pup3185,dynamax-crystals,,
+1528,★Pup3045,dynamax-crystal-pup3045,dynamax-crystals,,
+1529,★Cyg7924,dynamax-crystal-cyg7924,dynamax-crystals,,
+1530,★Cyg7417,dynamax-crystal-cyg7417,dynamax-crystals,,
+1531,★Cyg7796,dynamax-crystal-cyg7796,dynamax-crystals,,
+1532,★Cyg8301,dynamax-crystal-cyg8301,dynamax-crystals,,
+1533,★Cyg7949,dynamax-crystal-cyg7949,dynamax-crystals,,
+1534,★Cyg7528,dynamax-crystal-cyg7528,dynamax-crystals,,
+1535,★Oct7228,dynamax-crystal-oct7228,dynamax-crystals,,
+1536,★Col1956,dynamax-crystal-col1956,dynamax-crystals,,
+1537,★Col2040,dynamax-crystal-col2040,dynamax-crystals,,
+1538,★Col2177,dynamax-crystal-col2177,dynamax-crystals,,
+1539,★Gem2990,dynamax-crystal-gem2990,dynamax-crystals,,
+1540,★Gem2891,dynamax-crystal-gem2891,dynamax-crystals,,
+1541,★Gem2421,dynamax-crystal-gem2421,dynamax-crystals,,
+1542,★Gem2473,dynamax-crystal-gem2473,dynamax-crystals,,
+1543,★Gem2216,dynamax-crystal-gem2216,dynamax-crystals,,
+1544,★Gem2777,dynamax-crystal-gem2777,dynamax-crystals,,
+1545,★Gem2650,dynamax-crystal-gem2650,dynamax-crystals,,
+1546,★Gem2286,dynamax-crystal-gem2286,dynamax-crystals,,
+1547,★Gem2484,dynamax-crystal-gem2484,dynamax-crystals,,
+1548,★Gem2930,dynamax-crystal-gem2930,dynamax-crystals,,
+1549,★Peg8775,dynamax-crystal-peg8775,dynamax-crystals,,
+1550,★Peg8781,dynamax-crystal-peg8781,dynamax-crystals,,
+1551,★Peg39,dynamax-crystal-peg39,dynamax-crystals,,
+1552,★Peg8308,dynamax-crystal-peg8308,dynamax-crystals,,
+1553,★Peg8650,dynamax-crystal-peg8650,dynamax-crystals,,
+1554,★Peg8634,dynamax-crystal-peg8634,dynamax-crystals,,
+1555,★Peg8684,dynamax-crystal-peg8684,dynamax-crystals,,
+1556,★Peg8450,dynamax-crystal-peg8450,dynamax-crystals,,
+1557,★Peg8880,dynamax-crystal-peg8880,dynamax-crystals,,
+1558,★Peg8905,dynamax-crystal-peg8905,dynamax-crystals,,
+1559,★Oph6556,dynamax-crystal-oph6556,dynamax-crystals,,
+1560,★Oph6378,dynamax-crystal-oph6378,dynamax-crystals,,
+1561,★Oph6603,dynamax-crystal-oph6603,dynamax-crystals,,
+1562,★Oph6149,dynamax-crystal-oph6149,dynamax-crystals,,
+1563,★Oph6056,dynamax-crystal-oph6056,dynamax-crystals,,
+1564,★Oph6075,dynamax-crystal-oph6075,dynamax-crystals,,
+1565,★Ser5854,dynamax-crystal-ser5854,dynamax-crystals,,
+1566,★Ser7141,dynamax-crystal-ser7141,dynamax-crystals,,
+1567,★Ser5879,dynamax-crystal-ser5879,dynamax-crystals,,
+1568,★Her6406,dynamax-crystal-her6406,dynamax-crystals,,
+1569,★Her6148,dynamax-crystal-her6148,dynamax-crystals,,
+1570,★Her6410,dynamax-crystal-her6410,dynamax-crystals,,
+1571,★Her6526,dynamax-crystal-her6526,dynamax-crystals,,
+1572,★Her6117,dynamax-crystal-her6117,dynamax-crystals,,
+1573,★Her6008,dynamax-crystal-her6008,dynamax-crystals,,
+1574,★Per936,dynamax-crystal-per936,dynamax-crystals,,
+1575,★Per1017,dynamax-crystal-per1017,dynamax-crystals,,
+1576,★Per1131,dynamax-crystal-per1131,dynamax-crystals,,
+1577,★Per1228,dynamax-crystal-per1228,dynamax-crystals,,
+1578,★Per834,dynamax-crystal-per834,dynamax-crystals,,
+1579,★Per941,dynamax-crystal-per941,dynamax-crystals,,
+1580,★Phe99,dynamax-crystal-phe99,dynamax-crystals,,
+1581,★Phe338,dynamax-crystal-phe338,dynamax-crystals,,
+1582,★Vel3634,dynamax-crystal-vel3634,dynamax-crystals,,
+1583,★Vel3485,dynamax-crystal-vel3485,dynamax-crystals,,
+1584,★Vel3734,dynamax-crystal-vel3734,dynamax-crystals,,
+1585,★Aqr8232,dynamax-crystal-aqr8232,dynamax-crystals,,
+1586,★Aqr8414,dynamax-crystal-aqr8414,dynamax-crystals,,
+1587,★Aqr8709,dynamax-crystal-aqr8709,dynamax-crystals,,
+1588,★Aqr8518,dynamax-crystal-aqr8518,dynamax-crystals,,
+1589,★Aqr7950,dynamax-crystal-aqr7950,dynamax-crystals,,
+1590,★Aqr8499,dynamax-crystal-aqr8499,dynamax-crystals,,
+1591,★Aqr8610,dynamax-crystal-aqr8610,dynamax-crystals,,
+1592,★Aqr8264,dynamax-crystal-aqr8264,dynamax-crystals,,
+1593,★Cru4853,dynamax-crystal-cru4853,dynamax-crystals,,
+1594,★Cru4730,dynamax-crystal-cru4730,dynamax-crystals,,
+1595,★Cru4763,dynamax-crystal-cru4763,dynamax-crystals,,
+1596,★Cru4700,dynamax-crystal-cru4700,dynamax-crystals,,
+1597,★Cru4656,dynamax-crystal-cru4656,dynamax-crystals,,
+1598,★PsA8728,dynamax-crystal-psa8728,dynamax-crystals,,
+1599,★TrA6217,dynamax-crystal-tra6217,dynamax-crystals,,
+1600,★Cap7776,dynamax-crystal-cap7776,dynamax-crystals,,
+1601,★Cap7754,dynamax-crystal-cap7754,dynamax-crystals,,
+1602,★Cap8278,dynamax-crystal-cap8278,dynamax-crystals,,
+1603,★Cap8322,dynamax-crystal-cap8322,dynamax-crystals,,
+1604,★Cap7773,dynamax-crystal-cap7773,dynamax-crystals,,
+1605,★Sge7479,dynamax-crystal-sge7479,dynamax-crystals,,
+1606,★Car2326,dynamax-crystal-car2326,dynamax-crystals,,
+1607,★Car3685,dynamax-crystal-car3685,dynamax-crystals,,
+1608,★Car3307,dynamax-crystal-car3307,dynamax-crystals,,
+1609,★Car3699,dynamax-crystal-car3699,dynamax-crystals,,
+1610,★Dra5744,dynamax-crystal-dra5744,dynamax-crystals,,
+1611,★Dra5291,dynamax-crystal-dra5291,dynamax-crystals,,
+1612,★Dra6705,dynamax-crystal-dra6705,dynamax-crystals,,
+1613,★Dra6536,dynamax-crystal-dra6536,dynamax-crystals,,
+1614,★Dra7310,dynamax-crystal-dra7310,dynamax-crystals,,
+1615,★Dra6688,dynamax-crystal-dra6688,dynamax-crystals,,
+1616,★Dra4434,dynamax-crystal-dra4434,dynamax-crystals,,
+1617,★Dra6370,dynamax-crystal-dra6370,dynamax-crystals,,
+1618,★Dra7462,dynamax-crystal-dra7462,dynamax-crystals,,
+1619,★Dra6396,dynamax-crystal-dra6396,dynamax-crystals,,
+1620,★Dra6132,dynamax-crystal-dra6132,dynamax-crystals,,
+1621,★Dra6636,dynamax-crystal-dra6636,dynamax-crystals,,
+1622,★CVn4915,dynamax-crystal-cvn4915,dynamax-crystals,,
+1623,★CVn4785,dynamax-crystal-cvn4785,dynamax-crystals,,
+1624,★CVn4846,dynamax-crystal-cvn4846,dynamax-crystals,,
+1625,★Aql7595,dynamax-crystal-aql7595,dynamax-crystals,,
+1626,★Aql7557,dynamax-crystal-aql7557,dynamax-crystals,,
+1627,★Aql7525,dynamax-crystal-aql7525,dynamax-crystals,,
+1628,★Aql7602,dynamax-crystal-aql7602,dynamax-crystals,,
+1629,★Aql7235,dynamax-crystal-aql7235,dynamax-crystals,,
+1630,ダイミツ,max-honey,revival,30,
+1631,ダイキノコ,max-mushrooms,stat-boosts,30,
+1632,ガラナツのえだ,galarica-twig,collectibles,30,
+1633,ガラナツブレス,galarica-cuff,collectibles,30,
+1634,おしゃれカード,style-card,gameplay,,
+1635,ヨロイパス,armor-pass,plot-advancement,,
+1636,ロトムじてんしゃ,rotom-bike--sparkling-white,unused,,
+1637,ロトムじてんしゃ,rotom-bike--glistening-black,unused,,
+1638,けいけんおまもり,exp-charm,gameplay,,
+1639,ヨロイこうせき,armorite-ore,collectibles,30,
+1640,あかしのおまもり,mark-charm,gameplay,,
+1641,キズナのタヅナ,reins-of-unity--merge,unused,,
+1642,キズナのタヅナ,reins-of-unity--split,unused,,
+1643,ガラナツリース,galarica-wreath,collectibles,30,
+1644,でんせつのメモ1,legendary-clue-1,plot-advancement,,
+1645,でんせつのメモ2,legendary-clue-2,plot-advancement,,
+1646,でんせつのメモ3,legendary-clue-3,plot-advancement,,
+1647,でんせつのメモ？,legendary-clue-question,plot-advancement,,
+1648,カンムリパス,crown-pass,plot-advancement,,
+1649,きぼりのかんむり,wooden-crown,plot-advancement,,
+1650,かがやくはなびら,radiant-petal,plot-advancement,,
+1651,しろいたてがみ,white-mane-hair,plot-advancement,,
+1652,くろいたてがみ,black-mane-hair,plot-advancement,,
+1653,つめたいにんじん,iceroot-carrot,plot-advancement,,
+1654,くろいにんじん,shaderoot-carrot,plot-advancement,,
+1655,マックスこうせき,dynite-ore,collectibles,30,
+1656,にんじんのタネ,carrot-seeds,plot-advancement,,
+1657,とくせいパッチ,ability-patch,vitamins,,
+1658,キズナのタヅナ,reins-of-unity,plot-advancement,,
+1659,だいこんごうだま,adamant-crystal,gameplay,,
+1660,だいしらたま,lustrous-globe,gameplay,,
+1661,だいはっきんだま,griseous-core,gameplay,,
+1662,まっさらプレート,blank-plate,plates,,
+1663,ストレンジボール,strange-ball,event-items,,
+1664,レジェンドプレート,legend-plate,plates,,
+1665,スマホロトム,rotom-phone,event-items,,
+1666,サンドウィッチ,sandwich,event-items,,
+1667,コライドンのボール,koraidons-poke-ball,event-items,,
+1668,ミライドンのボール,miraidons-poke-ball,event-items,,
+1669,テラスタルオーブ,tera-orb,event-items,,
+1670,スカーレットブック,scarlet-book,event-items,,
+1671,バイオレットブック,violet-book,event-items,,
+1672,ハイダイのサイフ,kofus-wallet,plot-advancement,,
+1673,ちいさなタケノコ,tiny-bamboo-shoot,loot,,
+1674,おおきなタケノコ,big-bamboo-shoot,loot,,
+1675,あくのかけじく,scroll-of-darkness,gameplay,,
+1676,みずのかけじく,scroll-of-waters,gameplay,,
+1677,ノロイノヨロイ,malicious-armor,evolution,,
+1678,テラピースノーマル,normal-tera-shard,tera-shard,,
+1679,テラピースほのお,fire-tera-shard,tera-shard,,
+1680,テラピースみず,water-tera-shard,tera-shard,,
+1681,テラピースでんき,electric-tera-shard,tera-shard,,
+1682,テラピースくさ,grass-tera-shard,tera-shard,,
+1683,テラピースこおり,ice-tera-shard,tera-shard,,
+1684,テラピースかくとう,fighting-tera-shard,tera-shard,,
+1685,テラピースどく,poison-tera-shard,tera-shard,,
+1686,テラピースじめん,ground-tera-shard,tera-shard,,
+1687,テラピースひこう,flying-tera-shard,tera-shard,,
+1688,テラピースエスパー,psychic-tera-shard,tera-shard,,
+1689,テラピースむし,bug-tera-shard,tera-shard,,
+1690,テラピースいわ,rock-tera-shard,tera-shard,,
+1691,テラピースゴースト,ghost-tera-shard,tera-shard,,
+1692,テラピースドラゴン,dragon-tera-shard,tera-shard,,
+1693,テラピースあく,dark-tera-shard,tera-shard,,
+1694,テラピースはがね,steel-tera-shard,tera-shard,,
+1695,テラピースフェアリー,fairy-tera-shard,tera-shard,,
+1696,ブーストエナジー,booster-energy,held-items,,
+1697,とくせいガード,ability-shield,held-items,,
+1698,クリアチャーム,clear-amulet,held-items,,
+1699,ものまねハーブ,mirror-herb,held-items,,
+1700,パンチグローブ,punching-glove,held-items,,
+1701,おんみつマント,covert-cloak,held-items,,
+1702,いかさまダイス,loaded-dice,held-items,,
+1703,バケット,baguette,sandwich-ingredients,,
+1704,マヨネーズ,mayonnaise,sandwich-ingredients,,
+1705,ケチャップ,ketchup,sandwich-ingredients,,
+1706,マスタード,mustard,sandwich-ingredients,,
+1707,バター,butter,sandwich-ingredients,,
+1708,ピーナッツバター,peanut-butter,sandwich-ingredients,,
+1709,チリソース,chili-sauce,sandwich-ingredients,,
+1710,ソルト,salt,sandwich-ingredients,,
+1711,ペッパー,pepper,sandwich-ingredients,,
+1712,ヨーグルト,yogurt,sandwich-ingredients,,
+1713,ホイップクリーム,whipped-cream,sandwich-ingredients,,
+1714,クリームチーズ,cream-cheese,sandwich-ingredients,,
+1715,ベリージャム,jam,sandwich-ingredients,,
+1716,マーマレード,marmalade,sandwich-ingredients,,
+1717,オリーブオイル,olive-oil,sandwich-ingredients,,
+1718,ビネガー,vinegar,sandwich-ingredients,,
+1719,ひでん：あまスパイス,sweet-herba-mystica,sandwich-ingredients,,
+1720,ひでん：しおスパイス,salty-herba-mystica,sandwich-ingredients,,
+1721,ひでん：すぱスパイス,sour-herba-mystica,sandwich-ingredients,,
+1722,ひでん：にがスパイス,bitter-herba-mystica,sandwich-ingredients,,
+1723,ひでん：からスパイス,spicy-herba-mystica,sandwich-ingredients,,
+1724,レタス,lettuce,sandwich-ingredients,,
+1725,トマトスライス,tomato,sandwich-ingredients,,
+1726,カットミニトマト,cherry-tomatoes,sandwich-ingredients,,
+1727,キュウリスライス,cucumber,sandwich-ingredients,,
+1728,ピクルススライス,pickle,sandwich-ingredients,,
+1729,たまねぎスライス,onion,sandwich-ingredients,,
+1730,アーリーレッド,red-onion,sandwich-ingredients,,
+1731,ピーマンスライス,green-bell-pepper,sandwich-ingredients,,
+1732,あかパプリカスライス,red-bell-pepper,sandwich-ingredients,,
+1733,きパプリカスライス,yellow-bell-pepper,sandwich-ingredients,,
+1734,アボカド,avocado,sandwich-ingredients,,
+1735,やきベーコン,bacon,sandwich-ingredients,,
+1736,ハムスライス,ham,sandwich-ingredients,,
+1737,なまハム,prosciutto,sandwich-ingredients,,
+1738,やきチョリソー,chorizo,sandwich-ingredients,,
+1739,ハーブソーセージ,herbed-sausage,sandwich-ingredients,,
+1740,ハンバーグ,hamburger,sandwich-ingredients,,
+1741,ガケガニスティック,klawf-stick,sandwich-ingredients,,
+1742,スモークきりみ,smoked-fillet,sandwich-ingredients,,
+1743,きりみフライ,fried-fillet,sandwich-ingredients,,
+1744,スライスエッグ,egg,sandwich-ingredients,,
+1745,トルティージャ,potato-tortilla,sandwich-ingredients,,
+1746,トーフ,tofu,sandwich-ingredients,,
+1747,ライス,rice,sandwich-ingredients,,
+1748,ヌードル,noodles,sandwich-ingredients,,
+1749,ポテトサラダ,potato-salad,sandwich-ingredients,,
+1750,スライスチーズ,cheese,sandwich-ingredients,,
+1751,バナナスライス,banana,sandwich-ingredients,,
+1752,いちごスライス,strawberry,sandwich-ingredients,,
+1753,わぎりリンゴ,apple,sandwich-ingredients,,
+1754,わぎりキウイ,kiwi,sandwich-ingredients,,
+1755,カットパイン,pineapple,sandwich-ingredients,,
+1756,バラペーニョ,jalapeno,sandwich-ingredients,,
+1757,ホースラディッシュ,horseradish,sandwich-ingredients,,
+1758,カレーパウダー,curry-powder,sandwich-ingredients,,
+1759,ワサビソース,wasabi,sandwich-ingredients,,
+1760,クレソン,watercress,sandwich-ingredients,,
+1761,バジル,basil,sandwich-ingredients,,
+1762,コンパンのキバ,venonat-fang,tm-materials,,
+1763,ディグダのつち,diglett-dirt,tm-materials,,
+1764,ニャースのけ,meowth-fur,tm-materials,,
+1765,コダックのうもう,psyduck-down,tm-materials,,
+1766,マンキーのけ,mankey-fur,tm-materials,,
+1767,ガーディのけ,growlithe-fur,tm-materials,,
+1768,ヤドンのツメ,slowpoke-claw,tm-materials,,
+1769,コイルのねじ,magnemite-screw,tm-materials,,
+1770,ベトベターのどくそ,grimer-toxin,tm-materials,,
+1771,シェルダーのしんじゅ,shellder-pearl,tm-materials,,
+1772,ゴースのガス,gastly-gas,tm-materials,,
+1773,スリープのけ,drowzee-fur,tm-materials,,
+1774,ビリリダマのでんき,voltorb-sparks,tm-materials,,
+1775,ストライクのツメ,scyther-claw,tm-materials,,
+1776,ケンタロスのけ,tauros-hair,tm-materials,,
+1777,コイキングのウロコ,magikarp-scales,tm-materials,,
+1778,メタモンのべたべた,ditto-goo,tm-materials,,
+1779,イーブイのけ,eevee-fur,tm-materials,,
+1780,ミニリュウのウロコ,dratini-scales,tm-materials,,
+1781,ピチューのけ,pichu-fur,tm-materials,,
+1782,ププリンのけ,igglybuff-fluff,tm-materials,,
+1783,メリープのけだま,mareep-wool,tm-materials,,
+1784,ハネッコのはっぱ,hoppip-leaf,tm-materials,,
+1785,ヒマナッツのはっぱ,sunkern-leaf,tm-materials,,
+1786,ヤミカラスのおたから,murkrow-bauble,tm-materials,,
+1787,ムウマのなみだ,misdreavus-tears,tm-materials,,
+1788,キリンリキのけ,girafarig-fur,tm-materials,,
+1789,クヌギダマのから,pineco-husk,tm-materials,,
+1790,ノコッチのウロコ,dunsparce-scales,tm-materials,,
+1791,ハリーセンのトゲ,qwilfish-spines,tm-materials,,
+1792,ヘラクロスのツメ,heracross-claw,tm-materials,,
+1793,ニューラのツメ,sneasel-claw,tm-materials,,
+1794,ヒメグマのツメ,teddiursa-claw,tm-materials,,
+1795,デリバードのにもつ,delibird-parcel,tm-materials,,
+1796,デルビルのキバ,houndour-fang,tm-materials,,
+1797,ゴマゾウのツメ,phanpy-nail,tm-materials,,
+1798,オドシシのけ,stantler-hair,tm-materials,,
+1799,ヨーギラスのツメ,larvitar-claw,tm-materials,,
+1800,キャモメのはね,wingull-feather,tm-materials,,
+1801,ラルトスのおとしもの,ralts-dust,tm-materials,,
+1802,アメタマのミツ,surskit-syrup,tm-materials,,
+1803,キノココのほうし,shroomish-spores,tm-materials,,
+1804,ナマケロのけ,slakoth-fur,tm-materials,,
+1805,マクノシタのあせ,makuhita-sweat,tm-materials,,
+1806,ルリリのけ,azurill-fur,tm-materials,,
+1807,ヤミラミのほうせき,sableye-gem,tm-materials,,
+1808,アサナンのあせ,meditite-sweat,tm-materials,,
+1809,ゴクリンのねんえき,gulpin-mucus,tm-materials,,
+1810,ドンメルのようがん,numel-lava,tm-materials,,
+1811,コータスのせきたん,torkoal-coal,tm-materials,,
+1812,バネブーのしんじゅ,spoink-pearl,tm-materials,,
+1813,サボネアのトゲ,cacnea-needle,tm-materials,,
+1814,チルットのはね,swablu-fluff,tm-materials,,
+1815,ザングースのツメ,zangoose-claw,tm-materials,,
+1816,ハブネークのキバ,seviper-fang,tm-materials,,
+1817,ドジョッチのねんえき,barboach-slime,tm-materials,,
+1818,カゲボウズのきれはし,shuppet-scrap,tm-materials,,
+1819,トロピウスのはっぱ,tropius-leaf,tm-materials,,
+1820,ユキワラシのけ,snorunt-fur,tm-materials,,
+1821,ラブカスのウロコ,luvdisc-scales,tm-materials,,
+1822,タツベイのウロコ,bagon-scales,tm-materials,,
+1823,ムックルのはね,starly-feather,tm-materials,,
+1824,コロボーシのぬけがら,kricketot-shell,tm-materials,,
+1825,コリンクのキバ,shinx-fang,tm-materials,,
+1826,ミツハニーのミツ,combee-honey,tm-materials,,
+1827,パチリスのけ,pachirisu-fur,tm-materials,,
+1828,ブイゼルのけ,buizel-fur,tm-materials,,
+1829,カラナクシのねんえき,shellos-mucus,tm-materials,,
+1830,フワンテのガス,drifloon-gas,tm-materials,,
+1831,スカンプーのけ,stunky-fur,tm-materials,,
+1832,ドーミラーのかけら,bronzor-fragment,tm-materials,,
+1833,ウソハチのなみだ,bonsly-tears,tm-materials,,
+1834,ピンプクのおとしもの,happiny-dust,tm-materials,,
+1835,ミカルゲのかけら,spiritomb-fragment,tm-materials,,
+1836,フカマルのウロコ,gible-scales,tm-materials,,
+1837,リオルのけ,riolu-fur,tm-materials,,
+1838,ヒポポタスのすな,hippopotas-sand,tm-materials,,
+1839,グレッグルのどくそ,croagunk-poison,tm-materials,,
+1840,ケイコウオのウロコ,finneon-scales,tm-materials,,
+1841,ユキカブリのみ,snover-berries,tm-materials,,
+1842,ロトムのでんき,rotom-sparks,tm-materials,,
+1843,チュリネのはっぱ,petilil-leaf,tm-materials,,
+1844,バスラオのキバ,basculin-fang,tm-materials,,
+1845,メグロコのツメ,sandile-claw,tm-materials,,
+1846,ゾロアのけ,zorua-fur,tm-materials,,
+1847,ゴチムのまつげ,gothita-eyelash,tm-materials,,
+1848,シキジカのけ,deerling-hair,tm-materials,,
+1849,タマゲタケのほうし,foongus-spores,tm-materials,,
+1850,ママンボウのねんえき,alomomola-mucus,tm-materials,,
+1851,シビシラスのねんえき,tynamo-slime,tm-materials,,
+1852,キバゴのウロコ,axew-scales,tm-materials,,
+1853,クマシュンのけ,cubchoo-fur,tm-materials,,
+1854,フリージオのこおり,cryogonal-ice,tm-materials,,
+1855,コマタナのやいば,pawniard-blade,tm-materials,,
+1856,ワシボンのはね,rufflet-feather,tm-materials,,
+1857,モノズのウロコ,deino-scales,tm-materials,,
+1858,メラルバのけ,larvesta-fuzz,tm-materials,,
+1859,ヤヤコマのはね,fletchling-feather,tm-materials,,
+1860,コフキムシのこな,scatterbug-powder,tm-materials,,
+1861,シシコのたてがみ,litleo-tuft,tm-materials,,
+1862,フラベベのかふん,flabebe-pollen,tm-materials,,
+1863,メェークルのはっぱ,skiddo-leaf,tm-materials,,
+1864,クズモーのもくず,skrelp-kelp,tm-materials,,
+1865,ウデッポウのハサミ,clauncher-claw,tm-materials,,
+1866,ルチャブルのうもう,hawlucha-down,tm-materials,,
+1867,デデンネのけ,dedenne-fur,tm-materials,,
+1868,ヌメラのねんえき,goomy-goo,tm-materials,,
+1869,クレッフィのかぎ,klefki-key,tm-materials,,
+1870,カチコールのこおり,bergmite-ice,tm-materials,,
+1871,オンバットのけ,noibat-fur,tm-materials,,
+1872,ヤングースのけ,yungoos-fur,tm-materials,,
+1873,マケンカニのから,crabrawler-shell,tm-materials,,
+1874,オドリドリのはね,oricorio-feather,tm-materials,,
+1875,イワンコのいわ,rockruff-rock,tm-materials,,
+1876,ヒドイデのトゲ,mareanie-spike,tm-materials,,
+1877,ドロバンコのどろ,mudbray-mud,tm-materials,,
+1878,カリキリのはっぱ,fomantis-leaf,tm-materials,,
+1879,ヤトウモリのガス,salandit-gas,tm-materials,,
+1880,アマカジのあせ,bounsweet-sweat,tm-materials,,
+1881,ヤレユータンのけ,oranguru-fur,tm-materials,,
+1882,ナゲツケサルのけ,passimian-fur,tm-materials,,
+1883,スナバァのすな,sandygast-sand,tm-materials,,
+1884,ネッコアラのツメ,komala-claw,tm-materials,,
+1885,ミミッキュのきれはし,mimikyu-scrap,tm-materials,,
+1886,ハギギシリのは,bruxish-tooth,tm-materials,,
+1887,カムカメのツメ,chewtle-claw,tm-materials,,
+1888,ホシガリスのけ,skwovet-fur,tm-materials,,
+1889,サシカマスのウロコ,arrokuda-scales,tm-materials,,
+1890,ココガラのはね,rookidee-feather,tm-materials,,
+1891,エレズンのでんき,toxel-sparks,tm-materials,,
+1892,タイレーツのあせ,falinks-sweat,tm-materials,,
+1893,ゾウドウのさび,cufant-tarnish,tm-materials,,
+1894,タンドンのせきたん,rolycoly-coal,tm-materials,,
+1895,スナヘビのすな,silicobra-sand,tm-materials,,
+1896,イエッサンのけ,indeedee-fur,tm-materials,,
+1897,バチンウニのはり,pincurchin-spines,tm-materials,,
+1898,ユキハミのいと,snom-thread,tm-materials,,
+1899,ベロバーのけ,impidimp-hair,tm-materials,,
+1900,カジッチュのかじゅう,applin-juice,tm-materials,,
+1901,ヤバチャのかけら,sinistea-chip,tm-materials,,
+1902,ミブリムのおとしもの,hatenna-dust,tm-materials,,
+1903,イシヘンジンのいわ,stonjourner-stone,tm-materials,,
+1904,コオリッポのうもう,eiscue-down,tm-materials,,
+1905,ドラメシヤのこな,dreepy-powder,tm-materials,,
+1906,グルトンのけ,lechonk-hair,tm-materials,,
+1907,タマンチュラのいと,tarountula-thread,tm-materials,,
+1908,マメバッタのツメ,nymble-claw,tm-materials,,
+1909,シガロコのどろ,rellor-mud,tm-materials,,
+1910,ボチのろう,greavard-wax,tm-materials,,
+1911,ヒラヒナのうもう,flittle-down,tm-materials,,
+1912,ウミディグダのすな,wiglett-sand,tm-materials,,
+1913,ヘイラッシャのヒゲ,dondozo-whisker,tm-materials,,
+1914,ミガルーサのきりみ,veluza-fillet,tm-materials,,
+1915,ナミイルカのねんえき,finizen-mucus,tm-materials,,
+1916,ミニーブのオイル,smoliv-oil,tm-materials,,
+1917,カプサイジのたね,capsakid-seed,tm-materials,,
+1918,ズピカのねんえき,tadbulb-mucus,tm-materials,,
+1919,ブロロンのガス,varoom-fume,tm-materials,,
+1920,ミミズズのさび,orthworm-tarnish,tm-materials,,
+1921,ワッカネズミのけ,tandemaus-fur,tm-materials,,
+1922,アルクジラのあぶら,cetoddle-grease,tm-materials,,
+1923,セビエのウロコ,frigibax-scales,tm-materials,,
+1924,シャリタツのウロコ,tatsugiri-scales,tm-materials,,
+1925,モトトカゲのウロコ,cyclizar-scales,tm-materials,,
+1926,パモのけ,pawmi-fur,tm-materials,,
+1927,カイデンのはね,wattrel-feather,tm-materials,,
+1928,オトシドリのはね,bombirdier-feather,tm-materials,,
+1929,イキリンコのはね,squawkabilly-feather,tm-materials,,
+1930,カラミンゴのうもう,flamigo-down,tm-materials,,
+1931,ガケガニのハサミ,klawf-claw,tm-materials,,
+1932,コジオのしお,nacli-salt,tm-materials,,
+1933,キラーメのけっしょう,glimmet-crystal,tm-materials,,
+1934,シルシュルーのインク,shroodle-ink,tm-materials,,
+1935,パピモッチのけ,fidough-fur,tm-materials,,
+1936,オラチフのキバ,maschiff-fang,tm-materials,,
+1937,アノクサのえだ,bramblin-twig,tm-materials,,
+1938,コレクレーのコイン,gimmighoul-coin,tm-materials,,
+1939,カヌチャンのけ,tinkatink-hair,tm-materials,,
+1940,カルボウのすす,charcadet-soot,tm-materials,,
+1941,ノノクラゲのヒラヒラ,toedscool-flaps,tm-materials,,
+1942,ウパーのねんえき,wooper-slime,tm-materials,,
+1944,わざマシン101,tm101,all-machines,,
+1945,わざマシン102,tm102,all-machines,,
+1946,わざマシン103,tm103,all-machines,,
+1947,わざマシン104,tm104,all-machines,,
+1948,わざマシン105,tm105,all-machines,,
+1949,わざマシン106,tm106,all-machines,,
+1950,わざマシン107,tm107,all-machines,,
+1951,わざマシン108,tm108,all-machines,,
+1952,わざマシン109,tm109,all-machines,,
+1953,わざマシン110,tm110,all-machines,,
+1954,わざマシン111,tm111,all-machines,,
+1955,わざマシン112,tm112,all-machines,,
+1956,わざマシン113,tm113,all-machines,,
+1957,わざマシン114,tm114,all-machines,,
+1958,わざマシン115,tm115,all-machines,,
+1959,わざマシン116,tm116,all-machines,,
+1960,わざマシン117,tm117,all-machines,,
+1961,わざマシン118,tm118,all-machines,,
+1962,わざマシン119,tm119,all-machines,,
+1963,わざマシン120,tm120,all-machines,,
+1964,わざマシン121,tm121,all-machines,,
+1965,わざマシン122,tm122,all-machines,,
+1966,わざマシン123,tm123,all-machines,,
+1967,わざマシン124,tm124,all-machines,,
+1968,わざマシン125,tm125,all-machines,,
+1969,わざマシン126,tm126,all-machines,,
+1970,わざマシン127,tm127,all-machines,,
+1971,わざマシン128,tm128,all-machines,,
+1972,わざマシン129,tm129,all-machines,,
+1973,わざマシン130,tm130,all-machines,,
+1974,わざマシン131,tm131,all-machines,,
+1975,わざマシン132,tm132,all-machines,,
+1976,わざマシン133,tm133,all-machines,,
+1977,わざマシン134,tm134,all-machines,,
+1978,わざマシン135,tm135,all-machines,,
+1979,わざマシン136,tm136,all-machines,,
+1980,わざマシン137,tm137,all-machines,,
+1981,わざマシン138,tm138,all-machines,,
+1982,わざマシン139,tm139,all-machines,,
+1983,わざマシン140,tm140,all-machines,,
+1984,わざマシン141,tm141,all-machines,,
+1985,わざマシン142,tm142,all-machines,,
+1986,わざマシン143,tm143,all-machines,,
+1987,わざマシン144,tm144,all-machines,,
+1988,わざマシン145,tm145,all-machines,,
+1989,わざマシン146,tm146,all-machines,,
+1990,わざマシン147,tm147,all-machines,,
+1991,わざマシン148,tm148,all-machines,,
+1992,わざマシン149,tm149,all-machines,,
+1993,わざマシン150,tm150,all-machines,,
+1994,わざマシン151,tm151,all-machines,,
+1995,わざマシン152,tm152,all-machines,,
+1996,わざマシン153,tm153,all-machines,,
+1997,わざマシン154,tm154,all-machines,,
+1998,わざマシン155,tm155,all-machines,,
+1999,わざマシン156,tm156,all-machines,,
+2000,わざマシン157,tm157,all-machines,,
+2001,わざマシン158,tm158,all-machines,,
+2002,わざマシン159,tm159,all-machines,,
+2003,わざマシン160,tm160,all-machines,,
+2004,わざマシン161,tm161,all-machines,,
+2005,わざマシン162,tm162,all-machines,,
+2006,わざマシン163,tm163,all-machines,,
+2007,わざマシン164,tm164,all-machines,,
+2008,わざマシン165,tm165,all-machines,,
+2009,わざマシン166,tm166,all-machines,,
+2010,わざマシン167,tm167,all-machines,,
+2011,わざマシン168,tm168,all-machines,,
+2012,わざマシン169,tm169,all-machines,,
+2013,わざマシン170,tm170,all-machines,,
+2014,わざマシン171,tm171,all-machines,,
+2015,ピクニックセット,picnic-set,picnic,,
+2016,スクールボトル,academy-bottle,picnic,,
+2018,みずたまボトル,polka-dot-bottle,picnic,,
+2019,ストライプボトル,striped-bottle,picnic,,
+2020,ダイヤボトル,diamond-bottle,picnic,,
+2021,スクールカップ,academy-cup,picnic,,
+2023,たてストライプカップ,striped-cup,picnic,,
+2024,みずたまカップ,polka-dot-cup,picnic,,
+2025,フラワーカップ,flower-pattern-cup,picnic,,
+2026,スクールクロス,academy-tablecloth,picnic,,
+2028,ファンシークロス,whimsical-tablecloth,picnic,,
+2029,ネイチャークロス,leafy-tablecloth,picnic,,
+2030,うらめしクロス,spooky-tablecloth,picnic,,
+2031,スクールボール,academy-ball,picnic,,
+2033,マリルボール,marill-ball,picnic,,
+2034,けいとボール,yarn-ball,picnic,,
+2035,ゲーミングボール,cyber-ball,picnic,,
+2036,ゴールドピック,gold-pick,picnic,,
+2037,シルバーピック,silver-pick,picnic,,
+2038,あかいはたピック,red-flag-pick,picnic,,
+2039,あおいはたピック,blue-flag-pick,picnic,,
+2040,ピカピカピック,pika-pika-pick,picnic,,
+2041,パチピカピック,winking-pika-pick,picnic,,
+2042,ブイブイピック,vee-vee-pick,picnic,,
+2043,ニコブイピック,smiling-vee-pick,picnic,,
+2044,あおボールピック,blue-poke-ball-pick,picnic,,
+2045,イワイノヨロイ,auspicious-armor,picnic,,
+2046,かしらのしるし,leaders-crest,picnic,,
+2047,ピンクボトル,pink-bottle,picnic,,
+2048,ブルーボトル,blue-bottle,picnic,,
+2049,イエローボトル,yellow-bottle,picnic,,
+2050,Rステンレスボトル,steel-bottle-r,picnic,,
+2051,Yステンレスボトル,steel-bottle-y,picnic,,
+2052,Bステンレスボトル,steel-bottle-b,picnic,,
+2053,シルバーチタンボトル,silver-bottle,picnic,,
+2054,よこストライプカップ,barred-cup,picnic,,
+2055,ダイヤカップ,diamond-pattern-cup,picnic,,
+2056,ファイヤーカップ,fire-pattern-cup,picnic,,
+2057,ピンクカップ,pink-cup,picnic,,
+2058,ブルーカップ,blue-cup,picnic,,
+2059,イエローカップ,yellow-cup,picnic,,
+2060,ピカチュウカップ,pikachu-cup,picnic,,
+2061,イーブイカップ,eevee-cup,picnic,,
+2062,ヤドンカップ,slowpoke-cup,picnic,,
+2063,シルバーチタンカップ,silver-cup,picnic,,
+2064,バランスボール,exercise-ball,picnic,,
+2065,きいろチェッククロス,plaid-tablecloth-y,picnic,,
+2066,あおチェッククロス,plaid-tablecloth-b,picnic,,
+2067,あかチェッククロス,plaid-tablecloth-r,picnic,,
+2068,くさむらモノクロス,bw-grass-tablecloth,picnic,,
+2069,しょうぶクロス,battle-tablecloth,picnic,,
+2070,かいじゅうクロス,monstrous-tablecloth,picnic,,
+2071,ストライプクロス,striped-tablecloth,picnic,,
+2072,ダイヤクロス,diamond-tablecloth,picnic,,
+2073,みずたまクロス,polka-dot-tablecloth,picnic,,
+2074,パープルクロス,lilac-tablecloth,picnic,,
+2075,ミントクロス,mint-tablecloth,picnic,,
+2076,ベージュクロス,peach-tablecloth,picnic,,
+2077,イエロークロス,yellow-tablecloth,picnic,,
+2078,ブルークロス,blue-tablecloth,picnic,,
+2079,ピンククロス,pink-tablecloth,picnic,,
+2080,ゴールドチタンボトル,gold-bottle,picnic,,
+2081,ブロンズチタンボトル,bronze-bottle,picnic,,
+2082,ゴールドチタンカップ,gold-cup,picnic,,
+2083,ブロンズチタンカップ,bronze-cup,picnic,,
+2084,みどりボールピック,green-poke-ball-pick,picnic,,
+2085,あかボールピック,red-poke-ball-pick,picnic,,
+2086,おいわいはなびピック,party-sparkler-pick,picnic,,
+2087,ゆうしゃのけんピック,heroic-sword-pick,picnic,,
+2088,マジカルスターピック,magical-star-pick,picnic,,
+2089,マジカルハートピック,magical-heart-pick,picnic,,
+2090,パラソルピック,parasol-pick,picnic,,
+2091,あおぞらおはなピック,blue-sky-flower-pick,picnic,,
+2092,ゆうやけおはなピック,sunset-flower-pick,picnic,,
+2093,あさやけおはなピック,sunrise-flower-pick,picnic,,
+2094,ブループレート,blue-dish,picnic,,
+2095,グリーンプレート,green-dish,picnic,,
+2096,オレンジプレート,orange-dish,picnic,,
+2097,レッドプレート,red-dish,picnic,,
+2098,ホワイトプレート,white-dish,picnic,,
+2099,イエロープレート,yellow-dish,picnic,,
+2100,ロトりぼう,roto-stick,gameplay,,
+2101,おしゃれカードみどり,teal-style-card,gameplay,,
+2102,みどりのめん,teal-mask,event-items,,
+2103,きらめくおまもり,glimmering-charm,gameplay,,
+2104,けっしょうのかけら,crystal-cluster,event-items,,
+2105,ようせいのハネ,fairy-feather,held-items,,
+2106,いどのめん,wellspring-mask,held-items,,
+2107,かまどのめん,hearthflame-mask,held-items,,
+2108,いしずえのめん,cornerstone-mask,held-items,,
+2109,みついりりんご,syrupy-apple,evolution,,
+2110,ボンサクのちゃわん,unremarkable-teacup,evolution,,
+2111,ケッサクのちゃわん,masterpiece-teacup,evolution,,
+2112,たいりょくのもち,health-mochi,vitamins,,
+2113,きんりょくのもち,muscle-mochi,vitamins,,
+2114,ていこうのもち,resist-mochi,vitamins,,
+2115,ちりょくのもち,genius-mochi,vitamins,,
+2116,せいしんのもち,clever-mochi,vitamins,,
+2117,しゅんぱつのもち,swift-mochi,vitamins,,
+2118,まっさらもち,fresh-start-mochi,vitamins,,
+2119,アーボのきば,ekans-fang,tm-materials,,
+2120,サンドのツメ,sandshrew-claw,tm-materials,,
+2121,ピィのけ,cleffa-fur,tm-materials,,
+2122,ロコンのけ,vulpix-fur,tm-materials,,
+2123,ニョロモのめんえき,poliwag-slime,tm-materials,,
+2124,マダツボミのツル,bellsprout-vine,tm-materials,,
+2125,イシツブテのかけら,geodude-fragment,tm-materials,,
+2126,ドガースのガス,koffing-gas,tm-materials,,
+2127,ゴンベのキバ,munchlax-fang,tm-materials,,
+2128,オタチのけ,sentret-fur,tm-materials,,
+2129,ホーホーのはね,hoothoot-feather,tm-materials,,
+2130,イトマルのいと,spinarak-thread,tm-materials,,
+2131,エイパムのけ,aipom-hair,tm-materials,,
+2132,ヤンヤンマのトゲ,yanma-spike,tm-materials,,
+2133,グライガーのキバ,gligar-fang,tm-materials,,
+2134,マグマッグのようがん,slugma-lava,tm-materials,,
+2135,ウリムーのけ,swinub-hair,tm-materials,,
+2136,ポチエナのキバ,poochyena-fang,tm-materials,,
+2137,ハスボーのはっぱ,lotad-leaf,tm-materials,,
+2138,タネボーのえだ,seedot-stem,tm-materials,,
+2139,ノズパスのかけら,nosepass-fragment,tm-materials,,
+2140,バルビートのしる,volbeat-fluid,tm-materials,,
+2141,イルミーゼのしる,illumise-fluid,tm-materials,,
+2142,ヘイガニのから,corphish-shell,tm-materials,,
+2143,ヒンバスのうろこ,feebas-scales,tm-materials,,
+2144,ヨマワルのかけら,duskull-fragment,tm-materials,,
+2145,リーシャンのかけら,chingling-fragment,tm-materials,,
+2146,ドッコラーのあせ,timburr-sweat,tm-materials,,
+2147,クルミルのはっぱ,sewaddle-leaf,tm-materials,,
+2148,コアルヒーのはね,ducklett-feather,tm-materials,,
+2149,ヒトモシのすす,litwick-soot,tm-materials,,
+2150,コジョフーのツメ,mienfoo-claw,tm-materials,,
+2151,バルチャイのはね,vullaby-feather,tm-materials,,
+2152,メレシーのほうせき,carbink-jewel,tm-materials,,
+2153,ボクレーのえだ,phantump-twig,tm-materials,,
+2154,アゴジムシのいと,grubbin-thread,tm-materials,,
+2155,アブリーのこな,cutiefly-powder,tm-materials,,
+2156,ジャラコのウロコ,jangmo-o-scales,tm-materials,,
+2157,ウッウのうもう,cramorant-down,tm-materials,,
+2158,モルペコのたね,morpeko-snack,tm-materials,,
+2159,チャデスのこな,poltchageist-powder,tm-materials,,
+2160, つながりのヒモ,linking-cord,evolution,,Allows a Pokemon whose evolution is usually triggered by trading to evolve
+2161,わざマシン172,tm172,all-machines,,
+2162,わざマシン173,tm173,all-machines,,
+2163,わざマシン174,tm174,all-machines,,
+2164,わざマシン175,tm175,all-machines,,
+2165,わざマシン176,tm176,all-machines,,
+2166,わざマシン177,tm177,all-machines,,
+2167,わざマシン178,tm178,all-machines,,
+2168,わざマシン179,tm179,all-machines,,
+2169,わざマシン180,tm180,all-machines,,
+2170,わざマシン181,tm181,all-machines,,
+2171,わざマシン182,tm182,all-machines,,
+2172,わざマシン183,tm183,all-machines,,
+2173,わざマシン184,tm184,all-machines,,
+2174,わざマシン185,tm185,all-machines,,
+2175,わざマシン186,tm186,all-machines,,
+2176,わざマシン187,tm187,all-machines,,
+2177,わざマシン188,tm188,all-machines,,
+2178,わざマシン189,tm189,all-machines,,
+2179,わざマシン190,tm190,all-machines,,
+2180,わざマシン191,tm191,all-machines,,
+2181,わざマシン192,tm192,all-machines,,
+2182,わざマシン193,tm193,all-machines,,
+2183,わざマシン194,tm194,all-machines,,
+2184,わざマシン195,tm195,all-machines,,
+2185,わざマシン196,tm196,all-machines,,
+2186,わざマシン197,tm197,all-machines,,
+2187,わざマシン198,tm198,all-machines,,
+2188,わざマシン199,tm199,all-machines,,
+2189,わざマシン200,tm200,all-machines,,
+2190,わざマシン201,tm201,all-machines,,
+2191,わざマシン202,tm202,all-machines,,
+2192,わざマシン203,tm203,all-machines,,
+2193,わざマシン204,tm204,all-machines,,
+2194,わざマシン205,tm205,all-machines,,
+2195,わざマシン206,tm206,all-machines,,
+2196,わざマシン207,tm207,all-machines,,
+2197,わざマシン208,tm208,all-machines,,
+2198,わざマシン209,tm209,all-machines,,
+2199,わざマシン210,tm210,all-machines,,
+2200,わざマシン211,tm211,all-machines,,
+2201,わざマシン212,tm212,all-machines,,
+2202,わざマシン213,tm213,all-machines,,
+2203,わざマシン214,tm214,all-machines,,
+2204,わざマシン215,tm215,all-machines,,
+2205,わざマシン216,tm216,all-machines,,
+2206,わざマシン217,tm217,all-machines,,
+2207,わざマシン218,tm218,all-machines,,
+2208,わざマシン219,tm219,all-machines,,
+2209,わざマシン220,tm220,all-machines,,
+2210,わざマシン221,tm221,all-machines,,
+2211,わざマシン222,tm222,all-machines,,
+2212,わざマシン223,tm223,all-machines,,
+2213,わざマシン224,tm224,all-machines,,
+2214,わざマシン225,tm225,all-machines,,
+2215,わざマシン226,tm226,all-machines,,
+2216,わざマシン227,tm227,all-machines,,
+2217,わざマシン228,tm228,all-machines,,
+2218,わざマシン229,tm229,all-machines,,
+2219,,lastrange-ball,standard-balls,,
+2220,,lapoke-ball,standard-balls,,
+2221,,lagreat-ball,standard-balls,,
+2222,,laultra-ball,standard-balls,,
+2223,,laheavy-ball,standard-balls,,
+2224,,laleaden-ball,standard-balls,,
+2225,,lagigaton-ball,standard-balls,,
+2226,,lafeather-ball,standard-balls,,
+2227,,lawing-ball,standard-balls,,
+2228,,lajet-ball,standard-balls,,
+2229,,laorigin-ball,standard-balls,,
+2230,,black-augurite,evolution,,
+2231,,peat-block,evolution,,
+2232,,metal-alloy,evolution,,
