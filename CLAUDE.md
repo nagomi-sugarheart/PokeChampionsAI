@@ -21,8 +21,6 @@
 - team building guide.md：ポケモンの構築の基本的な組み方をまとめたもの
 
 ## B. GitHubリポジトリ（ライブ・毎日更新）
-以下はナレッジに含まれていません。**会話の中で必要な場合はGitHub連携経由で都度最新を取得してください。**
-- リポジトリ：`nagomi-sugarheart/PokeChampionsAI`
 - `UsedRanking/current_single.json`：現シーズンの使用率上位ポケモンの技/特性/性格/持ち物/能力P配分（最新版）
 - `UsedRanking/history/{YYYY-MM-DD}.json`：日付ごとのスナップショット（推移を見たい場合に使用）
 
