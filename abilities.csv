@@ -10,7 +10,7 @@
 9,せいでんき,static,第三世代,Has a 30% chance of paralyzing attacking Pokémon on contact.
 10,ちくでん,volt-absorb,第三世代,"Absorbs Electric moves, healing for 1/4 max HP."
 11,ちょすい,water-absorb,第三世代,"Absorbs Water moves, healing for 1/4 max HP."
-12,どんかん,oblivious,第三世代,Prevents infatuation and protects against Captivate.
+12,どんかん,oblivious,第三世代,Prevents infatuation and protects against Captivate. Also prevents Taunt and is unaffected by Intimidate.
 13,ノーてんき,cloud-nine,第三世代,"Negates all effects of weather, but does not prevent the weather itself."
 14,ふくがん,compound-eyes,第三世代,Increases moves' accuracy to 1.3×.
 15,ふみん,insomnia,第三世代,Prevents sleep.
